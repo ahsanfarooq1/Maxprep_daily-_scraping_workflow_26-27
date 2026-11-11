@@ -84,8 +84,9 @@ jobs:
         if: always()
         run: |
           for f in "Scraped data 2026-27/_logs"/*.log; do
-            [ -f "$f" ] && echo "== $(basename "$f" .log): $(grep -E 'Done |ABORT|Traceback|Stats tab:' "$f" | tail -4 | cut -c1-200 | tr '
-' '|')"
+            [ -f "$f" ] || continue
+            echo "== $(basename "$f" .log)"
+            grep -E 'Done |ABORT|Traceback|Stats tab:' "$f" | tail -4 | cut -c1-200
           done
 
       - name: Commit data
