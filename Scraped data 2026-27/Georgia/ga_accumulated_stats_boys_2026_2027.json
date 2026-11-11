@@ -2320,11 +2320,10 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 3,
-        "TotalGamesChecked": 4,
         "MPG": 0.0,
         "PPG": 48.0,
         "DEFR": 0.0,
@@ -2372,7 +2371,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "C. Hoffman(Sr)",
         "GP": 3,
@@ -2423,7 +2422,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "E. Vernon(Sr)",
         "GP": 2,
@@ -2474,7 +2473,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "J. Manginelli(Sr)",
         "GP": 3,
@@ -2525,7 +2524,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "N. Butts(Jr)",
         "GP": 3,
@@ -2576,7 +2575,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "T. Butts(So)",
         "GP": 3,
@@ -2627,7 +2626,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "D. Tolley(Jr)",
         "GP": 3,
@@ -2678,7 +2677,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "M. Ross(So)",
         "GP": 2,
@@ -2729,7 +2728,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "J. Elrod(So)",
         "GP": 3,
@@ -2780,7 +2779,7 @@
     },
     {
         "team_id": "ga/marietta/the-stonehaven-school-knights/basketball",
-        "team_name": "The Stonehaven School Knights",
+        "team_name": "The Stonehaven School",
         "record_type": "player",
         "Name": "S. Melton(So)",
         "GP": 1,
@@ -6178,11 +6177,10 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
-        "TotalGamesChecked": 3,
         "MPG": 0.0,
         "PPG": 92.5,
         "DEFR": 0.0,
@@ -6230,7 +6228,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "C. Palmore(So)",
         "GP": 2,
@@ -6281,7 +6279,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "A. Ali(So)",
         "GP": 2,
@@ -6332,7 +6330,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "A. Campbell(Sr)",
         "GP": 2,
@@ -6383,7 +6381,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "G. Goodhall(Jr)",
         "GP": 2,
@@ -6434,7 +6432,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "D. Morris(Fr)",
         "GP": 1,
@@ -6485,7 +6483,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "J. Johnson(Fr)",
         "GP": 1,
@@ -6536,7 +6534,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "T. Parker(Sr)",
         "GP": 2,
@@ -6587,7 +6585,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "B. Summerville(Fr)",
         "GP": 1,
@@ -6638,7 +6636,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "Z. Davis(Jr)",
         "GP": 1,
@@ -6689,7 +6687,7 @@
     },
     {
         "team_id": "ga/conyers/hills-academy-knights/basketball",
-        "team_name": "Hills Academy Knights",
+        "team_name": "Hills Academy",
         "record_type": "player",
         "Name": "D. Petty(So)",
         "GP": 1,
@@ -12214,11 +12212,10 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
-        "TotalGamesChecked": 3,
         "MPG": 0.0,
         "PPG": 63.5,
         "DEFR": 18.5,
@@ -12266,7 +12263,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "A. Wilson(Sr)",
         "GP": 2,
@@ -12317,7 +12314,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "H. Siddiqui(Sr)",
         "GP": 2,
@@ -12368,7 +12365,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "N. Dorsett(Sr)",
         "GP": 2,
@@ -12419,7 +12416,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "C. Ferguson(Jr)",
         "GP": 2,
@@ -12470,7 +12467,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "J. Benjamin(So)",
         "GP": 2,
@@ -12521,7 +12518,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "J. Mosley(Jr)",
         "GP": 2,
@@ -12572,7 +12569,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "L. Domino(Sr)",
         "GP": 2,
@@ -12623,7 +12620,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "A. Schubert(Sr)",
         "GP": 1,
@@ -12674,7 +12671,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "Z. Nelson(So)",
         "GP": 2,
@@ -12725,7 +12722,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "B. Talbot(Sr)",
         "GP": 2,
@@ -12776,7 +12773,7 @@
     },
     {
         "team_id": "ga/atlanta/lakeside-vikings/basketball",
-        "team_name": "Lakeside Vikings",
+        "team_name": "Lakeside",
         "record_type": "player",
         "Name": "G. Miller(So)",
         "GP": 1,
@@ -28628,11 +28625,10 @@
     },
     {
         "team_id": "ga/cave-spring/georgia-school-for-the-deaf-tigers/basketball",
-        "team_name": "Georgia School For The Deaf Tigers",
+        "team_name": "Georgia School for the Deaf",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -33196,7 +33192,7 @@
     },
     {
         "team_id": "ga/locust-grove/abundant-life-christian-academy-lions/basketball",
-        "team_name": "Abundant Life Christian Academy Lions",
+        "team_name": "Abundant Life Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -34652,7 +34648,7 @@
     },
     {
         "team_id": "ga/winder/barrow-arts-and-sciences-academy-blazers/basketball",
-        "team_name": "Barrow Arts And Sciences Academy Blazers",
+        "team_name": "Barrow Arts and Sciences Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35016,7 +35012,7 @@
     },
     {
         "team_id": "ga/statesboro/bible-baptist-christian-wolves/basketball",
-        "team_name": "Bible Baptist Christian Wolves",
+        "team_name": "Bible Baptist Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35380,7 +35376,7 @@
     },
     {
         "team_id": "ga/sandersville/brentwood-war-eagles/basketball",
-        "team_name": "Brentwood War Eagles",
+        "team_name": "Brentwood",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -36212,7 +36208,7 @@
     },
     {
         "team_id": "ga/savannah/calvary-baptist-cavaliers/basketball",
-        "team_name": "Calvary Baptist Cavaliers",
+        "team_name": "Calvary Baptist",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -36472,7 +36468,7 @@
     },
     {
         "team_id": "ga/gordon/candc-cdes-academy-wolves/basketball",
-        "team_name": "Candc Cdes Academy Wolves",
+        "team_name": "C&C CDES Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -36992,7 +36988,7 @@
     },
     {
         "team_id": "ga/macon/central-fellowship-christian-academy-lancers/basketball",
-        "team_name": "Central Fellowship Christian Academy Lancers",
+        "team_name": "Central Fellowship Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38292,7 +38288,7 @@
     },
     {
         "team_id": "ga/moultrie/colquitt-christian-academy-cavaliers/basketball",
-        "team_name": "Colquitt Christian Academy Cavaliers",
+        "team_name": "Colquitt Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38760,7 +38756,7 @@
     },
     {
         "team_id": "ga/marietta/covenant-christian-ministries-academy-crusaders/basketball",
-        "team_name": "Covenant Christian Ministries Academy Crusaders",
+        "team_name": "Covenant Christian Ministries Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -39384,7 +39380,7 @@
     },
     {
         "team_id": "ga/austell/cumberland-christian-academy-patriot/basketball",
-        "team_name": "Cumberland Christian Academy Patriot",
+        "team_name": "Cumberland Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -41828,7 +41824,7 @@
     },
     {
         "team_id": "ga/douglas/first-academy-lions/basketball",
-        "team_name": "First Academy Lions",
+        "team_name": "First Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -42400,7 +42396,7 @@
     },
     {
         "team_id": "ga/decatur/fugees-academy-fugees/basketball",
-        "team_name": "Fugees Academy Fugees",
+        "team_name": "Fugees Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -42504,7 +42500,7 @@
     },
     {
         "team_id": "ga/east-point/fulton-leadership-academy-gryphons/basketball",
-        "team_name": "Fulton Leadership Academy Gryphons",
+        "team_name": "Fulton Leadership Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -42920,7 +42916,7 @@
     },
     {
         "team_id": "ga/macon/georgia-academy-for-the-blind-panthers/basketball",
-        "team_name": "Georgia Academy For The Blind Panthers",
+        "team_name": "Georgia Academy for the Blind",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -44896,7 +44892,7 @@
     },
     {
         "team_id": "ga/ringgold/heritage-generals/basketball",
-        "team_name": "Heritage Generals",
+        "team_name": "Heritage",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -45572,7 +45568,7 @@
     },
     {
         "team_id": "ga/macon/howard-huskies/basketball",
-        "team_name": "Howard Huskies",
+        "team_name": "Howard",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -45624,7 +45620,7 @@
     },
     {
         "team_id": "ga/college-park/impact-leadership-christian-academy-grizzly/basketball",
-        "team_name": "Impact Leadership Christian Academy Grizzly",
+        "team_name": "Impact Leadership Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -50564,7 +50560,7 @@
     },
     {
         "team_id": "ga/griffin/new-horizons-new-directions-preparatory-academy-warriors/basketball",
-        "team_name": "New Horizons New Directions Preparatory Academy Warriors",
+        "team_name": "New Horizons New Directions Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -51084,7 +51080,7 @@
     },
     {
         "team_id": "ga/gainesville/north-georgia-christian-the-chargers/basketball",
-        "team_name": "North Georgia Christian The Chargers",
+        "team_name": "North Georgia Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -52280,7 +52276,7 @@
     },
     {
         "team_id": "ga/suwanee/peachtree-baptist-academy-trailblazers/basketball",
-        "team_name": "Peachtree Baptist Academy Trailblazers",
+        "team_name": "Peachtree Baptist Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53268,7 +53264,7 @@
     },
     {
         "team_id": "ga/lilburn/providence-christian-academy-storm/basketball",
-        "team_name": "Providence Christian Academy Storm",
+        "team_name": "Providence Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53320,7 +53316,7 @@
     },
     {
         "team_id": "ga/savannah/providence-christian-lions/basketball",
-        "team_name": "Providence Christian Lions",
+        "team_name": "Providence Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53736,7 +53732,7 @@
     },
     {
         "team_id": "ga/alto/river-christian-royals/basketball",
-        "team_name": "River Christian Royals",
+        "team_name": "River Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -54464,7 +54460,7 @@
     },
     {
         "team_id": "ga/bloomingdale/savannah-athletic-association-jaguars/basketball",
-        "team_name": "Savannah Athletic Association Jaguars",
+        "team_name": "Savannah Athletic Association",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -54672,7 +54668,7 @@
     },
     {
         "team_id": "ga/savannah/savannah-country-day-hornets/basketball",
-        "team_name": "Savannah Country Day Hornets",
+        "team_name": "Savannah Country Day",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57740,7 +57736,7 @@
     },
     {
         "team_id": "ga/conyers/the-wilson-academy-regional-warriors/basketball",
-        "team_name": "The Wilson Academy Regional Warriors",
+        "team_name": "The Wilson Academy - Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57792,7 +57788,7 @@
     },
     {
         "team_id": "ga/conyers/the-wilson-academy-warriors/basketball",
-        "team_name": "The Wilson Academy Warriors",
+        "team_name": "The Wilson Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -58572,7 +58568,7 @@
     },
     {
         "team_id": "ga/sharpsburg/trinity-christian-lions/basketball",
-        "team_name": "Trinity Christian Lions",
+        "team_name": "Trinity Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -59352,7 +59348,7 @@
     },
     {
         "team_id": "ga/conyers/victory-christian-eagles/basketball",
-        "team_name": "Victory Christian Eagles",
+        "team_name": "Victory Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,

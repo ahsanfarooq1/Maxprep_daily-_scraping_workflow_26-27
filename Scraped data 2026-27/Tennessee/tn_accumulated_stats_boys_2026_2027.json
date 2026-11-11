@@ -1,11 +1,10 @@
 [
     {
         "team_id": "tn/memphis/the-collegiate-school-of-memphis-cougars/basketball",
-        "team_name": "The Collegiate School Of Memphis Cougars",
+        "team_name": "The Collegiate School of Memphis",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -5710,7 +5709,7 @@
     },
     {
         "team_id": "tn/clarksburg/clarksburg-rockets/basketball",
-        "team_name": "Clarksburg Rockets",
+        "team_name": "Clarksburg",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7114,7 +7113,7 @@
     },
     {
         "team_id": "tn/mcminnville/covenant-academy-lions/basketball",
-        "team_name": "Covenant Academy Lions",
+        "team_name": "Covenant Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11170,7 +11169,7 @@
     },
     {
         "team_id": "tn/chattanooga/hamilton-heights-christian-academy-hawks/basketball",
-        "team_name": "Hamilton Heights Christian Academy Hawks",
+        "team_name": "Hamilton Heights Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11638,7 +11637,7 @@
     },
     {
         "team_id": "tn/south-pittsburg/hardy-memorial-hawks/basketball",
-        "team_name": "Hardy Memorial Hawks",
+        "team_name": "Hardy Memorial",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12938,7 +12937,7 @@
     },
     {
         "team_id": "tn/antioch/independence-academy-lions/basketball",
-        "team_name": "Independence Academy Lions",
+        "team_name": "Independence Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16786,7 +16785,7 @@
     },
     {
         "team_id": "tn/cordova/memphis-metro-homeschool-mustangs/basketball",
-        "team_name": "Memphis Metro Homeschool Mustangs",
+        "team_name": "Memphis Metro HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -23130,7 +23129,7 @@
     },
     {
         "team_id": "tn/memphis/tennessee-preparatory-academy-diplomat-lions/basketball",
-        "team_name": "Tennessee Preparatory Academy Diplomat Lions",
+        "team_name": "Tennessee Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,

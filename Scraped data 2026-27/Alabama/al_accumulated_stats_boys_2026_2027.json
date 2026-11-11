@@ -1075,11 +1075,10 @@
     },
     {
         "team_id": "al/phenix-city/the-rock-academy-lions/basketball",
-        "team_name": "The Rock Academy Lions",
+        "team_name": "The Rock Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 3,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -13779,7 +13778,7 @@
     },
     {
         "team_id": "al/dothan/bethel-christian-academy-lions/basketball",
-        "team_name": "Bethel Christian Academy Lions",
+        "team_name": "Bethel Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14871,7 +14870,7 @@
     },
     {
         "team_id": "al/centreville/cahawba-christian-academy-chargers/basketball",
-        "team_name": "Cahawba Christian Academy Chargers",
+        "team_name": "Cahawba Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15339,7 +15338,7 @@
     },
     {
         "team_id": "al/prattville/central-christian-academy-rams/basketball",
-        "team_name": "Central Christian Academy Rams",
+        "team_name": "Central Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19499,7 +19498,7 @@
     },
     {
         "team_id": "al/athens/faith-christian-academy-falcons/basketball",
-        "team_name": "Faith Christian Academy Falcons",
+        "team_name": "Faith Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26987,7 +26986,7 @@
     },
     {
         "team_id": "al/troy/new-life-christian-academy-eagles/basketball",
-        "team_name": "New Life Christian Academy Eagles",
+        "team_name": "New Life Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,

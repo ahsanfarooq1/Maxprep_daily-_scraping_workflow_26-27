@@ -160,11 +160,11 @@
     },
     {
         "team_id": "la/shreveport/ascension-classical-admiral/basketball",
-        "team_name": "Ascension Classical Admiral",
+        "team_name": "Ascension Classical",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 6,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -531,7 +531,7 @@
     },
     {
         "team_id": "la/new-orleans/abramson-sci-academy-commodores/basketball",
-        "team_name": "Abramson Sci Academy Commodores",
+        "team_name": "Abramson Sci Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -955,7 +955,7 @@
     },
     {
         "team_id": "la/alexandria/alexandria-country-day-tigers/basketball",
-        "team_name": "Alexandria Country Day Tigers",
+        "team_name": "Alexandria Country Day",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4135,7 +4135,7 @@
     },
     {
         "team_id": "la/jonesville/central-panthers/basketball",
-        "team_name": "Central Panthers",
+        "team_name": "Central",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4771,7 +4771,7 @@
     },
     {
         "team_id": "la/lafayette/comeaux-spartans/basketball",
-        "team_name": "Comeaux Spartans",
+        "team_name": "Comeaux",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7103,7 +7103,7 @@
     },
     {
         "team_id": "la/new-orleans/faith-christian-eagles/basketball",
-        "team_name": "Faith Christian Eagles",
+        "team_name": "Faith Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7739,7 +7739,7 @@
     },
     {
         "team_id": "la/new-orleans/frederick-a-douglass-bobcats/basketball",
-        "team_name": "Frederick A Douglass Bobcats",
+        "team_name": "Frederick A. Douglass",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8216,7 +8216,7 @@
     },
     {
         "team_id": "la/marrero/grace-baptist-academy-eagles/basketball",
-        "team_name": "Grace Baptist Academy Eagles",
+        "team_name": "Grace Baptist Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8693,7 +8693,7 @@
     },
     {
         "team_id": "la/lake-charles/hamilton-christian-warriors/basketball",
-        "team_name": "Hamilton Christian Warriors",
+        "team_name": "Hamilton Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9647,7 +9647,7 @@
     },
     {
         "team_id": "la/shreveport/huntington-raiders/basketball",
-        "team_name": "Huntington Raiders",
+        "team_name": "Huntington",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9753,7 +9753,7 @@
     },
     {
         "team_id": "la/new-orleans/international-panthers/basketball",
-        "team_name": "International Panthers",
+        "team_name": "International",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10495,7 +10495,7 @@
     },
     {
         "team_id": "la/new-orleans/js-clark-bulldogs/basketball",
-        "team_name": "Js Clark Bulldogs",
+        "team_name": "J.S. Clark",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11555,7 +11555,7 @@
     },
     {
         "team_id": "la/la-place/liberty-christian-angels/basketball",
-        "team_name": "Liberty Christian Angels",
+        "team_name": "Liberty Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11767,7 +11767,7 @@
     },
     {
         "team_id": "la/new-orleans/livingston-collegiate-academy-wolves/basketball",
-        "team_name": "Livingston Collegiate Academy Wolves",
+        "team_name": "Livingston Collegiate Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14205,7 +14205,7 @@
     },
     {
         "team_id": "la/west-monroe/northeast-baptist-knights/basketball",
-        "team_name": "Northeast Baptist Knights",
+        "team_name": "Northeast Baptist",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15265,7 +15265,7 @@
     },
     {
         "team_id": "la/westwego/patrick-taylor-science-and-tech-academy-tigers/basketball",
-        "team_name": "Patrick Taylor Science And Tech Academy Tigers",
+        "team_name": "Patrick Taylor Science & Tech Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15477,7 +15477,7 @@
     },
     {
         "team_id": "la/lafayette/philadelphia-christian-academy-eagles/basketball",
-        "team_name": "Philadelphia Christian Academy Eagles",
+        "team_name": "Philadelphia Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16961,7 +16961,7 @@
     },
     {
         "team_id": "la/new-orleans/rosenwald-collegiate-academy-pride/basketball",
-        "team_name": "Rosenwald Collegiate Academy Pride",
+        "team_name": "Rosenwald Collegiate Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18816,7 +18816,7 @@
     },
     {
         "team_id": "la/natchitoches/st-mary-tigers/basketball",
-        "team_name": "St Mary Tigers",
+        "team_name": "St. Mary",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -20035,7 +20035,7 @@
     },
     {
         "team_id": "la/shreveport/university-christian-prep-wildcats/basketball",
-        "team_name": "University Christian Prep Wildcats",
+        "team_name": "University Christian Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -24860,7 +24860,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
@@ -24919,7 +24919,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "I. Sanders(Sr)",
         "GP": 2,
@@ -24976,7 +24976,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "L. McDonald(Jr)",
         "GP": 2,
@@ -25033,7 +25033,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "C. Achord(Jr)",
         "GP": 2,
@@ -25090,7 +25090,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "G. Beauboef(7th)",
         "GP": 1,
@@ -25147,7 +25147,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "C. Beauboef(So)",
         "GP": 2,
@@ -25204,7 +25204,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "E. Weaver Jr.(7th)",
         "GP": 1,
@@ -25261,7 +25261,7 @@
     },
     {
         "team_id": "la/natchitoches/freedom-life-academy-patriots/basketball",
-        "team_name": "Freedom Life Academy Patriots",
+        "team_name": "Freedom Life Academy",
         "record_type": "player",
         "Name": "J. Townsend(So)",
         "GP": 2,

@@ -17,7 +17,10 @@ import time
 import datetime as dt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CORE_DIR = os.environ.get("MAXPREPS_CORE_DIR") or os.path.dirname(HERE)
+# legacy scraper modules: env override, else the bundled ./core copy, else the parent folder (old repo layout)
+_BUNDLED = os.path.join(HERE, "core")
+CORE_DIR = (os.environ.get("MAXPREPS_CORE_DIR")
+            or (_BUNDLED if os.path.exists(os.path.join(_BUNDLED, "scrape_box_scores.py")) else os.path.dirname(HERE)))
 
 # ─── Statuses ────────────────────────────────────────────────────────────────
 PENDING = "PENDING"    # identified, not scraped yet

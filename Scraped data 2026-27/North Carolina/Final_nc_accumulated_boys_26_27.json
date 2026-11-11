@@ -1,11 +1,11 @@
 [
     {
         "team_id": "nc/sylva/victory-christian-cardinals/basketball",
-        "team_name": "Victory Christian Cardinals",
+        "team_name": "Victory Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 4,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 23,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -160,11 +160,11 @@
     },
     {
         "team_id": "nc/arapahoe/arapahoe-charter-school-bobcats/basketball",
-        "team_name": "Arapahoe Charter School Bobcats",
+        "team_name": "Arapahoe Charter School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 4,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -531,11 +531,11 @@
     },
     {
         "team_id": "nc/carthage/sandhills-highlanders-homeschool-athletics-highlanders/basketball",
-        "team_name": "Sandhills Highlanders Homeschool Athletics Highlanders",
+        "team_name": "Sandhills Highlanders Homeschool Athletics",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 12,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -796,11 +796,11 @@
     },
     {
         "team_id": "nc/franklin/franklin-christian-school-bears/basketball",
-        "team_name": "Franklin Christian School Bears",
+        "team_name": "Franklin Christian School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 19,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -1220,11 +1220,11 @@
     },
     {
         "team_id": "nc/charlotte/parris-prep-academy-panthers/basketball",
-        "team_name": "Parris Prep Academy Panthers",
+        "team_name": "Parris Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 9,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -2201,11 +2201,11 @@
     },
     {
         "team_id": "nc/matthews/bull-city-prep-national-bulls/basketball",
-        "team_name": "Bull City Prep National Bulls",
+        "team_name": "Bull City Prep National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 4,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -2572,11 +2572,11 @@
     },
     {
         "team_id": "nc/whispering-pines/sandhills-classical-christian-lions/basketball",
-        "team_name": "Sandhills Classical Christian Lions",
+        "team_name": "Sandhills Classical Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 20,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -2731,11 +2731,11 @@
     },
     {
         "team_id": "nc/franklin/macon-early-college-foxes/basketball",
-        "team_name": "Macon Early College Foxes",
+        "team_name": "Macon Early College",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 16,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -3261,7 +3261,7 @@
     },
     {
         "team_id": "nc/hickory/alexander-christian-academy-crusaders/basketball",
-        "team_name": "Alexander Christian Academy Crusaders",
+        "team_name": "Alexander Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3420,7 +3420,7 @@
     },
     {
         "team_id": "nc/kinston/ambleside-preparatory-academy-archers/basketball",
-        "team_name": "Ambleside Preparatory Academy Archers",
+        "team_name": "Ambleside Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4533,7 +4533,7 @@
     },
     {
         "team_id": "nc/unknown/australian-national-team-australia-/basketball",
-        "team_name": "Australian National Team Australia ",
+        "team_name": "Australian National Team (Australia)",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4586,7 +4586,7 @@
     },
     {
         "team_id": "nc/newland/avery-county-homeschool-highlanders/basketball",
-        "team_name": "Avery County Homeschool Highlanders",
+        "team_name": "Avery County HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5911,7 +5911,7 @@
     },
     {
         "team_id": "nc/dunn/brookside-christian-academy-ravens/basketball",
-        "team_name": "Brookside Christian Academy Ravens",
+        "team_name": "Brookside Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9727,7 +9727,7 @@
     },
     {
         "team_id": "nc/durham/cresset-christian-academy-regional-eagles/basketball",
-        "team_name": "Cresset Christian Academy Regional Eagles",
+        "team_name": "Cresset Christian Academy - Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10999,7 +10999,7 @@
     },
     {
         "team_id": "nc/charlotte/east-charlotte-christian-knights/basketball",
-        "team_name": "East Charlotte Christian Knights",
+        "team_name": "East Charlotte Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12271,7 +12271,7 @@
     },
     {
         "team_id": "nc/chapel-hill/emerson-waldorf-gnomes/basketball",
-        "team_name": "Emerson Waldorf Gnomes",
+        "team_name": "Emerson Waldorf",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12960,7 +12960,7 @@
     },
     {
         "team_id": "nc/fayetteville/fayetteville-homeschool-crusaders/basketball",
-        "team_name": "Fayetteville Homeschool Crusaders",
+        "team_name": "Fayetteville HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14497,7 +14497,7 @@
     },
     {
         "team_id": "nc/boone/grace-academy-knights/basketball",
-        "team_name": "Grace Academy Knights",
+        "team_name": "Grace Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19320,7 +19320,7 @@
     },
     {
         "team_id": "nc/wilkesboro/legacy-athletics-stallions/basketball",
-        "team_name": "Legacy Athletics Stallions",
+        "team_name": "Legacy Athletics",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -21175,7 +21175,7 @@
     },
     {
         "team_id": "nc/hudson/moravian-prep-regional-lions/basketball",
-        "team_name": "Moravian Prep Regional Lions",
+        "team_name": "Moravian Prep Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -21599,7 +21599,7 @@
     },
     {
         "team_id": "nc/durham/mount-zion-christian-collegiate-warriors/basketball",
-        "team_name": "Mount Zion Christian Collegiate Warriors",
+        "team_name": "Mount Zion Christian Collegiate",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -22023,7 +22023,7 @@
     },
     {
         "team_id": "nc/durham/nc-gbb-academy-national-eagles/basketball",
-        "team_name": "Nc Gbb Academy National Eagles",
+        "team_name": "NC GBB Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25733,7 +25733,7 @@
     },
     {
         "team_id": "nc/browns-summit/piedmont-classical-elite-bobcats/basketball",
-        "team_name": "Piedmont Classical Elite Bobcats",
+        "team_name": "Piedmont Classical Elite",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25945,7 +25945,7 @@
     },
     {
         "team_id": "nc/hudson/pine-mountain-academy-pioneers/basketball",
-        "team_name": "Pine Mountain Academy Pioneers",
+        "team_name": "Pine Mountain Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25998,7 +25998,7 @@
     },
     {
         "team_id": "nc/holly-springs/pine-springs-prep-academy-pioneers/basketball",
-        "team_name": "Pine Springs Prep Academy Pioneers",
+        "team_name": "Pine Springs Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -27376,7 +27376,7 @@
     },
     {
         "team_id": "nc/oak-ridge/revolution-academy-rhinos/basketball",
-        "team_name": "Revolution Academy Rhinos",
+        "team_name": "Revolution Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -29231,7 +29231,7 @@
     },
     {
         "team_id": "nc/matthews/socrates-academy-owls/basketball",
-        "team_name": "Socrates Academy Owls",
+        "team_name": "Socrates Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -34584,7 +34584,7 @@
     },
     {
         "team_id": "nc/charlotte/united-faith-christian-academy-falcons/basketball",
-        "team_name": "United Faith Christian Academy Falcons",
+        "team_name": "United Faith Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35008,7 +35008,7 @@
     },
     {
         "team_id": "nc/charlotte/victory-christian-center-northside-christian-academy/basketball",
-        "team_name": "Victory Christian Center Northside Christian Academy",
+        "team_name": "Victory Christian Center/Northside Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35220,7 +35220,7 @@
     },
     {
         "team_id": "nc/raleigh/wake-county-homeschool-warriors/basketball",
-        "team_name": "Wake County Homeschool Warriors",
+        "team_name": "Wake County HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35962,7 +35962,7 @@
     },
     {
         "team_id": "nc/goldsboro/wayne-preparatory-academy-generals/basketball",
-        "team_name": "Wayne Preparatory Academy Generals",
+        "team_name": "Wayne Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -36015,7 +36015,7 @@
     },
     {
         "team_id": "nc/weddington/weddington-christian-academy-hawks/basketball",
-        "team_name": "Weddington Christian Academy Hawks",
+        "team_name": "Weddington Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -37976,7 +37976,7 @@
     },
     {
         "team_id": "nc/wilsons-mills/wilsons-mills-green-waves/basketball",
-        "team_name": "Wilsons Mills Green Waves",
+        "team_name": "Wilson's Mills",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38082,7 +38082,7 @@
     },
     {
         "team_id": "nc/winston-salem/winston-salem-christian-silver-lions/basketball",
-        "team_name": "Winston Salem Christian Silver Lions",
+        "team_name": "Winston Salem Christian Silver",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38294,7 +38294,7 @@
     },
     {
         "team_id": "nc/raleigh/word-of-god-christian-academy-holy-rams/basketball",
-        "team_name": "Word Of God Christian Academy Holy Rams",
+        "team_name": "Word of God Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38400,7 +38400,7 @@
     },
     {
         "team_id": "nc/youngsville/youngsville-academy-charter-firebirds/basketball",
-        "team_name": "Youngsville Academy Charter Firebirds",
+        "team_name": "Youngsville Academy Charter",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -50331,7 +50331,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 3,
@@ -50384,7 +50384,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "K. Gibson(Jr)",
         "GP": 3,
@@ -50435,7 +50435,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "J. Williams(Jr)",
         "GP": 3,
@@ -50486,7 +50486,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "J. Meekins(Jr)",
         "GP": 3,
@@ -50537,7 +50537,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "D. Mitchell II(So)",
         "GP": 3,
@@ -50588,7 +50588,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "B. Streeter(Sr)",
         "GP": 3,
@@ -50639,7 +50639,7 @@
     },
     {
         "team_id": "nc/hope-mills/cumberland-prep-academy-heat/basketball",
-        "team_name": "Cumberland Prep Academy Heat",
+        "team_name": "Cumberland Prep Academy",
         "record_type": "player",
         "Name": "D. Mitchell(Jr)",
         "GP": 3,
@@ -51764,7 +51764,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
@@ -51823,7 +51823,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "J. Morris(Jr)",
         "GP": 1,
@@ -51880,7 +51880,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "W. Ludwig(Jr)",
         "GP": 1,
@@ -51937,7 +51937,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "G. Hall(Jr)",
         "GP": 1,
@@ -51994,7 +51994,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "N. Frank(Jr)",
         "GP": 1,
@@ -52051,7 +52051,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "I. Jarvis(Jr)",
         "GP": 1,
@@ -52108,7 +52108,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "J. King(Sr)",
         "GP": 1,
@@ -52165,7 +52165,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "J. Morrow(Jr)",
         "GP": 1,
@@ -52222,7 +52222,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "C. Locklear(Sr)",
         "GP": 1,
@@ -52279,7 +52279,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "B. Brinkley(Jr)",
         "GP": 1,
@@ -52336,7 +52336,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "E. Thompson(Sr)",
         "GP": 1,
@@ -52393,7 +52393,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "B. Martin(Jr)",
         "GP": 1,
@@ -52450,7 +52450,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "C. Halpin(Sr)",
         "GP": 1,
@@ -52507,7 +52507,7 @@
     },
     {
         "team_id": "nc/faith/faith-academy-charter-patriots/basketball",
-        "team_name": "Faith Academy Charter Patriots",
+        "team_name": "Faith Academy Charter",
         "record_type": "player",
         "Name": "H. Austin(So)",
         "GP": 1,
@@ -70007,7 +70007,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 3,
@@ -70060,7 +70060,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "K. LUCAS(Jr)",
         "GP": 2,
@@ -70111,7 +70111,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "A. Fisher(Sr)",
         "GP": 2,
@@ -70162,7 +70162,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "A. Hall(Jr)",
         "GP": 2,
@@ -70213,7 +70213,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "M. McCotter(Sr)",
         "GP": 2,
@@ -70264,7 +70264,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "D. Hosley(Jr)",
         "GP": 2,
@@ -70315,7 +70315,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "T. Burris Jr(Sr)",
         "GP": 2,
@@ -70366,7 +70366,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "M. Lewis Jr(Sr)",
         "GP": 2,
@@ -70417,7 +70417,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "A. Engleton(Sr)",
         "GP": 1,
@@ -70468,7 +70468,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "C. Wilson(Sr)",
         "GP": 2,
@@ -70519,7 +70519,7 @@
     },
     {
         "team_id": "nc/huntersville/phoenix-montessori-academy-panthers/basketball",
-        "team_name": "Phoenix Montessori Academy Panthers",
+        "team_name": "Phoenix Montessori Academy",
         "record_type": "player",
         "Name": "C. McKenney(Sr)",
         "GP": 2,
@@ -74230,7 +74230,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 3,
@@ -74283,7 +74283,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "U. Spain(So)",
         "GP": 3,
@@ -74334,7 +74334,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "C. Linn(So)",
         "GP": 3,
@@ -74385,7 +74385,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "S. Williams(Jr)",
         "GP": 3,
@@ -74436,7 +74436,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "J. Hall(So)",
         "GP": 2,
@@ -74487,7 +74487,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "B. Shedor(So)",
         "GP": 3,
@@ -74538,7 +74538,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "E. Jacobson(Jr)",
         "GP": 3,
@@ -74589,7 +74589,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "K. Gates(Sr)",
         "GP": 3,
@@ -74640,7 +74640,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "C. Parsons(So)",
         "GP": 3,
@@ -74691,7 +74691,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "T. Berry(So)",
         "GP": 3,
@@ -74742,7 +74742,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "D. Wood(So)",
         "GP": 3,
@@ -74793,7 +74793,7 @@
     },
     {
         "team_id": "nc/fayetteville/silverhawks-homeschool-sports-of-the-sandhills-silverhawk/basketball",
-        "team_name": "Silverhawks Homeschool Sports Of The Sandhills Silverhawk",
+        "team_name": "Silverhawks Homeschool Sports of the Sandhills",
         "record_type": "player",
         "Name": "C. Jacobson(Sr)",
         "GP": 3,
@@ -75473,7 +75473,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
@@ -75532,7 +75532,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "S. Mani(So)",
         "GP": 2,
@@ -75589,7 +75589,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "K. Pulley(Jr)",
         "GP": 2,
@@ -75646,7 +75646,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "B. Clifton(Fr)",
         "GP": 2,
@@ -75703,7 +75703,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "D. Jenkins(So)",
         "GP": 2,
@@ -75760,7 +75760,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "I. Bond(So)",
         "GP": 1,
@@ -75817,7 +75817,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "L. Jenkins(Fr)",
         "GP": 1,
@@ -75868,7 +75868,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "B. Jenkins(8th)",
         "GP": 1,
@@ -75925,7 +75925,7 @@
     },
     {
         "team_id": "nc/wake-forest/st-christopher-academy-sentinels/basketball",
-        "team_name": "St Christopher Academy Sentinels",
+        "team_name": "St. Christopher Academy",
         "record_type": "player",
         "Name": "S. Okauru(So)",
         "GP": 2,

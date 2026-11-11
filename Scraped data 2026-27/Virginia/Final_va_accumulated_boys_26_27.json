@@ -3234,7 +3234,7 @@
     },
     {
         "team_id": "va/dillwyn/central-virginia-christian-school-chargers/basketball",
-        "team_name": "Central Virginia Christian School Chargers",
+        "team_name": "Central Virginia Christian School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3870,7 +3870,7 @@
     },
     {
         "team_id": "va/chesapeake/chesapeake-hickory-great-bridge-grassfield-/basketball",
-        "team_name": "Chesapeake Hickory Great Bridge Grassfield ",
+        "team_name": "Chesapeake [Hickory/Great Bridge/Grassfield]",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4718,7 +4718,7 @@
     },
     {
         "team_id": "va/rockingham/cornerstone-christian-cougars/basketball",
-        "team_name": "Cornerstone Christian Cougars",
+        "team_name": "Cornerstone Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4771,7 +4771,7 @@
     },
     {
         "team_id": "va/middleburg/cornerstone-christian-guardians/basketball",
-        "team_name": "Cornerstone Christian Guardians",
+        "team_name": "Cornerstone Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7739,7 +7739,7 @@
     },
     {
         "team_id": "va/front-royal/front-royal-homeschool-flames/basketball",
-        "team_name": "Front Royal Homeschool Flames",
+        "team_name": "Front Royal HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7951,7 +7951,7 @@
     },
     {
         "team_id": "va/danville/galileo-falcons/basketball",
-        "team_name": "Galileo Falcons",
+        "team_name": "Galileo",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8428,7 +8428,7 @@
     },
     {
         "team_id": "va/springfield/gillion-academy-national-lions/basketball",
-        "team_name": "Gillion Academy National Lions",
+        "team_name": "Gillion Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8481,7 +8481,7 @@
     },
     {
         "team_id": "va/springfield/gillion-academy-regional-lions/basketball",
-        "team_name": "Gillion Academy Regional Lions",
+        "team_name": "Gillion Academy Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13516,7 +13516,7 @@
     },
     {
         "team_id": "va/leesburg/leesburg-christian-lions/basketball",
-        "team_name": "Leesburg Christian Lions",
+        "team_name": "Leesburg Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17226,7 +17226,7 @@
     },
     {
         "team_id": "va/chantilly/nova-homeschool-lions/basketball",
-        "team_name": "Nova Homeschool Lions",
+        "team_name": "NOVA HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19346,7 +19346,7 @@
     },
     {
         "team_id": "va/chesterfield/richmond-christian-warriors/basketball",
-        "team_name": "Richmond Christian Warriors",
+        "team_name": "Richmond Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -22473,7 +22473,7 @@
     },
     {
         "team_id": "va/portsmouth/sweethaven-christian-academy-lions/basketball",
-        "team_name": "Sweethaven Christian Academy Lions",
+        "team_name": "Sweethaven Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -23056,7 +23056,7 @@
     },
     {
         "team_id": "va/springfield/the-st-james-performance-academy-grey-strivers-grey/basketball",
-        "team_name": "The St James Performance Academy Grey Strivers Grey",
+        "team_name": "The St. James Performance Academy Grey",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,

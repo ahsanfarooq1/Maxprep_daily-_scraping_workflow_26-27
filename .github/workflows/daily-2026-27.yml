@@ -7,10 +7,7 @@
 # accumulated + Final files, for all 30 states, boys + girls. Sundays also re-read every schedule.
 # A second trigger 3h later is a no-op when the first one finished.
 #
-# This repo holds ONLY the new workflow. It imports the existing scraper modules (scrape_box_scores.py,
-# app.py, Accumulation_data.py, ...) read-only from the old repo, checked out into ./core.
-# One-time setup: add a repository secret CORE_REPO_TOKEN (a PAT with read access to
-# ahsanfarooq1/Maxprep_statewise_scraper - needed because that repo is checked out from here).
+# The existing scraper modules it reuses are bundled in ./core (copied from the old repo, unchanged).
 # Data is committed back to this repo's main branch under "Scraped data 2026-27/".
 name: MaxPreps daily 2026-27 (gap finder + stats tab)
 
@@ -53,25 +50,14 @@ jobs:
         with:
           path: repo
 
-      - name: Checkout existing scraper modules (read-only)
-        uses: actions/checkout@v4
-        with:
-          repository: ahsanfarooq1/Maxprep_statewise_scraper
-          ref: master
-          path: core
-          token: ${{ secrets.CORE_REPO_TOKEN }}
-
       - name: Install dependencies
         run: |
-          py -m pip install -r core/requirements.txt
           py -m pip install -r repo/requirements.txt
 
       - name: Run daily gap finder + stats tab + accumulate
         working-directory: repo
         id: run
         continue-on-error: true
-        env:
-          MAXPREPS_CORE_DIR: ${{ github.workspace }}/core
         run: |
           $runArgs = @("run_daily.py", "--skip-if-done-today")
           $states = "${{ github.event.inputs.states }}"

@@ -1,11 +1,10 @@
 [
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 4,
-        "TotalGamesChecked": 5,
         "MPG": 144.5,
         "PPG": 58.2,
         "DEFR": 0.0,
@@ -59,7 +58,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "Y. Rosa()",
         "GP": 1,
@@ -116,7 +115,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "I. Reboyro()",
         "GP": 4,
@@ -173,7 +172,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "G. Figueroa(Jr)",
         "GP": 3,
@@ -230,7 +229,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "A. alvarado(Fr)",
         "GP": 4,
@@ -287,7 +286,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "E. smith()",
         "GP": 4,
@@ -344,7 +343,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "E. Zidor(Jr)",
         "GP": 4,
@@ -401,7 +400,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "I. Ortiz(Jr)",
         "GP": 2,
@@ -458,7 +457,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "A. guerrero(Sr)",
         "GP": 3,
@@ -515,7 +514,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "Y. Bernacet(Sr)",
         "GP": 3,
@@ -572,7 +571,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "L. ordelus(Sr)",
         "GP": 3,
@@ -629,7 +628,7 @@
     },
     {
         "team_id": "fl/orlando/one-accord-christian-academy-lions/basketball",
-        "team_name": "One Accord Christian Academy Lions",
+        "team_name": "One Accord Christian Academy",
         "record_type": "player",
         "Name": "J. Bonilla(Sr)",
         "GP": 3,
@@ -686,11 +685,10 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 4,
-        "TotalGamesChecked": 4,
         "MPG": 0.0,
         "PPG": 83.5,
         "DEFR": 29.0,
@@ -738,7 +736,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "S. Pino(Sr)",
         "GP": 4,
@@ -789,7 +787,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "E. Suarez(Jr)",
         "GP": 2,
@@ -840,7 +838,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "I. Josue(Sr)",
         "GP": 4,
@@ -891,7 +889,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "D. Pagan(Sr)",
         "GP": 4,
@@ -942,7 +940,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "F. Wallace(Sr)",
         "GP": 3,
@@ -993,7 +991,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "D. Bozic(Sr)",
         "GP": 3,
@@ -1044,7 +1042,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "M. Drabo(Jr)",
         "GP": 4,
@@ -1095,7 +1093,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "D. Santiago(So)",
         "GP": 4,
@@ -1146,7 +1144,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "B. Mugosa(Sr)",
         "GP": 4,
@@ -1197,7 +1195,7 @@
     },
     {
         "team_id": "fl/kissimmee/central-pointe-christian-academy-national-white-tigers/basketball",
-        "team_name": "Central Pointe Christian Academy National White Tigers",
+        "team_name": "Central Pointe Christian Academy National",
         "record_type": "player",
         "Name": "A. Ruiz(So)",
         "GP": 1,
@@ -2895,11 +2893,10 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 5,
-        "TotalGamesChecked": 7,
         "MPG": 0.0,
         "PPG": 97.8,
         "DEFR": 30.8,
@@ -2947,7 +2944,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "C. Jean(So)",
         "GP": 3,
@@ -2998,7 +2995,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "K. Gill(Sr)",
         "GP": 5,
@@ -3049,7 +3046,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "J. Sledge(Sr)",
         "GP": 4,
@@ -3100,7 +3097,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "J. Watts(Sr)",
         "GP": 5,
@@ -3151,7 +3148,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "N. Wuthrich(So)",
         "GP": 5,
@@ -3202,7 +3199,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "B. Black(Sr)",
         "GP": 5,
@@ -3253,7 +3250,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "C. Rosser Jr.(Sr)",
         "GP": 5,
@@ -3304,7 +3301,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "C. Gbadehan(Jr)",
         "GP": 5,
@@ -3355,7 +3352,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "A. Groce(Sr)",
         "GP": 2,
@@ -3406,7 +3403,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "P. Sam(Sr)",
         "GP": 2,
@@ -3457,7 +3454,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "M. Leung(Sr)",
         "GP": 1,
@@ -3508,7 +3505,7 @@
     },
     {
         "team_id": "fl/orlando/southeastern-prep-academy-national-falcons/basketball",
-        "team_name": "Southeastern Prep Academy National Falcons",
+        "team_name": "Southeastern Prep Academy National",
         "record_type": "player",
         "Name": "T. Malonga(Sr)",
         "GP": 1,
@@ -4732,11 +4729,10 @@
     },
     {
         "team_id": "fl/orlando/grace-christian-academy-patriots/basketball",
-        "team_name": "Grace Christian Academy Patriots",
+        "team_name": "Grace Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -6630,11 +6626,10 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 31.0,
         "DEFR": 12.0,
@@ -6682,7 +6677,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "M. Brisker()",
         "GP": 1,
@@ -6733,7 +6728,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "R. Negron(Jr)",
         "GP": 1,
@@ -6784,7 +6779,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "B. Barnes(Fr)",
         "GP": 1,
@@ -6835,7 +6830,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "L. Whitener(So)",
         "GP": 1,
@@ -6886,7 +6881,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "J. Amaya(Jr)",
         "GP": 1,
@@ -6937,7 +6932,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "L. Barnett(So)",
         "GP": 1,
@@ -6988,7 +6983,7 @@
     },
     {
         "team_id": "fl/lakeland/lakes-church-academy-lions/basketball",
-        "team_name": "Lakes Church Academy Lions",
+        "team_name": "Lakes Church Academy",
         "record_type": "player",
         "Name": "E. Brown(Fr)",
         "GP": 1,
@@ -7039,11 +7034,10 @@
     },
     {
         "team_id": "fl/ocala/heart-homeschool/basketball",
-        "team_name": "Heart Homeschool",
+        "team_name": "HEART HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -7553,11 +7547,10 @@
     },
     {
         "team_id": "fl/fort-lauderdale/prolific-prep-crew/basketball",
-        "team_name": "Prolific Prep Crew",
+        "team_name": "Prolific Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 3,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8218,11 +8211,10 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
-        "TotalGamesChecked": 1,
         "MPG": 2.0,
         "PPG": 60.0,
         "DEFR": 24.0,
@@ -8276,7 +8268,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "E. Ortiz(Jr)",
         "GP": 1,
@@ -8327,7 +8319,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "J. Wasczcak()",
         "GP": 1,
@@ -8378,7 +8370,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "J. Desir(So)",
         "GP": 1,
@@ -8429,7 +8421,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "C. Canino(So)",
         "GP": 1,
@@ -8480,7 +8472,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "C. Hardegree()",
         "GP": 1,
@@ -8531,7 +8523,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "S. Bransford(So)",
         "GP": 1,
@@ -8582,7 +8574,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "A. Theisen()",
         "GP": 1,
@@ -8633,7 +8625,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "C. Tobar(Jr)",
         "GP": 1,
@@ -8684,7 +8676,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "A. Bransford()",
         "GP": 1,
@@ -8741,7 +8733,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "I. Mercer()",
         "GP": 1,
@@ -8792,7 +8784,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "J. Register(Sr)",
         "GP": 1,
@@ -8843,7 +8835,7 @@
     },
     {
         "team_id": "fl/fleming-island/st-johns-classical-academy-lions/basketball",
-        "team_name": "St Johns Classical Academy Lions",
+        "team_name": "St. Johns Classical Academy",
         "record_type": "player",
         "Name": "A. Santos(Jr)",
         "GP": 1,
@@ -12600,7 +12592,7 @@
     },
     {
         "team_id": "fl/sarasota/212-sports-academy-sunshine-steam/basketball",
-        "team_name": "212 Sports Academy Sunshine Steam",
+        "team_name": "212 Sports Academy Sunshine",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12652,7 +12644,7 @@
     },
     {
         "team_id": "fl/hialeah/abf-academy-blue-cowboys/basketball",
-        "team_name": "Abf Academy Blue Cowboys",
+        "team_name": "ABF Academy Blue",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12756,7 +12748,7 @@
     },
     {
         "team_id": "fl/homestead/abf-academy-homestead-bandits/basketball",
-        "team_name": "Abf Academy Homestead Bandits",
+        "team_name": "ABF Academy Homestead",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14004,7 +13996,7 @@
     },
     {
         "team_id": "fl/panama-city-beach/arnold-marlins/basketball",
-        "team_name": "Arnold Marlins",
+        "team_name": "Arnold",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14836,7 +14828,7 @@
     },
     {
         "team_id": "fl/zephryhills/balboa-bengals/basketball",
-        "team_name": "Balboa Bengals",
+        "team_name": "Balboa",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14888,7 +14880,7 @@
     },
     {
         "team_id": "fl/zephyrhills/balboa-sunshine-bengals/basketball",
-        "team_name": "Balboa Sunshine Bengals",
+        "team_name": "Balboa Sunshine",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15148,7 +15140,7 @@
     },
     {
         "team_id": "fl/key-west/basilica-mariners/basketball",
-        "team_name": "Basilica Mariners",
+        "team_name": "Basilica",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15200,7 +15192,7 @@
     },
     {
         "team_id": "fl/panama-city/bay-tornadoes/basketball",
-        "team_name": "Bay Tornadoes",
+        "team_name": "Bay",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15720,7 +15712,7 @@
     },
     {
         "team_id": "fl/brandon/bell-shoals-academy-panthers/basketball",
-        "team_name": "Bell Shoals Academy Panthers",
+        "team_name": "Bell Shoals Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16084,7 +16076,7 @@
     },
     {
         "team_id": "fl/miami/biotech-senior-bears/basketball",
-        "team_name": "Biotech Senior Bears",
+        "team_name": "BioTECH Senior",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17176,7 +17168,7 @@
     },
     {
         "team_id": "fl/panama-city/bozeman-bucks/basketball",
-        "team_name": "Bozeman Bucks",
+        "team_name": "Bozeman",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17592,7 +17584,7 @@
     },
     {
         "team_id": "fl/west-melbourne/brevard-christian-war-eagles/basketball",
-        "team_name": "Brevard Christian War Eagles",
+        "team_name": "Brevard Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17644,7 +17636,7 @@
     },
     {
         "team_id": "fl/palm-bay/brevard-heat-firehawks/basketball",
-        "team_name": "Brevard Heat Firehawks",
+        "team_name": "Brevard HEAT",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -21024,7 +21016,7 @@
     },
     {
         "team_id": "fl/lake-city/columbia-tigers/basketball",
-        "team_name": "Columbia Tigers",
+        "team_name": "Columbia",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -21388,7 +21380,7 @@
     },
     {
         "team_id": "fl/cooper-city/cooper-city-cowboys/basketball",
-        "team_name": "Cooper City Cowboys",
+        "team_name": "Cooper City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -22220,7 +22212,7 @@
     },
     {
         "team_id": "fl/kissimmee/creation-village-world-riverhawks/basketball",
-        "team_name": "Creation Village World Riverhawks",
+        "team_name": "Creation Village World",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -22324,7 +22316,7 @@
     },
     {
         "team_id": "fl/crescent-city/crescent-city-raiders/basketball",
-        "team_name": "Crescent City Raiders",
+        "team_name": "Crescent City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -23520,7 +23512,7 @@
     },
     {
         "team_id": "fl/cross-city/dixie-county-bears/basketball",
-        "team_name": "Dixie County Bears",
+        "team_name": "Dixie County",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -23572,7 +23564,7 @@
     },
     {
         "team_id": "fl/daytona-beach/dme-academy-blue/basketball",
-        "team_name": "Dme Academy Blue",
+        "team_name": "DME Academy Blue",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -24404,7 +24396,7 @@
     },
     {
         "team_id": "fl/plant-city/durant-cougars/basketball",
-        "team_name": "Durant Cougars",
+        "team_name": "Durant",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -24456,7 +24448,7 @@
     },
     {
         "team_id": "fl/jacksonville/duval-charter-panthers/basketball",
-        "team_name": "Duval Charter Panthers",
+        "team_name": "Duval Charter",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25340,7 +25332,7 @@
     },
     {
         "team_id": "fl/fort-lauderdale/elite-academy-eagles/basketball",
-        "team_name": "Elite Academy Eagles",
+        "team_name": "Elite Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25392,7 +25384,7 @@
     },
     {
         "team_id": "fl/fort-lauderdale/elite-academy-green-eagles/basketball",
-        "team_name": "Elite Academy Green Eagles",
+        "team_name": "Elite Academy Green",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25860,7 +25852,7 @@
     },
     {
         "team_id": "fl/everglades-city/everglades-city-gators/basketball",
-        "team_name": "Everglades City Gators",
+        "team_name": "Everglades City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26276,7 +26268,7 @@
     },
     {
         "team_id": "fl/margate/faith-christian-patriots/basketball",
-        "team_name": "Faith Christian Patriots",
+        "team_name": "Faith Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26328,7 +26320,7 @@
     },
     {
         "team_id": "fl/homestead/faith-fellowship-fleur-de-lis/basketball",
-        "team_name": "Faith Fellowship Fleur De Lis",
+        "team_name": "Faith Fellowship",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26536,7 +26528,7 @@
     },
     {
         "team_id": "fl/port-charlotte/family-christian-academy-mustangs/basketball",
-        "team_name": "Family Christian Academy Mustangs",
+        "team_name": "Family Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26640,7 +26632,7 @@
     },
     {
         "team_id": "fl/archer/family-life-academy-lions/basketball",
-        "team_name": "Family Life Academy Lions",
+        "team_name": "Family Life Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -27108,7 +27100,7 @@
     },
     {
         "team_id": "fl/hialeah/first-baptist-tigers/basketball",
-        "team_name": "First Baptist Tigers",
+        "team_name": "First Baptist",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -27420,7 +27412,7 @@
     },
     {
         "team_id": "fl/orange-park/fleming-island-golden-eagles/basketball",
-        "team_name": "Fleming Island Golden Eagles",
+        "team_name": "Fleming Island",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -27628,7 +27620,7 @@
     },
     {
         "team_id": "fl/fort-walton/florida-coastal-prep-spartans/basketball",
-        "team_name": "Florida Coastal Prep Spartans",
+        "team_name": "Florida Coastal Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -29656,7 +29648,7 @@
     },
     {
         "team_id": "fl/chipley/grace-and-glory-christian-eagles/basketball",
-        "team_name": "Grace And Glory Christian Eagles",
+        "team_name": "Grace and Glory Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -30384,7 +30376,7 @@
     },
     {
         "team_id": "fl/lehigh-acres/gunnery-road-christian-academy-bullets/basketball",
-        "team_name": "Gunnery Road Christian Academy Bullets",
+        "team_name": "Gunnery Road Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -30488,7 +30480,7 @@
     },
     {
         "team_id": "fl/haines-city/haines-city-hornets/basketball",
-        "team_name": "Haines City Hornets",
+        "team_name": "Haines City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -31424,7 +31416,7 @@
     },
     {
         "team_id": "fl/tampa/hifz-academy-pegasuses/basketball",
-        "team_name": "Hifz Academy Pegasuses",
+        "team_name": "Hifz Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32516,7 +32508,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-black-ascenders/basketball",
-        "team_name": "Img Academy Black Ascenders",
+        "team_name": "IMG Academy Black",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32568,7 +32560,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-blue-ascenders/basketball",
-        "team_name": "Img Academy Blue Ascenders",
+        "team_name": "IMG Academy Blue",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32620,7 +32612,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-gold-ascenders/basketball",
-        "team_name": "Img Academy Gold Ascenders",
+        "team_name": "IMG Academy Gold",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32672,7 +32664,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-gray-ascenders/basketball",
-        "team_name": "Img Academy Gray Ascenders",
+        "team_name": "IMG Academy Gray",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32724,7 +32716,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-navy-ascenders/basketball",
-        "team_name": "Img Academy Navy Ascenders",
+        "team_name": "IMG Academy Navy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32776,7 +32768,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-regional-ascenders/basketball",
-        "team_name": "Img Academy Regional Ascenders",
+        "team_name": "IMG Academy White",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32828,7 +32820,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-royal-ascenders/basketball",
-        "team_name": "Img Academy Royal Ascenders",
+        "team_name": "IMG Academy Royal",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32880,7 +32872,7 @@
     },
     {
         "team_id": "fl/bradenton/img-academy-silver-ascenders/basketball",
-        "team_name": "Img Academy Silver Ascenders",
+        "team_name": "IMG Academy Silver",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -34440,7 +34432,7 @@
     },
     {
         "team_id": "fl/jacksonville/joshua-christian-academy-eagles/basketball",
-        "team_name": "Joshua Christian Academy Eagles",
+        "team_name": "Joshua Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -35012,7 +35004,7 @@
     },
     {
         "team_id": "fl/lake-city/kingdom-culture-royals/basketball",
-        "team_name": "Kingdom Culture Royals",
+        "team_name": "Kingdom Culture",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -36988,7 +36980,7 @@
     },
     {
         "team_id": "fl/seffner/legacy-christian-academy-mustangs/basketball",
-        "team_name": "Legacy Christian Academy Mustangs",
+        "team_name": "Legacy Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -37560,7 +37552,7 @@
     },
     {
         "team_id": "fl/tavares/liberty-christian-prep-lions/basketball",
-        "team_name": "Liberty Christian Prep Lions",
+        "team_name": "Liberty Christian Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -38964,7 +38956,7 @@
     },
     {
         "team_id": "fl/miami/mater-academy-east-trojans/basketball",
-        "team_name": "Mater Academy East Trojans",
+        "team_name": "Mater Academy East",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -39016,7 +39008,7 @@
     },
     {
         "team_id": "fl/orlando/mater-academy-narcoossee-spartans/basketball",
-        "team_name": "Mater Academy Narcoossee Spartans",
+        "team_name": "Mater Academy Narcoossee",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -40316,7 +40308,7 @@
     },
     {
         "team_id": "fl/daytona-beach/monarch-academy-butterflies/basketball",
-        "team_name": "Monarch Academy Butterflies",
+        "team_name": "Monarch Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -40524,7 +40516,7 @@
     },
     {
         "team_id": "fl/montverde/montverde-academy-gold-regional-eagles/basketball",
-        "team_name": "Montverde Academy Gold Regional Eagles",
+        "team_name": "Montverde Academy Gold (Regional)",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -40576,7 +40568,7 @@
     },
     {
         "team_id": "fl/montverde/montverde-academy-purple-eagles/basketball",
-        "team_name": "Montverde Academy Purple Eagles",
+        "team_name": "Montverde Academy Purple",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -40628,7 +40620,7 @@
     },
     {
         "team_id": "fl/montverde/montverde-academy-white-eagles/basketball",
-        "team_name": "Montverde Academy White Eagles",
+        "team_name": "Montverde Academy White",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -41096,7 +41088,7 @@
     },
     {
         "team_id": "fl/quincy/munroe-bobcats/basketball",
-        "team_name": "Munroe Bobcats",
+        "team_name": "Munroe",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -41876,7 +41868,7 @@
     },
     {
         "team_id": "fl/panama-city/north-bay-haven-academy-buccaneers/basketball",
-        "team_name": "North Bay Haven Academy Buccaneers",
+        "team_name": "North Bay Haven Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -42604,7 +42596,7 @@
     },
     {
         "team_id": "fl/miami/northwest-christian-eagles/basketball",
-        "team_name": "Northwest Christian Eagles",
+        "team_name": "Northwest Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -43332,7 +43324,7 @@
     },
     {
         "team_id": "fl/jacksonville/old-plank-christian-academy-defenders/basketball",
-        "team_name": "Old Plank Christian Academy Defenders",
+        "team_name": "Old Plank Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -43540,7 +43532,7 @@
     },
     {
         "team_id": "fl/longwood/one-school-of-the-arts-and-sciences-lions/basketball",
-        "team_name": "One School Of The Arts And Sciences Lions",
+        "team_name": "One School of the Arts & Sciences",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -44112,7 +44104,7 @@
     },
     {
         "team_id": "fl/longwood/pace-brantley-pirates/basketball",
-        "team_name": "Pace Brantley Pirates",
+        "team_name": "Pace Brantley",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -44580,7 +44572,7 @@
     },
     {
         "team_id": "fl/deerfield-beach/palm-beach-prep-sharks/basketball",
-        "team_name": "Palm Beach Prep Sharks",
+        "team_name": "Palm Beach Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -44736,7 +44728,7 @@
     },
     {
         "team_id": "fl/miami/palmer-trinity-falcons/basketball",
-        "team_name": "Palmer Trinity Falcons",
+        "team_name": "Palmer Trinity",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -45204,7 +45196,7 @@
     },
     {
         "team_id": "fl/dade-city/pasco-pirates/basketball",
-        "team_name": "Pasco Pirates",
+        "team_name": "Pasco",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -45464,7 +45456,7 @@
     },
     {
         "team_id": "fl/palatka/peniel-baptist-academy-warriors/basketball",
-        "team_name": "Peniel Baptist Academy Warriors",
+        "team_name": "Peniel Baptist Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -46348,7 +46340,7 @@
     },
     {
         "team_id": "fl/plant-city/plant-city-raiders/basketball",
-        "team_name": "Plant City Raiders",
+        "team_name": "Plant City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -46556,7 +46548,7 @@
     },
     {
         "team_id": "fl/kissimmee/poinciana-christian-preparatory-eagles/basketball",
-        "team_name": "Poinciana Christian Preparatory Eagles",
+        "team_name": "Poinciana Christian Preparatory",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -47076,7 +47068,7 @@
     },
     {
         "team_id": "fl/fort-lauderdale/prolific-prep-regional-crew/basketball",
-        "team_name": "Prolific Prep Regional Crew",
+        "team_name": "Prolific Prep Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -47648,7 +47640,7 @@
     },
     {
         "team_id": "fl/davenport/ridge-community-bolts/basketball",
-        "team_name": "Ridge Community Bolts",
+        "team_name": "Ridge Community",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -47908,7 +47900,7 @@
     },
     {
         "team_id": "fl/ormond-beach/riverbend-academy-warriors/basketball",
-        "team_name": "Riverbend Academy Warriors",
+        "team_name": "Riverbend Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -48480,7 +48472,7 @@
     },
     {
         "team_id": "fl/lake-wales/roosevelt-academy-eagles/basketball",
-        "team_name": "Roosevelt Academy Eagles",
+        "team_name": "Roosevelt Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -48584,7 +48576,7 @@
     },
     {
         "team_id": "fl/panama-city/rutherford-rams/basketball",
-        "team_name": "Rutherford Rams",
+        "team_name": "Rutherford",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -49832,7 +49824,7 @@
     },
     {
         "team_id": "fl/loxahatchee/seminole-ridge-hawks/basketball",
-        "team_name": "Seminole Ridge Hawks",
+        "team_name": "Seminole Ridge",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -52016,7 +52008,7 @@
     },
     {
         "team_id": "fl/dover/specially-fit-academy-regional-rams/basketball",
-        "team_name": "Specially Fit Academy Regional Rams",
+        "team_name": "Specially Fit Academy Regional",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -52328,7 +52320,7 @@
     },
     {
         "team_id": "fl/tampa/sports-leadership-and-management-splash/basketball",
-        "team_name": "Sports Leadership And Management Splash",
+        "team_name": "Sports Leadership & Management",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53888,7 +53880,7 @@
     },
     {
         "team_id": "fl/havana/tallavana-christian-lion/basketball",
-        "team_name": "Tallavana Christian Lion",
+        "team_name": "Tallavana Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -54512,7 +54504,7 @@
     },
     {
         "team_id": "fl/titusville/temple-christian-lions/basketball",
-        "team_name": "Temple Christian Lions",
+        "team_name": "Temple Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -55032,7 +55024,7 @@
     },
     {
         "team_id": "fl/gainesville/the-rock-national-lions/basketball",
-        "team_name": "The Rock National Lions",
+        "team_name": "The Rock National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -55552,7 +55544,7 @@
     },
     {
         "team_id": "fl/stuart/treasure-coast-classical-academy-titans/basketball",
-        "team_name": "Treasure Coast Classical Academy Titans",
+        "team_name": "Treasure Coast Classical Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -55864,7 +55856,7 @@
     },
     {
         "team_id": "fl/lake-worth/trinity-christian-academy-warriors/basketball",
-        "team_name": "Trinity Christian Academy Warriors",
+        "team_name": "Trinity Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -55916,7 +55908,7 @@
     },
     {
         "team_id": "fl/winter-park/trinity-prep-saints/basketball",
-        "team_name": "Trinity Prep Saints",
+        "team_name": "Trinity Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -56280,7 +56272,7 @@
     },
     {
         "team_id": "fl/orange-city/university-titans/basketball",
-        "team_name": "University Titans",
+        "team_name": "University",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57008,7 +57000,7 @@
     },
     {
         "team_id": "fl/viera/viera-hawks/basketball",
-        "team_name": "Viera Hawks",
+        "team_name": "Viera",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57164,7 +57156,7 @@
     },
     {
         "team_id": "fl/crawfordville/wakulla-christian-school-saints/basketball",
-        "team_name": "Wakulla Christian School Saints",
+        "team_name": "Wakulla Christian School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57424,7 +57416,7 @@
     },
     {
         "team_id": "fl/chipley/washington-county-christian-school-lions/basketball",
-        "team_name": "Washington County Christian School Lions",
+        "team_name": "Washington County Christian School",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57996,7 +57988,7 @@
     },
     {
         "team_id": "fl/tampa/west-gate-christian-academy-patriots/basketball",
-        "team_name": "West Gate Christian Academy Patriots",
+        "team_name": "West Gate Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -58568,7 +58560,7 @@
     },
     {
         "team_id": "fl/miami/westminster-christian-warriors/basketball",
-        "team_name": "Westminster Christian Warriors",
+        "team_name": "Westminster Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -59556,7 +59548,7 @@
     },
     {
         "team_id": "fl/jacksonville/zarephath-academy-eagles/basketball",
-        "team_name": "Zarephath Academy Eagles",
+        "team_name": "Zarephath Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -59608,7 +59600,7 @@
     },
     {
         "team_id": "fl/zephyrhills/zephyrhills-christian-academy-national-warriors/basketball",
-        "team_name": "Zephyrhills Christian Academy National Warriors",
+        "team_name": "Zephyrhills Christian Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,

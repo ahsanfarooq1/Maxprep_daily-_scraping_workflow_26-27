@@ -3340,7 +3340,7 @@
     },
     {
         "team_id": "ok/burlington/burlington-elks/basketball",
-        "team_name": "Burlington Elks",
+        "team_name": "Burlington",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5937,7 +5937,7 @@
     },
     {
         "team_id": "ok/comanche/comanche-indians/basketball",
-        "team_name": "Comanche Indians",
+        "team_name": "Comanche",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6361,7 +6361,7 @@
     },
     {
         "team_id": "ok/coweta/coweta-tigers/basketball",
-        "team_name": "Coweta Tigers",
+        "team_name": "Coweta",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10177,7 +10177,7 @@
     },
     {
         "team_id": "ok/oklahoma-city/grind-prep-grind/basketball",
-        "team_name": "Grind Prep Grind",
+        "team_name": "Grind Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16166,7 +16166,7 @@
     },
     {
         "team_id": "ok/muskogee/muskogee-roughers/basketball",
-        "team_name": "Muskogee Roughers",
+        "team_name": "Muskogee",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19293,7 +19293,7 @@
     },
     {
         "team_id": "ok/oklahoma-city/putnam-city-pirates/basketball",
-        "team_name": "Putnam City Pirates",
+        "team_name": "Putnam City",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19346,7 +19346,7 @@
     },
     {
         "team_id": "ok/oklahoma-city/putnam-city-west-patriots/basketball",
-        "team_name": "Putnam City West Patriots",
+        "team_name": "Putnam City West",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -22049,7 +22049,7 @@
     },
     {
         "team_id": "ok/stillwater/stillwater-pioneers/basketball",
-        "team_name": "Stillwater Pioneers",
+        "team_name": "Stillwater",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -24328,7 +24328,7 @@
     },
     {
         "team_id": "ok/durant/victory-life-academy-eagles/basketball",
-        "team_name": "Victory Life Academy Eagles",
+        "team_name": "Victory Life Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -25388,7 +25388,7 @@
     },
     {
         "team_id": "ok/bartlesville/wesleyan-christian-american-christian/basketball",
-        "team_name": "Wesleyan Christian American Christian",
+        "team_name": "Wesleyan Christian/American Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -26501,7 +26501,7 @@
     },
     {
         "team_id": "ok/goodwell/yarbrough-lobos/basketball",
-        "team_name": "Yarbrough Lobos",
+        "team_name": "Yarbrough",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -28095,7 +28095,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
@@ -28148,7 +28148,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "E. Rinas(So)",
         "GP": 2,
@@ -28199,7 +28199,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "C. Anklam(Sr)",
         "GP": 1,
@@ -28250,7 +28250,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "S. Smith(So)",
         "GP": 1,
@@ -28301,7 +28301,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "R. Brown(So)",
         "GP": 1,
@@ -28352,7 +28352,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "B. Ciggs(So)",
         "GP": 2,
@@ -28403,7 +28403,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "T. Jenkins(So)",
         "GP": 2,
@@ -28454,7 +28454,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "C. Hayes(Sr)",
         "GP": 1,
@@ -28505,7 +28505,7 @@
     },
     {
         "team_id": "ok/owasso/owasso-preparatory-academy-lions/basketball",
-        "team_name": "Owasso Preparatory Academy Lions",
+        "team_name": "Owasso Preparatory Academy",
         "record_type": "player",
         "Name": "E. Rinas(Jr)",
         "GP": 2,

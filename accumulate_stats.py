@@ -62,6 +62,30 @@ def add_total_games_scheduled(final, gaps):
     return sum(1 for r in recs if r.get("record_type") == "team_total" and r["total_games_scheduled"])
 
 
+def _align_names(acc, stab):
+    """The merge joins on (team_id, team_name). The accumulator writes the master-list name, the
+    stats tab a URL-derived one, so a team can differ by name only (e.g. an apostrophe) and would be
+    kept twice. Give each stats-tab record the accumulator's name for the same team_id.
+    Returns the path to merge with (a temp copy if anything changed, else `stab`)."""
+    with open(acc, encoding="utf-8") as f:
+        names = {r["team_id"]: r["team_name"] for r in json.load(f) if r.get("record_type") == "team_total"}
+    with open(stab, encoding="utf-8") as f:
+        recs = json.load(f)
+    changed = 0
+    for r in recs:
+        want = names.get(r.get("team_id"))
+        if want and want != r.get("team_name"):
+            r["team_name"] = want
+            changed += 1
+    if not changed:
+        return stab
+    out = stab + ".aligned.tmp"
+    with open(out, "w", encoding="utf-8") as f:
+        json.dump(recs, f, ensure_ascii=False)
+    print(f"  [stats tab] aligned {changed} record names to the accumulator's team names")
+    return out
+
+
 def accumulate_state(folder, st, sport, season="2026-2027", use_stats_tab=True):
     """Returns a one-line result message."""
     st = st.lower()
@@ -84,7 +108,12 @@ def accumulate_state(folder, st, sport, season="2026-2027", use_stats_tab=True):
             json.dump([], f)
     if have_stab:
         from merge_all_stats_tab import merge
-        res = merge(acc, stab, final)
+        stab_in = _align_names(acc, stab)
+        try:
+            res = merge(acc, stab_in, final)
+        finally:
+            if stab_in != stab and os.path.exists(stab_in):
+                os.remove(stab_in)
         if not res:
             return "stats-tab merge FAILED"
         src = f"stats tab wins for {res['replaced']} matched + {res['unmatched']} stats-tab-only teams"

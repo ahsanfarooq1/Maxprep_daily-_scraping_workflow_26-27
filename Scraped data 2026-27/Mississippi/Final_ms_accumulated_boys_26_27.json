@@ -160,11 +160,11 @@
     },
     {
         "team_id": "ms/saucier/coastal-mississippi-homeschool-wildcats/basketball",
-        "team_name": "Coastal Mississippi Homeschool Wildcats",
+        "team_name": "Coastal Mississippi Homeschool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 3,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -2280,11 +2280,11 @@
     },
     {
         "team_id": "ms/mantachie/mantachie-mustangs/basketball",
-        "team_name": "Mantachie Mustangs",
+        "team_name": "Mantachie",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 4,
+        "TotalGamesChecked": 0,
         "total_games_scheduled": 26,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -3552,7 +3552,7 @@
     },
     {
         "team_id": "ms/glen/alcorn-central-golden-bears/basketball",
-        "team_name": "Alcorn Central Golden Bears",
+        "team_name": "Alcorn Central",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4029,7 +4029,7 @@
     },
     {
         "team_id": "ms/belmont/belmont-cardinals/basketball",
-        "team_name": "Belmont Cardinals",
+        "team_name": "Belmont",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4347,7 +4347,7 @@
     },
     {
         "team_id": "ms/booneville/booneville-blue-devils/basketball",
-        "team_name": "Booneville Blue Devils",
+        "team_name": "Booneville",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4718,7 +4718,7 @@
     },
     {
         "team_id": "ms/meridian/calvary-christian-cougars/basketball",
-        "team_name": "Calvary Christian Cougars",
+        "team_name": "Calvary Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8004,7 +8004,7 @@
     },
     {
         "team_id": "ms/kossuth/kossuth-aggies/basketball",
-        "team_name": "Kossuth Aggies",
+        "team_name": "Kossuth",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8428,7 +8428,7 @@
     },
     {
         "team_id": "ms/carthage/leake-central-gators/basketball",
-        "team_name": "Leake Central Gators",
+        "team_name": "Leake Central",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8481,7 +8481,7 @@
     },
     {
         "team_id": "ms/carthage/leake-gators/basketball",
-        "team_name": "Leake Gators",
+        "team_name": "Leake",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9223,7 +9223,7 @@
     },
     {
         "team_id": "ms/memphis/memphis-homeschool/basketball",
-        "team_name": "Memphis Homeschool",
+        "team_name": "Memphis HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9859,7 +9859,7 @@
     },
     {
         "team_id": "ms/mendenhall/new-life-christian-academy-eagles/basketball",
-        "team_name": "New Life Christian Academy Eagles",
+        "team_name": "New Life Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11131,7 +11131,7 @@
     },
     {
         "team_id": "ms/hattiesburg/pine-belt-spartans/basketball",
-        "team_name": "Pine Belt Spartans",
+        "team_name": "Pine Belt",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12403,7 +12403,7 @@
     },
     {
         "team_id": "ms/rolling-fork/sharkey-issaquena-academy-confederates/basketball",
-        "team_name": "Sharkey Issaquena Academy Confederates",
+        "team_name": "Sharkey Issaquena Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13039,7 +13039,7 @@
     },
     {
         "team_id": "ms/ridgeland/st-augustine/basketball",
-        "team_name": "St Augustine",
+        "team_name": "St. Augustine",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14629,7 +14629,7 @@
     },
     {
         "team_id": "ms/woodville/wilkinson-county-christian-academy-rams/basketball",
-        "team_name": "Wilkinson County Christian Academy Rams",
+        "team_name": "Wilkinson County Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -50267,7 +50267,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 3,
@@ -50320,7 +50320,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "J. Simmons(So)",
         "GP": 3,
@@ -50371,7 +50371,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "O. Maybell(Jr)",
         "GP": 3,
@@ -50422,7 +50422,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "M. Morris(8th)",
         "GP": 3,
@@ -50473,7 +50473,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "L. Wright(Jr)",
         "GP": 3,
@@ -50524,7 +50524,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "Z. Butler(So)",
         "GP": 3,
@@ -50575,7 +50575,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "K. Myles(Fr)",
         "GP": 3,
@@ -50626,7 +50626,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "C. Cheeter(Fr)",
         "GP": 3,
@@ -50677,7 +50677,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "K. Hall(Fr)",
         "GP": 3,
@@ -50728,7 +50728,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "W. Dixon(Sr)",
         "GP": 3,
@@ -50779,7 +50779,7 @@
     },
     {
         "team_id": "ms/leland/unity-christian-academy-soldiers/basketball",
-        "team_name": "Unity Christian Academy Soldiers",
+        "team_name": "Unity Christian Academy",
         "record_type": "player",
         "Name": "L. Gatlin(Jr)",
         "GP": 3,

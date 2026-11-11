@@ -168,3 +168,16 @@ with the same settings would do. It never writes a gap file itself.
 Stats-tab, accumulation (stage 4) and `APP/pipeline.py`/GitHub-workflow wiring.
 The dataset file and the legacy buckets are shaped so those can consume this
 output unchanged later.
+
+## `core/` - bundled legacy modules
+The workflow reuses the old pipeline's proven code. Unchanged copies live in `core/` so this repo runs on its own:
+`scrape_box_scores.py` (HTTP transport + box-score parser), `app.py`, `scrape_team_stats.py`,
+`accumulate_from_stats_tab.py`, `Accumulation_data.py`, `merge_all_stats_tab.py`,
+`fix_total_games_checked.py`, plus the two 26-27 master lists (used for opponent/team-name lookup).
+`wf_core.CORE_DIR` uses `./core` when present (override with `MAXPREPS_CORE_DIR`).
+Not modified here - if the old repo's copies change, re-copy them.
+
+## Final accumulated files (`accumulate_stats.py`)
+`Final_{st}_accumulated_{sport}_26_27.json` = per-game accumulation from box scores, with the stats tab
+replacing a team's records wherever it exists (GP=0 guard kept). Each team_total also carries
+`total_games_scheduled` (games the gap finder found on the team's schedule), right after `TotalGamesChecked`.

@@ -1228,11 +1228,10 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 4,
-        "TotalGamesChecked": 7,
         "MPG": 0.0,
         "PPG": 89.8,
         "DEFR": 21.8,
@@ -1280,7 +1279,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "J. Hampton(Sr)",
         "GP": 3,
@@ -1331,7 +1330,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "O. Aghayere(So)",
         "GP": 4,
@@ -1382,7 +1381,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "C. Jerrells, III(Jr)",
         "GP": 3,
@@ -1433,7 +1432,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "R. Mohamud(Jr)",
         "GP": 2,
@@ -1484,7 +1483,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "T. Goodwin(Jr)",
         "GP": 2,
@@ -1535,7 +1534,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "J. Hassan(Sr)",
         "GP": 1,
@@ -1586,7 +1585,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "P. Paul(Fr)",
         "GP": 4,
@@ -1637,7 +1636,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "I. Gaas(Jr)",
         "GP": 4,
@@ -1688,7 +1687,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "B. Vaughan(So)",
         "GP": 4,
@@ -1739,7 +1738,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "H. Leblanc(Jr)",
         "GP": 4,
@@ -1790,7 +1789,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "A. Leek(So)",
         "GP": 1,
@@ -1841,7 +1840,7 @@
     },
     {
         "team_id": "tx/austin/austin-prep-academy-avengers/basketball",
-        "team_name": "Austin Prep Academy Avengers",
+        "team_name": "Austin Prep Academy",
         "record_type": "player",
         "Name": "C. Smith(Jr)",
         "GP": 1,
@@ -9006,11 +9005,10 @@
     },
     {
         "team_id": "tx/arlington/summit-international-prep-skyhawks/basketball",
-        "team_name": "Summit International Prep Skyhawks",
+        "team_name": "Summit International Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -20015,11 +20013,10 @@
     },
     {
         "team_id": "tx/athens/athens-christian-preparatory-academy-storm/basketball",
-        "team_name": "Athens Christian Preparatory Academy Storm",
+        "team_name": "Athens Christian Preparatory Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -21146,11 +21143,10 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
-        "TotalGamesChecked": 1,
         "MPG": 0.0,
         "PPG": 34.0,
         "DEFR": 0.0,
@@ -21198,7 +21194,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "T. Meegan(So)",
         "GP": 1,
@@ -21249,7 +21245,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "T. Everly(Fr)",
         "GP": 1,
@@ -21300,7 +21296,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "J. Mcdade(So)",
         "GP": 1,
@@ -21351,7 +21347,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "W. Titlow(So)",
         "GP": 1,
@@ -21402,7 +21398,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "J. Gomero(Jr)",
         "GP": 1,
@@ -21453,7 +21449,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "N. Bubb(Jr)",
         "GP": 1,
@@ -21504,7 +21500,7 @@
     },
     {
         "team_id": "tx/greenville/greenville-homeschool-athletics-archers/basketball",
-        "team_name": "Greenville Homeschool Athletics Archers",
+        "team_name": "Greenville HomeSchool Athletics",
         "record_type": "player",
         "Name": "A. Borrett(So)",
         "GP": 1,
@@ -21555,11 +21551,10 @@
     },
     {
         "team_id": "tx/helotes/great-hearts-invictus-highlanders/basketball",
-        "team_name": "Great Hearts Invictus Highlanders",
+        "team_name": "Great Hearts Invictus",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -22691,11 +22686,10 @@
     },
     {
         "team_id": "tx/new-braunfels/john-paul-ii-guardians/basketball",
-        "team_name": "John Paul Ii Guardians",
+        "team_name": "John Paul II",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -27612,7 +27606,7 @@
     },
     {
         "team_id": "tx/la-marque/abundant-life-christian-knights/basketball",
-        "team_name": "Abundant Life Christian Knights",
+        "team_name": "Abundant Life Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -28860,7 +28854,7 @@
     },
     {
         "team_id": "tx/fort-worth/alliance-christian-academy-knights/basketball",
-        "team_name": "Alliance Christian Academy Knights",
+        "team_name": "Alliance Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -30264,7 +30258,7 @@
     },
     {
         "team_id": "tx/aquilla/aquilla-cougars/basketball",
-        "team_name": "Aquilla Cougars",
+        "team_name": "Aquilla",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -30888,7 +30882,7 @@
     },
     {
         "team_id": "tx/fort-worth/atlas-homeschool-rattlers/basketball",
-        "team_name": "Atlas Homeschool Rattlers",
+        "team_name": "Atlas HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -32760,7 +32754,7 @@
     },
     {
         "team_id": "tx/belton/bell-county-homeschool-association-guardians/basketball",
-        "team_name": "Bell County Homeschool Association Guardians",
+        "team_name": "Bell County Homeschool Association",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -41704,7 +41698,7 @@
     },
     {
         "team_id": "tx/tyler/christian-heritage-patriots/basketball",
-        "team_name": "Christian Heritage Patriots",
+        "team_name": "Christian Heritage",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -46852,7 +46846,7 @@
     },
     {
         "team_id": "tx/tyler/cumberland-academy-knights/basketball",
-        "team_name": "Cumberland Academy Knights",
+        "team_name": "Cumberland Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -47996,7 +47990,7 @@
     },
     {
         "team_id": "tx/dallas/dallas-thunder-white-thunder/basketball",
-        "team_name": "Dallas Thunder White Thunder",
+        "team_name": "Dallas Thunder White",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -50232,7 +50226,7 @@
     },
     {
         "team_id": "tx/waco/eagle-christian-academy-eagles/basketball",
-        "team_name": "Eagle Christian Academy Eagles",
+        "team_name": "Eagle Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53040,7 +53034,7 @@
     },
     {
         "team_id": "tx/victoria/faith-academy-cougars/basketball",
-        "team_name": "Faith Academy Cougars",
+        "team_name": "Faith Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53456,7 +53450,7 @@
     },
     {
         "team_id": "tx/katy/faith-west-academy-eagles/basketball",
-        "team_name": "Faith West Academy Eagles",
+        "team_name": "Faith West Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -53612,7 +53606,7 @@
     },
     {
         "team_id": "tx/houston/family-christian-warriors/basketball",
-        "team_name": "Family Christian Warriors",
+        "team_name": "Family Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -57876,7 +57870,7 @@
     },
     {
         "team_id": "tx/san-antonio/gervin-academy-coyotes/basketball",
-        "team_name": "Gervin Academy Coyotes",
+        "team_name": "Gervin Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -58916,7 +58910,7 @@
     },
     {
         "team_id": "tx/flower-mound/grace-christian-academy-patriots/basketball",
-        "team_name": "Grace Christian Academy Patriots",
+        "team_name": "Grace Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -59956,7 +59950,7 @@
     },
     {
         "team_id": "tx/san-antonio/great-hearts-western-hills-spartans/basketball",
-        "team_name": "Great Hearts Western Hills Spartans",
+        "team_name": "Great Hearts Western Hills",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -61932,7 +61926,7 @@
     },
     {
         "team_id": "tx/houston/harmony-school-of-discovery-tigers/basketball",
-        "team_name": "Harmony School Of Discovery Tigers",
+        "team_name": "Harmony School of Discovery",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -62088,7 +62082,7 @@
     },
     {
         "team_id": "tx/dallas/harmony-school-of-innovation-dallas-tigers/basketball",
-        "team_name": "Harmony School Of Innovation Dallas Tigers",
+        "team_name": "Harmony School of Innovation Dallas",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -62192,7 +62186,7 @@
     },
     {
         "team_id": "tx/sugar-land/harmony-school-of-innovation-mustangs/basketball",
-        "team_name": "Harmony School Of Innovation Mustangs",
+        "team_name": "Harmony School of Innovation",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -62296,7 +62290,7 @@
     },
     {
         "team_id": "tx/katy/harmony-school-of-innovation-wildcats/basketball",
-        "team_name": "Harmony School Of Innovation Wildcats",
+        "team_name": "Harmony School of Innovation",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -62348,7 +62342,7 @@
     },
     {
         "team_id": "tx/el-paso/harmony-school-of-innovation-wolves/basketball",
-        "team_name": "Harmony School Of Innovation Wolves",
+        "team_name": "Harmony School of Innovation",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -64428,7 +64422,7 @@
     },
     {
         "team_id": "tx/high-island/high-island-cardinals/basketball",
-        "team_name": "High Island Cardinals",
+        "team_name": "High Island",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -66716,7 +66710,7 @@
     },
     {
         "team_id": "tx/sulphur-springs/hype-outreach-prep-academy/basketball",
-        "team_name": "Hype Outreach Prep Academy",
+        "team_name": "HYPE Outreach Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -67392,7 +67386,7 @@
     },
     {
         "team_id": "tx/el-paso/idea-mesa-hills/basketball",
-        "team_name": "Idea Mesa Hills",
+        "team_name": "IDEA Mesa Hills",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -67808,7 +67802,7 @@
     },
     {
         "team_id": "tx/fort-worth/idea-rise-college-prep-ravens/basketball",
-        "team_name": "Idea Rise College Prep Ravens",
+        "team_name": "IDEA Rise College Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -68172,7 +68166,7 @@
     },
     {
         "team_id": "tx/odessa/idea-yukon-yellowjackets/basketball",
-        "team_name": "Idea Yukon Yellowjackets",
+        "team_name": "IDEA Yukon",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -71188,7 +71182,7 @@
     },
     {
         "team_id": "tx/san-antonio/jubilee-lions/basketball",
-        "team_name": "Jubilee Lions",
+        "team_name": "Jubilee",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -71344,7 +71338,7 @@
     },
     {
         "team_id": "tx/clute/kairos-christian-academy-lions/basketball",
-        "team_name": "Kairos Christian Academy Lions",
+        "team_name": "Kairos Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -76804,7 +76798,7 @@
     },
     {
         "team_id": "tx/san-antonio/legacy-traditional-basse-wolfpack/basketball",
-        "team_name": "Legacy Traditional Basse Wolfpack",
+        "team_name": "Legacy Traditional Basse",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -77324,7 +77318,7 @@
     },
     {
         "team_id": "tx/liberty/liberty-christian-academy-lions/basketball",
-        "team_name": "Liberty Christian Academy Lions",
+        "team_name": "Liberty Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -77480,7 +77474,7 @@
     },
     {
         "team_id": "tx/liberty/liberty-panthers/basketball",
-        "team_name": "Liberty Panthers",
+        "team_name": "Liberty",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -77844,7 +77838,7 @@
     },
     {
         "team_id": "tx/conroe/lifestyle-christian-victors/basketball",
-        "team_name": "Lifestyle Christian Victors",
+        "team_name": "Lifestyle Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -78572,7 +78566,7 @@
     },
     {
         "team_id": "tx/bulverde/living-rock-academy-bobcat/basketball",
-        "team_name": "Living Rock Academy Bobcat",
+        "team_name": "Living Rock Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -78624,7 +78618,7 @@
     },
     {
         "team_id": "tx/alvin/living-stones-christian-lions/basketball",
-        "team_name": "Living Stones Christian Lions",
+        "team_name": "Living Stones Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -82368,7 +82362,7 @@
     },
     {
         "team_id": "tx/matagorda/matagorda-stingrays/basketball",
-        "team_name": "Matagorda Stingrays",
+        "team_name": "Matagorda",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -84344,7 +84338,7 @@
     },
     {
         "team_id": "tx/meridian/meridian-yellowjackets/basketball",
-        "team_name": "Meridian Yellowjackets",
+        "team_name": "Meridian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -88348,7 +88342,7 @@
     },
     {
         "team_id": "tx/tomball/newton-prep-force/basketball",
-        "team_name": "Newton Prep Force",
+        "team_name": "Newton Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -89544,7 +89538,7 @@
     },
     {
         "team_id": "tx/el-paso/northeast-christian-academy-crusaders/basketball",
-        "team_name": "Northeast Christian Academy Crusaders",
+        "team_name": "Northeast Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -89908,7 +89902,7 @@
     },
     {
         "team_id": "tx/wichita-falls/notre-dame-catholic-knights/basketball",
-        "team_name": "Notre Dame Catholic Knights",
+        "team_name": "Notre Dame Catholic",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -90688,7 +90682,7 @@
     },
     {
         "team_id": "tx/arlington/on1-prep-academy-lion/basketball",
-        "team_name": "On1 Prep Academy Lion",
+        "team_name": "ON1 Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -91156,7 +91150,7 @@
     },
     {
         "team_id": "tx/mckinney/pace-academy-panthers/basketball",
-        "team_name": "Pace Academy Panthers",
+        "team_name": "Pace Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -92092,7 +92086,7 @@
     },
     {
         "team_id": "tx/paris/paris-christian-lions/basketball",
-        "team_name": "Paris Christian Lions",
+        "team_name": "Paris Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -92144,7 +92138,7 @@
     },
     {
         "team_id": "tx/paris/paris-homeschool-warriors/basketball",
-        "team_name": "Paris Homeschool Warriors",
+        "team_name": "Paris HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -92508,7 +92502,7 @@
     },
     {
         "team_id": "tx/big-spring/pathway-academy-warriors/basketball",
-        "team_name": "Pathway Academy Warriors",
+        "team_name": "Pathway Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -92612,7 +92606,7 @@
     },
     {
         "team_id": "tx/afton/patton-springs-rangers/basketball",
-        "team_name": "Patton Springs Rangers",
+        "team_name": "Patton Springs",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -94692,7 +94686,7 @@
     },
     {
         "team_id": "tx/poetry/poetry-community-christian-pioneer/basketball",
-        "team_name": "Poetry Community Christian Pioneer",
+        "team_name": "Poetry Community Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -96356,7 +96350,7 @@
     },
     {
         "team_id": "tx/greenville/providence-christian-academy-crusaders/basketball",
-        "team_name": "Providence Christian Academy Crusaders",
+        "team_name": "Providence Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -96408,7 +96402,7 @@
     },
     {
         "team_id": "tx/dallas/providence-christian-patriots/basketball",
-        "team_name": "Providence Christian Patriots",
+        "team_name": "Providence Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -96564,7 +96558,7 @@
     },
     {
         "team_id": "tx/houston/psat-academy-national-panthers/basketball",
-        "team_name": "Psat Academy National Panthers",
+        "team_name": "PSAT Academy National",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -98540,7 +98534,7 @@
     },
     {
         "team_id": "tx/marshall/river-crossing-roughriders-roughriders/basketball",
-        "team_name": "River Crossing Roughriders Roughriders",
+        "team_name": "River Crossing Roughriders",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -100152,7 +100146,7 @@
     },
     {
         "team_id": "tx/roxton/roxton-lions/basketball",
-        "team_name": "Roxton Lions",
+        "team_name": "Roxton",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -101140,7 +101134,7 @@
     },
     {
         "team_id": "tx/san-antonio/saint-marys-hall-barons/basketball",
-        "team_name": "Saint Marys Hall Barons",
+        "team_name": "Saint Mary's Hall",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -105404,7 +105398,7 @@
     },
     {
         "team_id": "tx/snyder/snyder-tigers/basketball",
-        "team_name": "Snyder Tigers",
+        "team_name": "Snyder",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -106132,7 +106126,7 @@
     },
     {
         "team_id": "tx/san-antonio/south-san-antonio-west-cougars/basketball",
-        "team_name": "South San Antonio West Cougars",
+        "team_name": "South San Antonio West",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -106184,7 +106178,7 @@
     },
     {
         "team_id": "tx/mcallen/south-texas-christian-academy-panthers/basketball",
-        "team_name": "South Texas Christian Academy Panthers",
+        "team_name": "South Texas Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -106964,7 +106958,7 @@
     },
     {
         "team_id": "tx/spring-branch/spring-branch-wolf-pack/basketball",
-        "team_name": "Spring Branch Wolf Pack",
+        "team_name": "Spring Branch",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -107640,7 +107634,7 @@
     },
     {
         "team_id": "tx/lufkin/st-cyprians-episcopal/basketball",
-        "team_name": "St Cyprians Episcopal",
+        "team_name": "St. Cyprian's Episcopal",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -107744,7 +107738,7 @@
     },
     {
         "team_id": "tx/san-antonio/st-gerard-catholic-royals/basketball",
-        "team_name": "St Gerard Catholic Royals",
+        "team_name": "St. Gerard Catholic",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -110552,7 +110546,7 @@
     },
     {
         "team_id": "tx/fort-worth/temple-christian-eagles/basketball",
-        "team_name": "Temple Christian Eagles",
+        "team_name": "Temple Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -110864,7 +110858,7 @@
     },
     {
         "team_id": "tx/carrollton/texas-alliance-of-christian-athletes-gold-storm/basketball",
-        "team_name": "Texas Alliance Of Christian Athletes Gold Storm",
+        "team_name": "Texas Alliance of Christian Athletes Gold",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -110968,7 +110962,7 @@
     },
     {
         "team_id": "tx/waco/texas-christian-academy-stars/basketball",
-        "team_name": "Texas Christian Academy Stars",
+        "team_name": "Texas Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -111904,7 +111898,7 @@
     },
     {
         "team_id": "tx/colleyville/thesa/basketball",
-        "team_name": "Thesa",
+        "team_name": "THESA",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -112476,7 +112470,7 @@
     },
     {
         "team_id": "tx/san-antonio/tmi-episcopal-panthers/basketball",
-        "team_name": "Tmi Episcopal Panthers",
+        "team_name": "TMI-Episcopal",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -112892,7 +112886,7 @@
     },
     {
         "team_id": "tx/crockett/torchlight-prep-academy-warriors/basketball",
-        "team_name": "Torchlight Prep Academy Warriors",
+        "team_name": "Torchlight Prep Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -113516,7 +113510,7 @@
     },
     {
         "team_id": "tx/trinity/trinity-tigers/basketball",
-        "team_name": "Trinity Tigers",
+        "team_name": "Trinity",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -114088,7 +114082,7 @@
     },
     {
         "team_id": "tx/dallas/tyler-street-christian-academy-crusaders/basketball",
-        "team_name": "Tyler Street Christian Academy Crusaders",
+        "team_name": "Tyler Street Christian Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -114816,7 +114810,7 @@
     },
     {
         "team_id": "tx/valentine/valentine-pirates/basketball",
-        "team_name": "Valentine Pirates",
+        "team_name": "Valentine",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -115128,7 +115122,7 @@
     },
     {
         "team_id": "tx/kyle/valor-kyle-kingfishers/basketball",
-        "team_name": "Valor Kyle Kingfishers",
+        "team_name": "Valor Kyle",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -115180,7 +115174,7 @@
     },
     {
         "team_id": "tx/leander/valor-leander-griffins/basketball",
-        "team_name": "Valor Leander Griffins",
+        "team_name": "Valor Leander",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -115492,7 +115486,7 @@
     },
     {
         "team_id": "tx/canton/van-zandt-homeschool-warriors/basketball",
-        "team_name": "Van Zandt Homeschool Warriors",
+        "team_name": "Van Zandt HomeSchool",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -118144,7 +118138,7 @@
     },
     {
         "team_id": "tx/weslaco/weslaco-east-wildcats/basketball",
-        "team_name": "Weslaco East Wildcats",
+        "team_name": "Weslaco East",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -118300,7 +118294,7 @@
     },
     {
         "team_id": "tx/west-columbia/west-columbia-christian-warriors/basketball",
-        "team_name": "West Columbia Christian Warriors",
+        "team_name": "West Columbia Christian",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -119184,7 +119178,7 @@
     },
     {
         "team_id": "tx/westlake/westlake-academy-blacksmiths/basketball",
-        "team_name": "Westlake Academy Blacksmiths",
+        "team_name": "Westlake Academy",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -120068,7 +120062,7 @@
     },
     {
         "team_id": "tx/wichita-falls/wichita-falls-coyotes/basketball",
-        "team_name": "Wichita Falls Coyotes",
+        "team_name": "Wichita Falls",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -120172,7 +120166,7 @@
     },
     {
         "team_id": "tx/dallas/williams-prep-falcons/basketball",
-        "team_name": "Williams Prep Falcons",
+        "team_name": "Williams Prep",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
