@@ -1,0 +1,48 @@
+# One-off manual test: can a GitHub-HOSTED runner (no laptop, no VPN) reach MaxPreps?
+# Actions tab -> "Test hosted runner vs MaxPreps" -> Run workflow. Read the log of the "Probe" step.
+# 200 on the team/schedule/stats pages = hosted runner works. 403/406 = blocked (geo or datacenter IP).
+name: Test hosted runner vs MaxPreps
+
+on:
+  workflow_dispatch:
+    inputs:
+      proxy:
+        description: 'Optional proxy URL to test through (http://user:pass@host:port). Blank = direct.'
+        required: false
+        default: ''
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install curl_cffi
+        run: pip install curl_cffi requests
+      - name: Probe
+        env:
+          PROBE_PROXY: ${{ github.event.inputs.proxy }}
+        run: |
+          python - <<'PY'
+          import os, json
+          from curl_cffi import requests as cr
+          proxy = os.environ.get("PROBE_PROXY") or None
+          px = {"http": proxy, "https": proxy} if proxy else None
+          try:
+              info = cr.get("https://ipinfo.io/json", proxies=px, timeout=20).json()
+              print("runner IP:", info.get("ip"), info.get("country"), info.get("org"))
+          except Exception as e:
+              print("ipinfo failed:", e)
+          urls = [
+              "https://www.maxpreps.com/tx/addison/trinity-christian-trojans/basketball/",
+              "https://www.maxpreps.com/tx/addison/trinity-christian-trojans/basketball/schedule/",
+              "https://www.maxpreps.com/tx/addison/trinity-christian-trojans/basketball/stats/",
+          ]
+          for u in urls:
+              try:
+                  r = cr.get(u, impersonate="chrome124", proxies=px, timeout=30)
+                  print(r.status_code, len(r.content), u)
+              except Exception as e:
+                  print("ERR", type(e).__name__, u)
+          PY
