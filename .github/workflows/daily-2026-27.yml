@@ -1,14 +1,17 @@
 # MaxPreps daily 2026-27 scrape. In this repo it lives at .github/workflows/daily-2026-27.yml.
 #
-# Runs every day at 10:00 Pakistan time (05:00 UTC) on a SELF-HOSTED runner: MaxPreps rejects GitHub's
-# own hosted runners (Azure IP ranges), so the machine must have the VPN / residential connection on.
+# Runs on a GitHub-HOSTED Linux runner: no laptop, no VPN. (Verified with test-hosted-runner.yml:
+# the hosted runner reaches MaxPreps pages with HTTP 200.)
 #
-# Per run: box scores for yesterday's games (+ retries) -> stats tab for the teams that played ->
-# accumulated + Final files, for all 30 states, boys + girls. Sundays also re-read every schedule.
+# Every day at 10:00 Pakistan time (05:00 UTC):
+#   box scores for yesterday's games (+ retries) -> stats tab for the teams that played
+#   -> accumulated + Final files, for all 30 states, boys + girls.
+# Sundays also re-read every team schedule (finds newly added / moved games).
 # A second trigger 3h later is a no-op when the first one finished.
 #
 # The existing scraper modules it reuses are bundled in ./core (copied from the old repo, unchanged).
 # Data is committed back to this repo's main branch under "Scraped data 2026-27/".
+# Limit: a hosted job may run at most 6 hours (a daily run takes roughly 15-90 min).
 name: MaxPreps daily 2026-27 (gap finder + stats tab)
 
 on:
@@ -18,7 +21,7 @@ on:
   workflow_dispatch:
     inputs:
       states:
-        description: 'Comma list of state codes (blank = all 30)'
+        description: 'Comma list of state codes, e.g. TX,OK (blank = all 30)'
         required: false
         default: ''
       date:
@@ -39,48 +42,59 @@ permissions:
 
 jobs:
   daily:
-    runs-on: self-hosted
-    timeout-minutes: 360
-    defaults:
-      run:
-        shell: powershell
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
     steps:
       - name: Checkout this repo (code + data)
         uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          path: repo
+          python-version: '3.12'
+          cache: pip
 
       - name: Install dependencies
-        run: |
-          py -m pip install -r repo/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run daily gap finder + stats tab + accumulate
-        working-directory: repo
         id: run
         continue-on-error: true
+        env:
+          IN_STATES: ${{ github.event.inputs.states }}
+          IN_DATE: ${{ github.event.inputs.date }}
+          IN_REFRESH: ${{ github.event.inputs.refresh_schedule }}
+          PYTHONIOENCODING: utf-8
         run: |
-          $runArgs = @("run_daily.py", "--skip-if-done-today")
-          $states = "${{ github.event.inputs.states }}"
-          if ($states) { $runArgs += @("--states", $states) }
-          $date = "${{ github.event.inputs.date }}"
-          if ($date) { $runArgs += @("--date", $date) }
-          $manualRefresh = "${{ github.event.inputs.refresh_schedule }}" -eq 'true'
-          if ($manualRefresh -or ([DateTime]::UtcNow.DayOfWeek -eq 'Sunday')) { $runArgs += "--refresh-schedule" }
-          # a manual run (states/date given) must not be skipped by the "done today" marker
-          if ($states -or $date) { $runArgs = $runArgs | Where-Object { $_ -ne "--skip-if-done-today" } }
-          py -u @runArgs
+          set +e
+          args=(run_daily.py)
+          # a manual run with states/date must not be skipped by the "done today" marker
+          if [ -z "$IN_STATES" ] && [ -z "$IN_DATE" ]; then args+=(--skip-if-done-today); fi
+          if [ -n "$IN_STATES" ]; then args+=(--states "$IN_STATES"); fi
+          if [ -n "$IN_DATE" ]; then args+=(--date "$IN_DATE"); fi
+          if [ "$IN_REFRESH" = "true" ] || [ "$(date -u +%u)" = "7" ]; then args+=(--refresh-schedule); fi
+          echo "python -u ${args[*]}"
+          python -u "${args[@]}"
+          rc=$?
           # exit code 1 = some state had a problem; the rest finished, so still commit below
-          if ($LASTEXITCODE -gt 1) { exit $LASTEXITCODE }
+          if [ "$rc" -gt 1 ]; then exit "$rc"; fi
+          exit 0
+
+      - name: Per-state log summary
+        if: always()
+        run: |
+          for f in "Scraped data 2026-27/_logs"/*.log; do
+            [ -f "$f" ] && echo "== $(basename "$f" .log): $(grep -E 'Done |ABORT|Traceback|Stats tab:' "$f" | tail -4 | cut -c1-200 | tr '
+' '|')"
+          done
 
       - name: Commit data
-        working-directory: repo
         run: |
           git config user.name "maxpreps-daily-bot"
           git config user.email "actions@users.noreply.github.com"
           git add -A -- "Scraped data 2026-27"
-          git diff --cached --quiet
-          if ($LASTEXITCODE -eq 0) { Write-Host "No data changes."; exit 0 }
-          git commit -m "Daily 2026-27 scrape $([DateTime]::UtcNow.ToString('yyyy-MM-dd'))"
+          if git diff --cached --quiet; then echo "No data changes."; exit 0; fi
+          git commit -m "Daily 2026-27 scrape $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
           git push origin HEAD:main
 
