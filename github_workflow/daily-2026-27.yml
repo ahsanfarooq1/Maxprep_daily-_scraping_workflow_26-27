@@ -1,0 +1,103 @@
+# MaxPreps daily 2026-27 scrape. In this repo it lives at .github/workflows/daily-2026-27.yml.
+#
+# Runs every day at 10:00 Pakistan time (05:00 UTC) on a SELF-HOSTED runner: MaxPreps rejects GitHub's
+# own hosted runners (Azure IP ranges), so the machine must have the VPN / residential connection on.
+#
+# Per run: box scores for yesterday's games (+ retries) -> stats tab for the teams that played ->
+# accumulated + Final files, for all 30 states, boys + girls. Sundays also re-read every schedule.
+# A second trigger 3h later is a no-op when the first one finished.
+#
+# This repo holds ONLY the new workflow. It imports the existing scraper modules (scrape_box_scores.py,
+# app.py, Accumulation_data.py, ...) read-only from the old repo, checked out into ./core.
+# One-time setup: add a repository secret CORE_REPO_TOKEN (a PAT with read access to
+# ahsanfarooq1/Maxprep_statewise_scraper - needed because that repo is checked out from here).
+# Data is committed back to this repo's main branch under "Scraped data 2026-27/".
+name: MaxPreps daily 2026-27 (gap finder + stats tab)
+
+on:
+  schedule:
+    - cron: '0 5 * * *'     # 10:00 PKT
+    - cron: '0 8 * * *'     # 13:00 PKT - retry slot; skipped if the 10:00 run already finished
+  workflow_dispatch:
+    inputs:
+      states:
+        description: 'Comma list of state codes (blank = all 30)'
+        required: false
+        default: ''
+      date:
+        description: 'Specific game date YYYY-MM-DD (blank = yesterday + catch-up)'
+        required: false
+        default: ''
+      refresh_schedule:
+        description: 'Re-read every schedule (finds new games)'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: maxpreps-2026-27-daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: self-hosted
+    timeout-minutes: 360
+    defaults:
+      run:
+        shell: powershell
+    steps:
+      - name: Checkout this repo (code + data)
+        uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: Checkout existing scraper modules (read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: ahsanfarooq1/Maxprep_statewise_scraper
+          ref: master
+          path: core
+          token: ${{ secrets.CORE_REPO_TOKEN }}
+
+      - name: Install dependencies
+        run: |
+          py -m pip install -r core/requirements.txt
+          py -m pip install -r repo/requirements.txt
+
+      - name: Run daily gap finder + stats tab + accumulate
+        working-directory: repo
+        id: run
+        continue-on-error: true
+        env:
+          MAXPREPS_CORE_DIR: ${{ github.workspace }}/core
+        run: |
+          $runArgs = @("run_daily.py", "--skip-if-done-today")
+          $states = "${{ github.event.inputs.states }}"
+          if ($states) { $runArgs += @("--states", $states) }
+          $date = "${{ github.event.inputs.date }}"
+          if ($date) { $runArgs += @("--date", $date) }
+          $manualRefresh = "${{ github.event.inputs.refresh_schedule }}" -eq 'true'
+          if ($manualRefresh -or ([DateTime]::UtcNow.DayOfWeek -eq 'Sunday')) { $runArgs += "--refresh-schedule" }
+          # a manual run (states/date given) must not be skipped by the "done today" marker
+          if ($states -or $date) { $runArgs = $runArgs | Where-Object { $_ -ne "--skip-if-done-today" } }
+          py -u @runArgs
+          # exit code 1 = some state had a problem; the rest finished, so still commit below
+          if ($LASTEXITCODE -gt 1) { exit $LASTEXITCODE }
+
+      - name: Commit data
+        working-directory: repo
+        run: |
+          git config user.name "maxpreps-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A -- "Scraped data 2026-27"
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) { Write-Host "No data changes."; exit 0 }
+          git commit -m "Daily 2026-27 scrape $([DateTime]::UtcNow.ToString('yyyy-MM-dd'))"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Fail the job if the run step failed
+        if: steps.run.outcome == 'failure'
+        run: exit 1
