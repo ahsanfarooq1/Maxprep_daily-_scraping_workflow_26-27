@@ -5,7 +5,8 @@
 #
 # Every day at 10:00 Pakistan time (05:00 UTC):
 #   box scores for yesterday's games (+ retries) -> stats tab for the teams that played
-#   -> accumulated + Final files, for all 30 states, boys + girls.
+#   -> accumulated + Final files, for all 30 states, boys + girls
+#   -> team lists (Team_list_26-27) refreshed: data_availablity = none (GP=0) / partial (GP>0).
 # Sundays also re-read every team schedule (finds newly added / moved games).
 # A second trigger 3h later is a no-op when the first one finished.
 #
@@ -88,6 +89,10 @@ jobs:
             echo "== $(basename "$f" .log)"
             grep -E 'Done |ABORT|Traceback|Stats tab:' "$f" | tail -4 | cut -c1-200
           done
+
+      - name: Update team lists (none / partial from GP)
+        if: always()
+        run: python update_team_lists.py
 
       - name: Commit data
         run: |
