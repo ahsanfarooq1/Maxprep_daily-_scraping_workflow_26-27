@@ -42246,7 +42246,7 @@
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 2,
-        "TotalGamesChecked": 2,
+        "TotalGamesChecked": 3,
         "total_games_scheduled": 22,
         "MPG": 0.0,
         "PPG": 35.0,

@@ -3537,7 +3537,7 @@
         "team_name": "Stanhope Elmore Mustangs",
         "city": "Millbrook",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Straughn Tigeres",
@@ -4737,7 +4737,7 @@
         "team_name": "Harding Academy Wildcats",
         "city": "Searcy",
         "state": "AR",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Harmony Grove Cardinals",
@@ -22275,7 +22275,7 @@
         "team_name": "Crystal River Pirates",
         "city": "Crystal River",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cushman Cougars",
@@ -22575,7 +22575,7 @@
         "team_name": "Edgewood Red Wolves",
         "city": "Merritt Island",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Edison Red Raiders",
@@ -23823,7 +23823,7 @@
         "team_name": "Liberty Christian Prep Lions",
         "city": "Tavares",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Liberty County Bulldogs",
@@ -24027,7 +24027,7 @@
         "team_name": "Merritt Island Christian Cougars",
         "city": "Merritt Island",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Merritt Island Mustangs",
@@ -26565,7 +26565,7 @@
         "team_name": "Charlton County Indians",
         "city": "Folkston",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Chattahoochee Cougars",
@@ -28761,7 +28761,7 @@
         "team_name": "Riverwood Raiders",
         "city": "Sandy Springs",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Robert Toombs Christian Academy Crusaders",
@@ -29145,7 +29145,7 @@
         "team_name": "Strong Rock Christian Patriots",
         "city": "Locust Grove",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sugar Hill Christian Academy Stallions",
@@ -29175,7 +29175,7 @@
         "team_name": "Tallulah Falls Indians",
         "city": "Tallulah Falls",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tapestry Charter Titans",
@@ -38571,7 +38571,7 @@
         "team_name": "Corydon Central Panthers",
         "city": "Corydon",
         "state": "IN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Covenant Christian Warriors",
@@ -38769,7 +38769,7 @@
         "team_name": "Eman Hudhud",
         "city": "Fishers",
         "state": "IN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Eminence",
@@ -38811,7 +38811,7 @@
         "team_name": "Evansville Homeschool Racers Racers",
         "city": "Evansville",
         "state": "IN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Evansville Mater Dei Wildcats",
@@ -39723,7 +39723,7 @@
         "team_name": "Morristown Yellow Jackets",
         "city": "Morristown",
         "state": "IN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mt Vernon Marauders",
@@ -64017,7 +64017,7 @@
         "team_name": "Hickory Flat Rebels",
         "city": "Hickory Flat",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hillcrest Christian Cougars",
@@ -64587,7 +64587,7 @@
         "team_name": "Noxapater Tigers",
         "city": "Noxapater",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Noxubee County Tigers",
@@ -64665,7 +64665,7 @@
         "team_name": "Pascagoula Panthers",
         "city": "Pascagoula",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Pass Christian Pirates",
@@ -64815,7 +64815,7 @@
         "team_name": "Raymond Rangers",
         "city": "Raymond",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Regents Lions",
@@ -66507,7 +66507,7 @@
         "team_name": "Ashbrook Greenwave",
         "city": "Gastonia",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Ashe County Huskies",
@@ -67209,7 +67209,7 @@
         "team_name": "Cresset Christian Academy Eagles",
         "city": "Durham",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Crest Chargers",
@@ -67959,7 +67959,7 @@
         "team_name": "Heritage Huskies",
         "city": "Wake Forest",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Heritage Leadership Academy",
@@ -67989,7 +67989,7 @@
         "team_name": "Hickory Grove Christian Lions",
         "city": "Charlotte",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hickory Ridge Bulls",
@@ -68013,7 +68013,7 @@
         "team_name": "High Point Christian Academy Cougars",
         "city": "High Point",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Highland Tech Rams",
@@ -68073,7 +68073,7 @@
         "team_name": "Holly Springs Golden Hawks",
         "city": "Holly Springs",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hopewell Titans",
@@ -68139,7 +68139,7 @@
         "team_name": "James Kenan Tigers",
         "city": "Warsaw",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Jay M Robinson Bulldogs",
@@ -68439,7 +68439,7 @@
         "team_name": "Metrolina Christian Academy Warriors",
         "city": "Indian Trail",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Middle Creek Mustangs",
@@ -69177,7 +69177,7 @@
         "team_name": "Quality Education Academy Pharaohs",
         "city": "Winston Salem",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Queens Grant Stallions",
@@ -69993,7 +69993,7 @@
         "team_name": "Thomasville Bulldogs",
         "city": "Thomasville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Topsail Pirates",
@@ -86025,7 +86025,7 @@
         "team_name": "Harvest Temple Christian Academy",
         "city": "Clyde",
         "state": "OH",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Harvey Red Raiders",
@@ -107091,7 +107091,7 @@
         "team_name": "Dallas Christian Chargers",
         "city": "Mesquite",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Dallas HSAA Red",
@@ -109935,7 +109935,7 @@
         "team_name": "Kingwood Mustangs",
         "city": "Kingwood",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Kingwood Park Panthers",
@@ -110277,7 +110277,7 @@
         "team_name": "Lasara Lions",
         "city": "Lasara",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Latexo Tigers",
@@ -111603,7 +111603,7 @@
         "team_name": "New Braunfels Christian Academy Wildcats",
         "city": "New Braunfels",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "New Braunfels Unicorns",
@@ -114285,7 +114285,7 @@
         "team_name": "The Christian School At Castle Hills Eagles",
         "city": "San Antonio",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "The Colony Cougars",
@@ -114867,7 +114867,7 @@
         "team_name": "Village Vikings",
         "city": "Houston",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Vista Ridge Rangers",
