@@ -7,7 +7,7 @@
   "season": "2026-2027",
   "level": "varsity",
   "created": "2026-11-05 15:25:48",
-  "last_updated": "2026-11-14 10:58:19",
+  "last_updated": "2026-11-14 11:58:22",
   "totalTeams": 374,
   "processedTeamsCount": 374,
   "processedTeams": [
@@ -480,6 +480,20 @@
       "attempted": 3,
       "SUCCESS": 0,
       "NO_DATA": 3,
+      "FAILED": 0,
+      "records_added": 0,
+      "records_updated": 0
+    },
+    {
+      "at": "2026-11-14 11:58:22",
+      "window": [
+        "2026-11-13",
+        "2026-11-13"
+      ],
+      "new_games": 0,
+      "attempted": 0,
+      "SUCCESS": 0,
+      "NO_DATA": 0,
       "FAILED": 0,
       "records_added": 0,
       "records_updated": 0
