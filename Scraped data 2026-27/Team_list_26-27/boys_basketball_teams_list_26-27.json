@@ -4359,7 +4359,7 @@
         "team_name": "Clarksville Panthers",
         "city": "Clarksville",
         "state": "AR",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Clinton Yellowjackets",
@@ -9195,7 +9195,7 @@
         "team_name": "Bonita Vista Barons",
         "city": "Chula Vista",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bonsall Legionnaires",
@@ -17595,7 +17595,7 @@
         "team_name": "Wilson Mules",
         "city": "Los Angeles",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Wilson Prep Eagles",
@@ -27951,7 +27951,7 @@
         "team_name": "Brunswick Pirates",
         "city": "Brunswick",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bryan County Redskins",
@@ -29253,7 +29253,7 @@
         "team_name": "Heritage Patriots",
         "city": "Conyers",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Heritage Preparatory Rams",
@@ -30081,7 +30081,7 @@
         "team_name": "North Cobb Warriors",
         "city": "Kennesaw",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North Forsyth Raiders",
@@ -31233,7 +31233,7 @@
         "team_name": "Veterans Warhawks",
         "city": "Kathleen",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Victory Baptist Warrior",
@@ -66663,7 +66663,7 @@
         "team_name": "Bay Tigers",
         "city": "Bay St Louis",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bayou Academy Colts",
@@ -70155,13 +70155,13 @@
         "team_name": "Cape Fear Academy Hurricanes",
         "city": "Wilmington",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cape Fear Christian Academy Eagles",
         "city": "Erwin",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cape Fear Colts",
@@ -89031,7 +89031,7 @@
         "team_name": "Bowling Green Christian Academy Lions",
         "city": "Bowling Green",
         "state": "OH",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bowsher Blueracers",
@@ -110055,7 +110055,7 @@
         "team_name": "Anna Coyotes",
         "city": "Anna",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Annapolis Christian Academy Warriors",
@@ -110643,7 +110643,7 @@
         "team_name": "Boerne Greyhounds",
         "city": "Boerne",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Boles Hornets",
@@ -110865,7 +110865,7 @@
         "team_name": "Bridgeport Bulls",
         "city": "Bridgeport",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Brighter Horizons Academy Stars",
@@ -111693,7 +111693,7 @@
         "team_name": "Cole Cougars",
         "city": "San Antonio",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Coleman Bluecats",
@@ -112593,7 +112593,7 @@
         "team_name": "East Central Hornets",
         "city": "San Antonio",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "East Chambers Buccaneers",
@@ -112623,7 +112623,7 @@
         "team_name": "Eastern Hills Highlanders",
         "city": "Fort Worth",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Eastlake Falcons",
@@ -113409,7 +113409,7 @@
         "team_name": "Garland Owls",
         "city": "Garland",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Garner Longhorns",
@@ -114105,7 +114105,7 @@
         "team_name": "Hartley Tigers",
         "city": "Hartley",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Harts Bluff Bulldogs",
@@ -114285,7 +114285,7 @@
         "team_name": "Heritage Coyotes",
         "city": "Frisco",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hermleigh Cardinals",
@@ -116343,7 +116343,7 @@
         "team_name": "Manor Mustangs",
         "city": "Manor",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Manor New Tech Titans",
@@ -116637,7 +116637,7 @@
         "team_name": "Melissa Cardinals",
         "city": "Melissa",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Memorial Christian Academy Warriors",
@@ -116811,7 +116811,7 @@
         "team_name": "Midway Panthers",
         "city": "Waco",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Milano Eagles",
@@ -118293,7 +118293,7 @@
         "team_name": "Red Oak Hawks",
         "city": "Red Oak",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Red River Rattlers",
@@ -118461,7 +118461,7 @@
         "team_name": "Robinson Rockets",
         "city": "Robinson",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Robstown Cottonpickers",
@@ -119217,7 +119217,7 @@
         "team_name": "Smithson Valley Rangers",
         "city": "Spring Branch",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Smithville Tigers",
@@ -119697,7 +119697,7 @@
         "team_name": "Stony Point Tigers",
         "city": "Round Rock",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Strake Jesuit Fighting Crusaders",
@@ -120309,7 +120309,7 @@
         "team_name": "Tyler Legacy Red Raiders",
         "city": "Tyler",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tyler Street Christian Academy",
@@ -120405,7 +120405,7 @@
         "team_name": "Uvalde Coyotes Lobos For Girls ",
         "city": "Uvalde",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Valentine",
