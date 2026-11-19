@@ -567,7 +567,7 @@
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
-        "TotalGamesChecked": 1,
+        "TotalGamesChecked": 2,
         "MPG": 0.0,
         "PPG": 36.0,
         "DEFR": 12.0,
