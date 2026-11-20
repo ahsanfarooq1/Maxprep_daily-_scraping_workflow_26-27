@@ -34,6 +34,22 @@ STATES = {
 }
 
 
+# --boost: more parallel requests for the states that take longest (useful on a slow VPN, where each
+# request spends most of its time waiting). (game workers, stats-tab workers). Default is 5 / 8.
+BOOST = {"TX": (24, 16), "CA": (14, 12), "FL": (14, 12), "GA": (14, 12), "AL": (14, 12),
+         "NC": (12, 12), "AR": (12, 12), "IN": (10, 10), "OK": (10, 10), "IL": (10, 10)}
+
+
+def say(logs, msg):
+    """print + append to the day's _run_summary.log"""
+    print(msg, flush=True)
+    try:
+        with open(os.path.join(logs, "_run_summary.log"), "a", encoding="utf-8") as f:
+            f.write(msg + "\n")
+    except OSError:
+        pass
+
+
 def utc_today():
     return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
 
@@ -44,6 +60,10 @@ def run_state(code, a, logs):
     cmd = [sys.executable, "-u", os.path.join(HERE, "daily_gapfinder.py"),
            "--state", code, "--sport", "both", "--season", a.season,
            "--game-workers", str(a.game_workers), "--output-dir", out_dir, "--no-excel"]
+    if a.boost and code in BOOST:
+        gw, sw = BOOST[code]
+        cmd[cmd.index("--game-workers") + 1] = str(max(gw, a.game_workers))
+        cmd += ["--stats-tab-workers", str(sw)]
     if a.date:
         cmd += ["--date", a.date]
     if a.date_from:
@@ -58,14 +78,17 @@ def run_state(code, a, logs):
         cmd += ["--no-stats-tab"]
     env = {**os.environ, "PYTHONIOENCODING": "utf-8", "PYTHONUTF8": "1"}
     t0 = time.time()
-    with open(os.path.join(logs, f"{code}.log"), "w", encoding="utf-8") as lf:
+    # one folder per day (_logs/YYYY-MM-DD/); a second run the same day appends to the same file
+    with open(os.path.join(logs, f"{code}.log"), "a", encoding="utf-8") as lf:
+        lf.write(f"\n===== run started {time.strftime('%Y-%m-%d %H:%M:%S')}: {' '.join(cmd[2:])} =====\n")
+        lf.flush()
         try:
             rc = subprocess.run(cmd, stdout=lf, stderr=subprocess.STDOUT, cwd=HERE, env=env,
                                 timeout=a.state_timeout_min * 60).returncode
         except subprocess.TimeoutExpired:
             rc = 124
             lf.write(f"\n[run_daily] killed after {a.state_timeout_min} min\n")
-    print(f"{time.strftime('%H:%M:%S')} {code:2} rc={rc} ({int(time.time() - t0)}s)", flush=True)
+    say(logs, f"{time.strftime('%H:%M:%S')} {code:2} rc={rc} ({int(time.time() - t0)}s)")
     return code, rc
 
 
@@ -81,6 +104,8 @@ def main():
     ap.add_argument("--parallel", type=int, default=10, help="states processed at the same time")
     ap.add_argument("--game-workers", type=int, default=5)
     ap.add_argument("--state-timeout-min", type=int, default=120, help="kill one state after this long")
+    ap.add_argument("--boost", action="store_true",
+                    help="more workers for the slowest states (TX, CA, FL, ...) and start them first; for slow links")
     ap.add_argument("--skip-if-done-today", action="store_true",
                     help="exit 0 immediately if a full run already completed today (UTC)")
     a = ap.parse_args()
@@ -99,10 +124,13 @@ def main():
     bad = [c for c in codes if c not in STATES]
     if bad:
         sys.exit(f"Unknown state code(s): {bad}")
-    logs = os.path.join(a.data_root, "_logs")
+    if a.boost:
+        codes.sort(key=lambda c: -(BOOST[c][0] if c in BOOST else 0))   # slowest states start first
+    logs = os.path.join(a.data_root, "_logs", time.strftime("%Y-%m-%d"))     # local date of the run
     os.makedirs(logs, exist_ok=True)
-    print(f"run_daily: {len(codes)} states, {a.parallel} at a time, "
-          f"{'WITH schedule refresh' if a.refresh_schedule else 'schedule not refetched'}", flush=True)
+    say(logs, f"{time.strftime('%Y-%m-%d %H:%M:%S')} run_daily {' '.join(sys.argv[1:])}")
+    say(logs, f"run_daily: {len(codes)} states, {a.parallel} at a time, "
+              f"{'WITH schedule refresh' if a.refresh_schedule else 'schedule not refetched'}")
     with ThreadPoolExecutor(a.parallel) as ex:
         rcs = dict(ex.map(lambda c: run_state(c, a, logs), codes))
     failed = {c: r for c, r in rcs.items() if r}
@@ -111,7 +139,7 @@ def main():
         with open(marker, "w", encoding="utf-8") as f:
             json.dump({"date": utc_today(), "ok": ok, "failed": failed,
                        "finished": time.strftime("%Y-%m-%d %H:%M:%S")}, f, indent=2)
-    print("DONE. problems:", failed or "none", flush=True)
+    say(logs, f"DONE. problems: {failed or 'none'}")
     return 0 if ok else 1
 
 

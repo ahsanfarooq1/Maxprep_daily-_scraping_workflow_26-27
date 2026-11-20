@@ -58,6 +58,27 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # The working files (gap / box-score / stats-tab: ~800 MB of JSON) are NOT kept in git. They live
+      # compressed (~60 MB) in the 'state' GitHub Release (asset state.tar.gz; yesterday's copy is kept as
+      # state-prev.tar.gz for a one-step rollback). First run ever: no release yet, so the files still
+      # committed in the repo are used and then moved into the release.
+      # If the state is missing/incomplete the check fails the job: running on would rebuild the Final files
+      # from nothing.
+      - name: Restore pipeline state
+        id: restore
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          if gh release view state >/dev/null 2>&1; then
+            mkdir -p "$RUNNER_TEMP/state"
+            gh release download state --pattern state.tar.gz --dir "$RUNNER_TEMP/state" --clobber
+            python state_store.py unpack --archive "$RUNNER_TEMP/state/state.tar.gz"
+          else
+            echo "No 'state' release yet - first run: using the working files committed in the repo."
+          fi
+          python state_store.py check
+
       - name: Run daily gap finder + stats tab + accumulate
         id: run
         continue-on-error: true
@@ -84,7 +105,7 @@ jobs:
       - name: Per-state log summary
         if: always()
         run: |
-          for f in "Scraped data 2026-27/_logs"/*.log; do
+          for f in "Scraped data 2026-27/_logs/$(date +%Y-%m-%d)"/*.log; do
             [ -f "$f" ] || continue
             echo "== $(basename "$f" .log)"
             grep -E 'Done |ABORT|Traceback|Stats tab:' "$f" | tail -4 | cut -c1-200
@@ -94,11 +115,59 @@ jobs:
         if: always()
         run: python update_team_lists.py
 
+      # Small always-committed files for ingestion + debugging: _reports/manifest.json (sha256 + row counts
+      # per Final file) and _reports/run_report_<date>.json (game counts by status/date, FAILED contest ids).
+      # Report-only for now: a regression (a Final file whose team/player/GP numbers went DOWN) is printed
+      # and shown in the job summary but does not block the commit. Add --strict to block it.
+      - name: Manifest + run report + regression check
+        if: always()
+        run: python publish_manifest.py --summary-md "$GITHUB_STEP_SUMMARY"
+
+      # Publish the working state for the next run. It is checked first, so an incomplete state is never
+      # published. The previous state is kept as state-prev.tar.gz (rollback: download it and run
+      #   python state_store.py unpack --archive state-prev.tar.gz   or re-upload it as state.tar.gz).
+      - name: Save pipeline state
+        if: ${{ !cancelled() && steps.restore.outcome == 'success' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          python state_store.py check
+          mkdir -p "$RUNNER_TEMP/state-new"
+          python state_store.py pack --out "$RUNNER_TEMP/state-new/state.tar.gz"
+          if ! gh release view state >/dev/null 2>&1; then
+            gh release create state --target main --latest=false --title "Pipeline state (not data)" \
+              --notes "Compressed working files (gap / box-score / stats-tab) the daily run resumes from. Rewritten by every run. The data to ingest is the Final_*.json files in the repo."
+          fi
+          if [ -f "$RUNNER_TEMP/state/state.tar.gz" ]; then
+            cp "$RUNNER_TEMP/state/state.tar.gz" "$RUNNER_TEMP/state-new/state-prev.tar.gz"
+            gh release upload state "$RUNNER_TEMP/state-new/state-prev.tar.gz" --clobber
+          fi
+          gh release upload state "$RUNNER_TEMP/state-new/state.tar.gz" --clobber
+
+      # Per-state logs are big and only useful for a few days: keep them as a workflow artifact, not in git.
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-${{ github.run_number }}-${{ github.run_attempt }}
+          path: Scraped data 2026-27/_logs
+          retention-days: 7
+          if-no-files-found: ignore
+
+      # Git only holds the small, human-checkable files: Final_*.json, Team_list_26-27, _reports, the daily
+      # marker. The working files stay in the 'state' release; any that are still tracked (first run after
+      # this change) are removed from the index here - they remain in git history, not in new commits.
       - name: Commit data
         run: |
           git config user.name "maxpreps-daily-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A -- "Scraped data 2026-27"
+          git ls-files -z -- "Scraped data 2026-27" \
+            | { grep -zE '(_data_gaps_|_box_scores_|_all_stats_tab_|_accumulated_stats_)[^/]*$|\.xlsx$|\.tmp$|/_logs/' || true; } \
+            | xargs -0 -r git rm --cached -q --
+          git add -A -- "Scraped data 2026-27" \
+            ":(exclude)*_data_gaps_*" ":(exclude)*_box_scores_*" ":(exclude)*_all_stats_tab_*" \
+            ":(exclude)*_accumulated_stats_*" ":(exclude)*.xlsx" ":(exclude)*.tmp" ":(exclude)*/_logs/*"
           if git diff --cached --quiet; then echo "No data changes."; exit 0; fi
           git commit -m "Daily 2026-27 scrape $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
