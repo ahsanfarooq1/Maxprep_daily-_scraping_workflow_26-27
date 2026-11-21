@@ -1,0 +1,3170 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21 09:54:01 UTC",
+ "regressions": [],
+ "final_files": 45,
+ "states_sports": {
+  "AL_boys": {
+   "games": 5749,
+   "status": {
+    "NO_DATA": 746,
+    "PENDING": 4762,
+    "SUCCESS": 241
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "NO_DATA": 1
+    },
+    "2026-11-03": {
+     "SUCCESS": 2,
+     "NO_DATA": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 23,
+     "SUCCESS": 13
+    },
+    "2026-11-06": {
+     "NO_DATA": 14,
+     "SUCCESS": 14
+    },
+    "2026-11-07": {
+     "NO_DATA": 10,
+     "SUCCESS": 13
+    },
+    "2026-11-09": {
+     "NO_DATA": 20,
+     "SUCCESS": 8
+    },
+    "2026-11-10": {
+     "NO_DATA": 70,
+     "SUCCESS": 26
+    },
+    "2026-11-11": {
+     "NO_DATA": 22,
+     "SUCCESS": 10
+    },
+    "2026-11-12": {
+     "SUCCESS": 34,
+     "NO_DATA": 48
+    },
+    "2026-11-13": {
+     "NO_DATA": 62,
+     "SUCCESS": 22
+    },
+    "2026-11-14": {
+     "NO_DATA": 23,
+     "SUCCESS": 11
+    },
+    "2026-11-16": {
+     "NO_DATA": 50,
+     "PENDING": 3,
+     "SUCCESS": 27
+    },
+    "2026-11-17": {
+     "NO_DATA": 106,
+     "SUCCESS": 37,
+     "PENDING": 5
+    },
+    "2026-11-18": {
+     "NO_DATA": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 115,
+     "PENDING": 8,
+     "SUCCESS": 10
+    },
+    "2026-11-20": {
+     "NO_DATA": 111,
+     "PENDING": 13,
+     "SUCCESS": 10
+    },
+    "2026-11-21": {
+     "NO_DATA": 53,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "AL_girls": {
+   "games": 5535,
+   "status": {
+    "SUCCESS": 246,
+    "NO_DATA": 837,
+    "PENDING": 4452
+   },
+   "recent_by_date": {
+    "2026-11-03": {
+     "SUCCESS": 4
+    },
+    "2026-11-04": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 28,
+     "SUCCESS": 16
+    },
+    "2026-11-06": {
+     "NO_DATA": 21,
+     "SUCCESS": 15
+    },
+    "2026-11-07": {
+     "NO_DATA": 45,
+     "SUCCESS": 25
+    },
+    "2026-11-09": {
+     "NO_DATA": 19,
+     "SUCCESS": 8
+    },
+    "2026-11-10": {
+     "NO_DATA": 66,
+     "SUCCESS": 29
+    },
+    "2026-11-11": {
+     "SUCCESS": 10,
+     "NO_DATA": 21
+    },
+    "2026-11-12": {
+     "NO_DATA": 59,
+     "SUCCESS": 23
+    },
+    "2026-11-13": {
+     "NO_DATA": 67,
+     "SUCCESS": 21
+    },
+    "2026-11-14": {
+     "SUCCESS": 19,
+     "NO_DATA": 47
+    },
+    "2026-11-16": {
+     "NO_DATA": 56,
+     "PENDING": 3,
+     "SUCCESS": 20
+    },
+    "2026-11-17": {
+     "NO_DATA": 113,
+     "SUCCESS": 35,
+     "PENDING": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 11
+    },
+    "2026-11-19": {
+     "NO_DATA": 116,
+     "SUCCESS": 14,
+     "PENDING": 8
+    },
+    "2026-11-20": {
+     "NO_DATA": 114,
+     "PENDING": 13,
+     "SUCCESS": 6
+    },
+    "2026-11-21": {
+     "NO_DATA": 49,
+     "PENDING": 3
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "AZ_boys": {
+   "games": 3188,
+   "status": {
+    "PENDING": 2967,
+    "NO_DATA": 154,
+    "SUCCESS": 67
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 1,
+     "PENDING": 1
+    },
+    "2026-11-02": {
+     "PENDING": 2
+    },
+    "2026-11-03": {
+     "NO_DATA": 1
+    },
+    "2026-11-04": {
+     "PENDING": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-06": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-07": {
+     "NO_DATA": 1,
+     "SUCCESS": 2
+    },
+    "2026-11-08": {
+     "SUCCESS": 3,
+     "NO_DATA": 1
+    },
+    "2026-11-09": {
+     "SUCCESS": 1
+    },
+    "2026-11-11": {
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-15": {
+     "SUCCESS": 1,
+     "PENDING": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 37,
+     "SUCCESS": 36,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 21,
+     "SUCCESS": 5
+    },
+    "2026-11-20": {
+     "NO_DATA": 68,
+     "SUCCESS": 9
+    },
+    "2026-11-21": {
+     "NO_DATA": 16
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "AZ_girls": {
+   "games": 2861,
+   "status": {
+    "PENDING": 2678,
+    "SUCCESS": 52,
+    "NO_DATA": 131
+   },
+   "recent_by_date": {
+    "2026-11-12": {
+     "NO_DATA": 1
+    },
+    "2026-11-13": {
+     "SUCCESS": 1,
+     "NO_DATA": 2
+    },
+    "2026-11-16": {
+     "NO_DATA": 1
+    },
+    "2026-11-18": {
+     "SUCCESS": 38,
+     "NO_DATA": 32
+    },
+    "2026-11-19": {
+     "NO_DATA": 29,
+     "SUCCESS": 2,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 50,
+     "SUCCESS": 11,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 16,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "AR_boys": {
+   "games": 3707,
+   "status": {
+    "NO_DATA": 688,
+    "SUCCESS": 96,
+    "PENDING": 2923
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 2,
+     "SUCCESS": 2
+    },
+    "2026-11-02": {
+     "NO_DATA": 7,
+     "SUCCESS": 3
+    },
+    "2026-11-03": {
+     "NO_DATA": 27,
+     "SUCCESS": 5
+    },
+    "2026-11-04": {
+     "NO_DATA": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 13,
+     "SUCCESS": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 12,
+     "NO_DATA": 20
+    },
+    "2026-11-07": {
+     "NO_DATA": 12,
+     "SUCCESS": 5
+    },
+    "2026-11-09": {
+     "NO_DATA": 27,
+     "SUCCESS": 2
+    },
+    "2026-11-10": {
+     "NO_DATA": 72,
+     "SUCCESS": 9
+    },
+    "2026-11-11": {
+     "NO_DATA": 3
+    },
+    "2026-11-12": {
+     "SUCCESS": 4,
+     "NO_DATA": 53
+    },
+    "2026-11-13": {
+     "NO_DATA": 52,
+     "SUCCESS": 8
+    },
+    "2026-11-14": {
+     "NO_DATA": 17,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "SUCCESS": 5,
+     "NO_DATA": 27,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 89,
+     "SUCCESS": 14,
+     "PENDING": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 10,
+     "SUCCESS": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 72,
+     "SUCCESS": 4,
+     "PENDING": 6
+    },
+    "2026-11-20": {
+     "NO_DATA": 62,
+     "PENDING": 3,
+     "SUCCESS": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 27,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "AR_girls": {
+   "games": 3400,
+   "status": {
+    "PENDING": 2639,
+    "NO_DATA": 698,
+    "SUCCESS": 63
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 1
+    },
+    "2026-11-02": {
+     "NO_DATA": 12,
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 20,
+     "SUCCESS": 2
+    },
+    "2026-11-04": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 8
+    },
+    "2026-11-06": {
+     "NO_DATA": 22,
+     "SUCCESS": 2
+    },
+    "2026-11-07": {
+     "NO_DATA": 7,
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 34,
+     "SUCCESS": 5
+    },
+    "2026-11-10": {
+     "NO_DATA": 79,
+     "SUCCESS": 14
+    },
+    "2026-11-11": {
+     "NO_DATA": 2,
+     "SUCCESS": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 60,
+     "SUCCESS": 10
+    },
+    "2026-11-13": {
+     "NO_DATA": 51,
+     "SUCCESS": 5
+    },
+    "2026-11-14": {
+     "SUCCESS": 2,
+     "NO_DATA": 12
+    },
+    "2026-11-15": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 49,
+     "SUCCESS": 5
+    },
+    "2026-11-17": {
+     "NO_DATA": 90,
+     "PENDING": 6,
+     "SUCCESS": 9
+    },
+    "2026-11-18": {
+     "NO_DATA": 10
+    },
+    "2026-11-19": {
+     "NO_DATA": 87,
+     "PENDING": 6,
+     "SUCCESS": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 54,
+     "PENDING": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 26,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "CA_boys": {
+   "games": 15034,
+   "status": {
+    "NO_DATA": 990,
+    "PENDING": 13783,
+    "SUCCESS": 261
+   },
+   "recent_by_date": {
+    "2026-11-06": {
+     "SUCCESS": 1
+    },
+    "2026-11-07": {
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 4
+    },
+    "2026-11-10": {
+     "SUCCESS": 1,
+     "NO_DATA": 1
+    },
+    "2026-11-11": {
+     "SUCCESS": 1,
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "SUCCESS": 1,
+     "NO_DATA": 3
+    },
+    "2026-11-13": {
+     "NO_DATA": 21,
+     "SUCCESS": 15
+    },
+    "2026-11-14": {
+     "NO_DATA": 8,
+     "SUCCESS": 4
+    },
+    "2026-11-15": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "PENDING": 5,
+     "SUCCESS": 55,
+     "NO_DATA": 95
+    },
+    "2026-11-17": {
+     "NO_DATA": 135,
+     "SUCCESS": 50,
+     "PENDING": 4
+    },
+    "2026-11-18": {
+     "NO_DATA": 144,
+     "SUCCESS": 68,
+     "PENDING": 8
+    },
+    "2026-11-19": {
+     "NO_DATA": 185,
+     "SUCCESS": 28,
+     "PENDING": 11
+    },
+    "2026-11-20": {
+     "NO_DATA": 219,
+     "SUCCESS": 36,
+     "PENDING": 25
+    },
+    "2026-11-21": {
+     "NO_DATA": 170,
+     "PENDING": 11
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "CA_girls": {
+   "games": 13765,
+   "status": {
+    "PENDING": 12502,
+    "SUCCESS": 273,
+    "NO_DATA": 990
+   },
+   "recent_by_date": {
+    "2026-11-09": {
+     "NO_DATA": 1
+    },
+    "2026-11-10": {
+     "NO_DATA": 2
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "SUCCESS": 1,
+     "NO_DATA": 9
+    },
+    "2026-11-13": {
+     "NO_DATA": 16,
+     "SUCCESS": 8
+    },
+    "2026-11-14": {
+     "NO_DATA": 15,
+     "SUCCESS": 3
+    },
+    "2026-11-15": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "PENDING": 8,
+     "SUCCESS": 60,
+     "NO_DATA": 108
+    },
+    "2026-11-17": {
+     "NO_DATA": 153,
+     "SUCCESS": 61,
+     "PENDING": 14
+    },
+    "2026-11-18": {
+     "SUCCESS": 64,
+     "NO_DATA": 111,
+     "PENDING": 8
+    },
+    "2026-11-19": {
+     "SUCCESS": 33,
+     "NO_DATA": 200,
+     "PENDING": 20
+    },
+    "2026-11-20": {
+     "SUCCESS": 43,
+     "PENDING": 22,
+     "NO_DATA": 207
+    },
+    "2026-11-21": {
+     "PENDING": 19,
+     "NO_DATA": 163
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "FL_boys": {
+   "games": 8968,
+   "status": {
+    "PENDING": 7737,
+    "NO_DATA": 784,
+    "SUCCESS": 446,
+    "RETRY": 1
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "PENDING": 2,
+     "NO_DATA": 1,
+     "RETRY": 1
+    },
+    "2026-11-01": {
+     "NO_DATA": 2,
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 4,
+     "NO_DATA": 1
+    },
+    "2026-11-03": {
+     "SUCCESS": 5,
+     "NO_DATA": 3
+    },
+    "2026-11-04": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 4,
+     "SUCCESS": 5,
+     "PENDING": 1
+    },
+    "2026-11-06": {
+     "NO_DATA": 17,
+     "SUCCESS": 13
+    },
+    "2026-11-07": {
+     "NO_DATA": 16,
+     "SUCCESS": 6
+    },
+    "2026-11-08": {
+     "NO_DATA": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 11,
+     "SUCCESS": 10
+    },
+    "2026-11-10": {
+     "SUCCESS": 27,
+     "NO_DATA": 49
+    },
+    "2026-11-11": {
+     "NO_DATA": 20,
+     "SUCCESS": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 19,
+     "NO_DATA": 38
+    },
+    "2026-11-13": {
+     "SUCCESS": 24,
+     "NO_DATA": 28
+    },
+    "2026-11-14": {
+     "SUCCESS": 8,
+     "NO_DATA": 14
+    },
+    "2026-11-15": {
+     "NO_DATA": 3
+    },
+    "2026-11-16": {
+     "SUCCESS": 88,
+     "NO_DATA": 43,
+     "PENDING": 2
+    },
+    "2026-11-17": {
+     "SUCCESS": 114,
+     "NO_DATA": 116,
+     "PENDING": 5
+    },
+    "2026-11-18": {
+     "SUCCESS": 52,
+     "NO_DATA": 44,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 155,
+     "PENDING": 22,
+     "SUCCESS": 31
+    },
+    "2026-11-20": {
+     "NO_DATA": 154,
+     "PENDING": 21,
+     "SUCCESS": 31
+    },
+    "2026-11-21": {
+     "NO_DATA": 39,
+     "PENDING": 3
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "FL_girls": {
+   "games": 6774,
+   "status": {
+    "NO_DATA": 618,
+    "SUCCESS": 352,
+    "PENDING": 5804
+   },
+   "recent_by_date": {
+    "2026-11-01": {
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 2
+    },
+    "2026-11-03": {
+     "NO_DATA": 1,
+     "SUCCESS": 3,
+     "PENDING": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 4,
+     "NO_DATA": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 5,
+     "NO_DATA": 4
+    },
+    "2026-11-07": {
+     "NO_DATA": 1,
+     "SUCCESS": 3
+    },
+    "2026-11-08": {
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 16,
+     "SUCCESS": 6
+    },
+    "2026-11-10": {
+     "NO_DATA": 42,
+     "SUCCESS": 23
+    },
+    "2026-11-11": {
+     "NO_DATA": 6,
+     "SUCCESS": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 14,
+     "NO_DATA": 23
+    },
+    "2026-11-13": {
+     "NO_DATA": 15,
+     "SUCCESS": 8
+    },
+    "2026-11-14": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-15": {
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 47,
+     "SUCCESS": 69,
+     "PENDING": 10
+    },
+    "2026-11-17": {
+     "NO_DATA": 104,
+     "SUCCESS": 107,
+     "PENDING": 6
+    },
+    "2026-11-18": {
+     "SUCCESS": 52,
+     "NO_DATA": 54,
+     "PENDING": 3
+    },
+    "2026-11-19": {
+     "NO_DATA": 157,
+     "SUCCESS": 31,
+     "PENDING": 18
+    },
+    "2026-11-20": {
+     "NO_DATA": 100,
+     "SUCCESS": 18,
+     "PENDING": 18
+    },
+    "2026-11-21": {
+     "NO_DATA": 26,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "GA_boys": {
+   "games": 7194,
+   "status": {
+    "NO_DATA": 614,
+    "SUCCESS": 351,
+    "PENDING": 6229
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "SUCCESS": 2,
+     "NO_DATA": 2
+    },
+    "2026-11-03": {
+     "SUCCESS": 5,
+     "NO_DATA": 8
+    },
+    "2026-11-04": {
+     "SUCCESS": 2,
+     "NO_DATA": 8
+    },
+    "2026-11-05": {
+     "NO_DATA": 13,
+     "SUCCESS": 4
+    },
+    "2026-11-06": {
+     "NO_DATA": 14,
+     "SUCCESS": 27
+    },
+    "2026-11-07": {
+     "NO_DATA": 39,
+     "SUCCESS": 39
+    },
+    "2026-11-09": {
+     "SUCCESS": 13,
+     "NO_DATA": 5
+    },
+    "2026-11-10": {
+     "SUCCESS": 59,
+     "NO_DATA": 35
+    },
+    "2026-11-11": {
+     "SUCCESS": 4,
+     "NO_DATA": 9
+    },
+    "2026-11-12": {
+     "NO_DATA": 21,
+     "SUCCESS": 25
+    },
+    "2026-11-13": {
+     "SUCCESS": 45,
+     "NO_DATA": 46
+    },
+    "2026-11-14": {
+     "SUCCESS": 31,
+     "NO_DATA": 47
+    },
+    "2026-11-16": {
+     "PENDING": 4,
+     "NO_DATA": 10,
+     "SUCCESS": 5
+    },
+    "2026-11-17": {
+     "SUCCESS": 56,
+     "NO_DATA": 97,
+     "PENDING": 6
+    },
+    "2026-11-18": {
+     "SUCCESS": 3,
+     "NO_DATA": 7
+    },
+    "2026-11-19": {
+     "PENDING": 4,
+     "NO_DATA": 62,
+     "SUCCESS": 10
+    },
+    "2026-11-20": {
+     "NO_DATA": 87,
+     "PENDING": 7,
+     "SUCCESS": 9
+    },
+    "2026-11-21": {
+     "NO_DATA": 94,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "GA_girls": {
+   "games": 6407,
+   "status": {
+    "NO_DATA": 579,
+    "PENDING": 5540,
+    "SUCCESS": 288
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 11,
+     "SUCCESS": 3,
+     "PENDING": 1
+    },
+    "2026-11-04": {
+     "NO_DATA": 7,
+     "SUCCESS": 3
+    },
+    "2026-11-05": {
+     "NO_DATA": 12,
+     "SUCCESS": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 12,
+     "NO_DATA": 12
+    },
+    "2026-11-07": {
+     "NO_DATA": 31,
+     "SUCCESS": 33
+    },
+    "2026-11-09": {
+     "NO_DATA": 4,
+     "SUCCESS": 4
+    },
+    "2026-11-10": {
+     "NO_DATA": 42,
+     "SUCCESS": 48
+    },
+    "2026-11-11": {
+     "NO_DATA": 8,
+     "SUCCESS": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 24,
+     "SUCCESS": 17
+    },
+    "2026-11-13": {
+     "NO_DATA": 32,
+     "SUCCESS": 39
+    },
+    "2026-11-14": {
+     "NO_DATA": 37,
+     "SUCCESS": 35
+    },
+    "2026-11-16": {
+     "PENDING": 2,
+     "SUCCESS": 4,
+     "NO_DATA": 6
+    },
+    "2026-11-17": {
+     "SUCCESS": 52,
+     "NO_DATA": 98,
+     "PENDING": 4
+    },
+    "2026-11-18": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-19": {
+     "NO_DATA": 59,
+     "SUCCESS": 15
+    },
+    "2026-11-20": {
+     "NO_DATA": 75,
+     "PENDING": 4,
+     "SUCCESS": 11
+    },
+    "2026-11-21": {
+     "NO_DATA": 103,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "ID_girls": {
+   "games": 1425,
+   "status": {
+    "NO_DATA": 143,
+    "PENDING": 1220,
+    "SUCCESS": 62
+   },
+   "recent_by_date": {
+    "2026-11-13": {
+     "SUCCESS": 6,
+     "NO_DATA": 5
+    },
+    "2026-11-14": {
+     "SUCCESS": 14,
+     "NO_DATA": 9
+    },
+    "2026-11-16": {
+     "SUCCESS": 4,
+     "NO_DATA": 6
+    },
+    "2026-11-17": {
+     "NO_DATA": 25,
+     "SUCCESS": 14,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 9,
+     "SUCCESS": 5
+    },
+    "2026-11-19": {
+     "NO_DATA": 36,
+     "SUCCESS": 12,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "SUCCESS": 7,
+     "NO_DATA": 24,
+     "PENDING": 3
+    },
+    "2026-11-21": {
+     "NO_DATA": 27
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "IL_boys": {
+   "games": 8251,
+   "status": {
+    "PENDING": 8222,
+    "SUCCESS": 9,
+    "NO_DATA": 20
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "SUCCESS": 1
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 2,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 1
+    },
+    "2026-11-19": {
+     "SUCCESS": 1
+    },
+    "2026-11-20": {
+     "SUCCESS": 2,
+     "NO_DATA": 7
+    },
+    "2026-11-21": {
+     "NO_DATA": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "IL_girls": {
+   "games": 7912,
+   "status": {
+    "NO_DATA": 761,
+    "PENDING": 6941,
+    "SUCCESS": 210
+   },
+   "recent_by_date": {
+    "2026-11-03": {
+     "SUCCESS": 1
+    },
+    "2026-11-04": {
+     "SUCCESS": 1
+    },
+    "2026-11-12": {
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 102,
+     "SUCCESS": 70,
+     "PENDING": 5
+    },
+    "2026-11-17": {
+     "NO_DATA": 103,
+     "SUCCESS": 58,
+     "PENDING": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 96,
+     "SUCCESS": 42,
+     "PENDING": 4
+    },
+    "2026-11-19": {
+     "NO_DATA": 145,
+     "SUCCESS": 20,
+     "PENDING": 2
+    },
+    "2026-11-20": {
+     "NO_DATA": 122,
+     "PENDING": 10,
+     "SUCCESS": 17
+    },
+    "2026-11-21": {
+     "NO_DATA": 189,
+     "PENDING": 10
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "IN_boys": {
+   "games": 5037,
+   "status": {
+    "PENDING": 4879,
+    "NO_DATA": 112,
+    "SUCCESS": 46
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 4
+    },
+    "2026-11-02": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 3,
+     "SUCCESS": 3
+    },
+    "2026-11-06": {
+     "SUCCESS": 4
+    },
+    "2026-11-07": {
+     "NO_DATA": 6,
+     "SUCCESS": 6
+    },
+    "2026-11-10": {
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 3
+    },
+    "2026-11-13": {
+     "NO_DATA": 5,
+     "SUCCESS": 4
+    },
+    "2026-11-14": {
+     "SUCCESS": 5,
+     "NO_DATA": 5
+    },
+    "2026-11-16": {
+     "SUCCESS": 3
+    },
+    "2026-11-17": {
+     "SUCCESS": 3,
+     "NO_DATA": 5
+    },
+    "2026-11-18": {
+     "NO_DATA": 10,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 32,
+     "PENDING": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 15,
+     "SUCCESS": 5
+    },
+    "2026-11-21": {
+     "PENDING": 4,
+     "NO_DATA": 28
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "IN_girls": {
+   "games": 4528,
+   "status": {
+    "NO_DATA": 508,
+    "PENDING": 3341,
+    "SUCCESS": 679
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 10,
+     "PENDING": 1
+    },
+    "2026-11-01": {
+     "PENDING": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 1,
+     "PENDING": 1,
+     "NO_DATA": 2
+    },
+    "2026-11-03": {
+     "SUCCESS": 43,
+     "NO_DATA": 15
+    },
+    "2026-11-04": {
+     "SUCCESS": 18,
+     "PENDING": 1,
+     "NO_DATA": 3
+    },
+    "2026-11-05": {
+     "SUCCESS": 58,
+     "NO_DATA": 13,
+     "PENDING": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 21,
+     "NO_DATA": 5
+    },
+    "2026-11-07": {
+     "SUCCESS": 97,
+     "NO_DATA": 17
+    },
+    "2026-11-08": {
+     "NO_DATA": 4
+    },
+    "2026-11-09": {
+     "SUCCESS": 5,
+     "NO_DATA": 3
+    },
+    "2026-11-10": {
+     "SUCCESS": 101,
+     "NO_DATA": 18
+    },
+    "2026-11-11": {
+     "SUCCESS": 16,
+     "NO_DATA": 3
+    },
+    "2026-11-12": {
+     "NO_DATA": 25,
+     "SUCCESS": 57
+    },
+    "2026-11-13": {
+     "NO_DATA": 23,
+     "SUCCESS": 47
+    },
+    "2026-11-14": {
+     "NO_DATA": 20,
+     "SUCCESS": 92
+    },
+    "2026-11-16": {
+     "SUCCESS": 7,
+     "NO_DATA": 3
+    },
+    "2026-11-17": {
+     "SUCCESS": 85,
+     "NO_DATA": 59,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "SUCCESS": 9,
+     "NO_DATA": 6
+    },
+    "2026-11-19": {
+     "NO_DATA": 69,
+     "SUCCESS": 13,
+     "PENDING": 3
+    },
+    "2026-11-20": {
+     "NO_DATA": 65,
+     "SUCCESS": 9,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 107,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "KS_boys": {
+   "games": 2646,
+   "status": {
+    "PENDING": 2632,
+    "NO_DATA": 13,
+    "SUCCESS": 1
+   },
+   "recent_by_date": {
+    "2026-11-09": {
+     "NO_DATA": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 4
+    },
+    "2026-11-14": {
+     "NO_DATA": 2
+    },
+    "2026-11-16": {
+     "SUCCESS": 1,
+     "NO_DATA": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 2
+    },
+    "2026-11-20": {
+     "NO_DATA": 2
+    },
+    "2026-11-21": {
+     "PENDING": 1,
+     "NO_DATA": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "KY_boys": {
+   "games": 4061,
+   "status": {
+    "NO_DATA": 136,
+    "PENDING": 3887,
+    "SUCCESS": 38
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 1
+    },
+    "2026-11-01": {
+     "SUCCESS": 2
+    },
+    "2026-11-02": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-04": {
+     "SUCCESS": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 3
+    },
+    "2026-11-06": {
+     "SUCCESS": 5
+    },
+    "2026-11-07": {
+     "SUCCESS": 4,
+     "NO_DATA": 2
+    },
+    "2026-11-09": {
+     "SUCCESS": 1
+    },
+    "2026-11-10": {
+     "SUCCESS": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 5,
+     "NO_DATA": 2
+    },
+    "2026-11-13": {
+     "SUCCESS": 5
+    },
+    "2026-11-14": {
+     "NO_DATA": 27,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 14,
+     "SUCCESS": 3,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 3
+    },
+    "2026-11-19": {
+     "NO_DATA": 15,
+     "SUCCESS": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 6
+    },
+    "2026-11-21": {
+     "NO_DATA": 63,
+     "PENDING": 5
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "KY_girls": {
+   "games": 3778,
+   "status": {
+    "NO_DATA": 152,
+    "PENDING": 3619,
+    "SUCCESS": 7
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "NO_DATA": 1
+    },
+    "2026-11-06": {
+     "SUCCESS": 2
+    },
+    "2026-11-07": {
+     "NO_DATA": 14,
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 1
+    },
+    "2026-11-10": {
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "NO_DATA": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 4
+    },
+    "2026-11-14": {
+     "NO_DATA": 70,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "PENDING": 1,
+     "NO_DATA": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 6,
+     "SUCCESS": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 4,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 8,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 6,
+     "SUCCESS": 1,
+     "PENDING": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 29,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "LA_boys": {
+   "games": 4300,
+   "status": {
+    "PENDING": 4004,
+    "SUCCESS": 72,
+    "NO_DATA": 224
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 3,
+     "SUCCESS": 4
+    },
+    "2026-11-04": {
+     "NO_DATA": 3
+    },
+    "2026-11-05": {
+     "NO_DATA": 2,
+     "SUCCESS": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 7,
+     "NO_DATA": 1
+    },
+    "2026-11-07": {
+     "NO_DATA": 3,
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 8,
+     "SUCCESS": 4
+    },
+    "2026-11-10": {
+     "SUCCESS": 11,
+     "NO_DATA": 30
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 24,
+     "SUCCESS": 3
+    },
+    "2026-11-13": {
+     "NO_DATA": 23,
+     "SUCCESS": 7
+    },
+    "2026-11-14": {
+     "NO_DATA": 17,
+     "SUCCESS": 3
+    },
+    "2026-11-16": {
+     "SUCCESS": 3,
+     "NO_DATA": 9
+    },
+    "2026-11-17": {
+     "NO_DATA": 26,
+     "SUCCESS": 5
+    },
+    "2026-11-18": {
+     "NO_DATA": 3,
+     "SUCCESS": 2
+    },
+    "2026-11-19": {
+     "PENDING": 1,
+     "SUCCESS": 3,
+     "NO_DATA": 36
+    },
+    "2026-11-20": {
+     "NO_DATA": 16,
+     "SUCCESS": 1,
+     "PENDING": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 3
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "LA_girls": {
+   "games": 3924,
+   "status": {
+    "PENDING": 3719,
+    "NO_DATA": 160,
+    "SUCCESS": 45
+   },
+   "recent_by_date": {
+    "2026-11-03": {
+     "SUCCESS": 3
+    },
+    "2026-11-04": {
+     "NO_DATA": 3
+    },
+    "2026-11-05": {
+     "SUCCESS": 1,
+     "NO_DATA": 3
+    },
+    "2026-11-06": {
+     "SUCCESS": 4,
+     "NO_DATA": 1
+    },
+    "2026-11-09": {
+     "SUCCESS": 5,
+     "NO_DATA": 8
+    },
+    "2026-11-10": {
+     "SUCCESS": 6,
+     "NO_DATA": 26
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 18,
+     "SUCCESS": 6
+    },
+    "2026-11-13": {
+     "NO_DATA": 19,
+     "SUCCESS": 3
+    },
+    "2026-11-14": {
+     "NO_DATA": 9,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 8,
+     "SUCCESS": 3
+    },
+    "2026-11-17": {
+     "NO_DATA": 20,
+     "PENDING": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 2
+    },
+    "2026-11-19": {
+     "NO_DATA": 28,
+     "SUCCESS": 3
+    },
+    "2026-11-20": {
+     "NO_DATA": 7,
+     "SUCCESS": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 3
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "MI_boys": {
+   "games": 8730,
+   "status": {
+    "PENDING": 8659,
+    "NO_DATA": 58,
+    "SUCCESS": 13
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "PENDING": 1,
+     "SUCCESS": 2
+    },
+    "2026-11-03": {
+     "NO_DATA": 1
+    },
+    "2026-11-04": {
+     "NO_DATA": 1
+    },
+    "2026-11-07": {
+     "NO_DATA": 1,
+     "SUCCESS": 2
+    },
+    "2026-11-09": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-10": {
+     "NO_DATA": 1
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "SUCCESS": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 2,
+     "SUCCESS": 4
+    },
+    "2026-11-16": {
+     "NO_DATA": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 2
+    },
+    "2026-11-19": {
+     "NO_DATA": 10
+    },
+    "2026-11-20": {
+     "NO_DATA": 20,
+     "SUCCESS": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 14,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "MS_boys": {
+   "games": 3604,
+   "status": {
+    "NO_DATA": 566,
+    "SUCCESS": 342,
+    "PENDING": 2696
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 67,
+     "SUCCESS": 7,
+     "PENDING": 1
+    },
+    "2026-11-02": {
+     "NO_DATA": 2,
+     "SUCCESS": 2
+    },
+    "2026-11-03": {
+     "NO_DATA": 26,
+     "SUCCESS": 44
+    },
+    "2026-11-04": {
+     "SUCCESS": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 24,
+     "SUCCESS": 21,
+     "PENDING": 1
+    },
+    "2026-11-06": {
+     "NO_DATA": 10,
+     "SUCCESS": 21
+    },
+    "2026-11-07": {
+     "SUCCESS": 34,
+     "NO_DATA": 20
+    },
+    "2026-11-09": {
+     "NO_DATA": 5,
+     "SUCCESS": 4
+    },
+    "2026-11-10": {
+     "NO_DATA": 58,
+     "SUCCESS": 61
+    },
+    "2026-11-11": {
+     "SUCCESS": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 45,
+     "SUCCESS": 42
+    },
+    "2026-11-13": {
+     "NO_DATA": 27,
+     "SUCCESS": 16
+    },
+    "2026-11-14": {
+     "NO_DATA": 19,
+     "SUCCESS": 15
+    },
+    "2026-11-16": {
+     "NO_DATA": 14,
+     "SUCCESS": 12,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 77,
+     "SUCCESS": 38,
+     "PENDING": 7
+    },
+    "2026-11-18": {
+     "SUCCESS": 2,
+     "NO_DATA": 4
+    },
+    "2026-11-19": {
+     "NO_DATA": 70,
+     "SUCCESS": 5,
+     "PENDING": 5
+    },
+    "2026-11-20": {
+     "NO_DATA": 49,
+     "SUCCESS": 7,
+     "PENDING": 8
+    },
+    "2026-11-21": {
+     "PENDING": 5,
+     "NO_DATA": 35
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "MS_girls": {
+   "games": 3499,
+   "status": {
+    "NO_DATA": 614,
+    "SUCCESS": 355,
+    "PENDING": 2530
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 62,
+     "SUCCESS": 10,
+     "PENDING": 8
+    },
+    "2026-11-02": {
+     "SUCCESS": 5,
+     "NO_DATA": 8
+    },
+    "2026-11-03": {
+     "NO_DATA": 32,
+     "SUCCESS": 57
+    },
+    "2026-11-04": {
+     "NO_DATA": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 28,
+     "SUCCESS": 25
+    },
+    "2026-11-06": {
+     "NO_DATA": 11,
+     "SUCCESS": 19
+    },
+    "2026-11-07": {
+     "SUCCESS": 39,
+     "NO_DATA": 39
+    },
+    "2026-11-09": {
+     "NO_DATA": 8,
+     "SUCCESS": 2
+    },
+    "2026-11-10": {
+     "SUCCESS": 67,
+     "NO_DATA": 59
+    },
+    "2026-11-11": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-12": {
+     "SUCCESS": 40,
+     "NO_DATA": 44
+    },
+    "2026-11-13": {
+     "NO_DATA": 24,
+     "SUCCESS": 13
+    },
+    "2026-11-14": {
+     "NO_DATA": 28,
+     "SUCCESS": 17
+    },
+    "2026-11-16": {
+     "NO_DATA": 18,
+     "SUCCESS": 4
+    },
+    "2026-11-17": {
+     "NO_DATA": 81,
+     "SUCCESS": 33,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 4
+    },
+    "2026-11-19": {
+     "NO_DATA": 66,
+     "SUCCESS": 6,
+     "PENDING": 5
+    },
+    "2026-11-20": {
+     "NO_DATA": 53,
+     "SUCCESS": 3,
+     "PENDING": 6
+    },
+    "2026-11-21": {
+     "NO_DATA": 30,
+     "PENDING": 3
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "MO_boys": {
+   "games": 5706,
+   "status": {
+    "PENDING": 5515,
+    "SUCCESS": 39,
+    "NO_DATA": 152
+   },
+   "recent_by_date": {
+    "2026-11-03": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 5,
+     "NO_DATA": 1
+    },
+    "2026-11-06": {
+     "SUCCESS": 3
+    },
+    "2026-11-07": {
+     "NO_DATA": 2,
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 2
+    },
+    "2026-11-10": {
+     "NO_DATA": 3,
+     "SUCCESS": 3
+    },
+    "2026-11-12": {
+     "SUCCESS": 3
+    },
+    "2026-11-13": {
+     "SUCCESS": 4,
+     "NO_DATA": 5
+    },
+    "2026-11-14": {
+     "NO_DATA": 1
+    },
+    "2026-11-15": {
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "SUCCESS": 5,
+     "PENDING": 1,
+     "NO_DATA": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 12,
+     "PENDING": 3,
+     "SUCCESS": 10
+    },
+    "2026-11-19": {
+     "NO_DATA": 26,
+     "SUCCESS": 1,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 73,
+     "SUCCESS": 3,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 22
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "MO_girls": {
+   "games": 5202,
+   "status": {
+    "PENDING": 5028,
+    "NO_DATA": 147,
+    "SUCCESS": 27
+   },
+   "recent_by_date": {
+    "2026-11-06": {
+     "SUCCESS": 2
+    },
+    "2026-11-10": {
+     "NO_DATA": 1,
+     "SUCCESS": 3
+    },
+    "2026-11-12": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-13": {
+     "SUCCESS": 3
+    },
+    "2026-11-15": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 6,
+     "PENDING": 1,
+     "SUCCESS": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 5,
+     "SUCCESS": 8
+    },
+    "2026-11-18": {
+     "NO_DATA": 6
+    },
+    "2026-11-19": {
+     "NO_DATA": 28,
+     "SUCCESS": 3,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "SUCCESS": 4,
+     "NO_DATA": 63,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 35,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "NM_boys": {
+   "games": 1298,
+   "status": {
+    "PENDING": 1288,
+    "NO_DATA": 9,
+    "SUCCESS": 1
+   },
+   "recent_by_date": {
+    "2026-11-14": {
+     "SUCCESS": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 8,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "NC_boys": {
+   "games": 8285,
+   "status": {
+    "PENDING": 7144,
+    "SUCCESS": 644,
+    "NO_DATA": 496,
+    "RETRY": 1
+   },
+   "recent_by_date": {
+    "2026-11-01": {
+     "SUCCESS": 2
+    },
+    "2026-11-02": {
+     "SUCCESS": 6,
+     "NO_DATA": 3,
+     "PENDING": 1
+    },
+    "2026-11-03": {
+     "SUCCESS": 16,
+     "PENDING": 1,
+     "NO_DATA": 3
+    },
+    "2026-11-04": {
+     "PENDING": 1,
+     "SUCCESS": 5,
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 16,
+     "NO_DATA": 6
+    },
+    "2026-11-06": {
+     "SUCCESS": 38,
+     "NO_DATA": 6,
+     "RETRY": 1
+    },
+    "2026-11-07": {
+     "SUCCESS": 23,
+     "NO_DATA": 33
+    },
+    "2026-11-09": {
+     "SUCCESS": 15,
+     "NO_DATA": 8
+    },
+    "2026-11-10": {
+     "NO_DATA": 16,
+     "SUCCESS": 58
+    },
+    "2026-11-11": {
+     "SUCCESS": 14,
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 54,
+     "NO_DATA": 24
+    },
+    "2026-11-13": {
+     "SUCCESS": 109,
+     "NO_DATA": 31
+    },
+    "2026-11-14": {
+     "SUCCESS": 37,
+     "NO_DATA": 29
+    },
+    "2026-11-15": {
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "SUCCESS": 33,
+     "NO_DATA": 14,
+     "PENDING": 6
+    },
+    "2026-11-17": {
+     "SUCCESS": 116,
+     "NO_DATA": 68,
+     "PENDING": 7
+    },
+    "2026-11-18": {
+     "SUCCESS": 29,
+     "NO_DATA": 13,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "SUCCESS": 29,
+     "NO_DATA": 67,
+     "PENDING": 10
+    },
+    "2026-11-20": {
+     "NO_DATA": 115,
+     "SUCCESS": 40,
+     "PENDING": 14
+    },
+    "2026-11-21": {
+     "NO_DATA": 43,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "NC_girls": {
+   "games": 6949,
+   "status": {
+    "PENDING": 6089,
+    "SUCCESS": 458,
+    "NO_DATA": 401,
+    "RETRY": 1
+   },
+   "recent_by_date": {
+    "2026-11-01": {
+     "SUCCESS": 2
+    },
+    "2026-11-02": {
+     "SUCCESS": 3,
+     "NO_DATA": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 2,
+     "SUCCESS": 10
+    },
+    "2026-11-04": {
+     "SUCCESS": 3,
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 8,
+     "NO_DATA": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 15,
+     "NO_DATA": 3,
+     "RETRY": 1
+    },
+    "2026-11-07": {
+     "SUCCESS": 5,
+     "NO_DATA": 23
+    },
+    "2026-11-08": {
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 4,
+     "SUCCESS": 10
+    },
+    "2026-11-10": {
+     "NO_DATA": 15,
+     "SUCCESS": 34
+    },
+    "2026-11-11": {
+     "SUCCESS": 8,
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 47,
+     "NO_DATA": 11
+    },
+    "2026-11-13": {
+     "SUCCESS": 78,
+     "NO_DATA": 27
+    },
+    "2026-11-14": {
+     "SUCCESS": 28,
+     "NO_DATA": 7
+    },
+    "2026-11-16": {
+     "SUCCESS": 27,
+     "NO_DATA": 9,
+     "PENDING": 3
+    },
+    "2026-11-17": {
+     "SUCCESS": 99,
+     "NO_DATA": 52,
+     "PENDING": 11
+    },
+    "2026-11-18": {
+     "SUCCESS": 27,
+     "NO_DATA": 15,
+     "PENDING": 2
+    },
+    "2026-11-19": {
+     "NO_DATA": 69,
+     "SUCCESS": 23,
+     "PENDING": 11
+    },
+    "2026-11-20": {
+     "SUCCESS": 29,
+     "NO_DATA": 109,
+     "PENDING": 20
+    },
+    "2026-11-21": {
+     "NO_DATA": 41,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "OH_boys": {
+   "games": 9209,
+   "status": {
+    "PENDING": 9083,
+    "SUCCESS": 13,
+    "NO_DATA": 113
+   },
+   "recent_by_date": {
+    "2026-11-06": {
+     "SUCCESS": 1
+    },
+    "2026-11-07": {
+     "NO_DATA": 1
+    },
+    "2026-11-10": {
+     "NO_DATA": 3
+    },
+    "2026-11-11": {
+     "NO_DATA": 3
+    },
+    "2026-11-12": {
+     "NO_DATA": 9
+    },
+    "2026-11-13": {
+     "NO_DATA": 6,
+     "SUCCESS": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 15,
+     "SUCCESS": 3
+    },
+    "2026-11-16": {
+     "SUCCESS": 2,
+     "NO_DATA": 6,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 10,
+     "SUCCESS": 4,
+     "PENDING": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 12,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 13,
+     "PENDING": 3
+    },
+    "2026-11-20": {
+     "NO_DATA": 6,
+     "SUCCESS": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 27,
+     "PENDING": 7
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "OH_girls": {
+   "games": 8882,
+   "status": {
+    "PENDING": 8718,
+    "NO_DATA": 161,
+    "SUCCESS": 3
+   },
+   "recent_by_date": {
+    "2026-11-04": {
+     "NO_DATA": 3
+    },
+    "2026-11-05": {
+     "NO_DATA": 4
+    },
+    "2026-11-06": {
+     "NO_DATA": 1
+    },
+    "2026-11-07": {
+     "NO_DATA": 28
+    },
+    "2026-11-09": {
+     "NO_DATA": 2
+    },
+    "2026-11-10": {
+     "NO_DATA": 6
+    },
+    "2026-11-11": {
+     "NO_DATA": 6
+    },
+    "2026-11-12": {
+     "NO_DATA": 17,
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 31
+    },
+    "2026-11-16": {
+     "NO_DATA": 5,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 11,
+     "SUCCESS": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 12,
+     "PENDING": 2
+    },
+    "2026-11-19": {
+     "PENDING": 6,
+     "NO_DATA": 9
+    },
+    "2026-11-20": {
+     "NO_DATA": 6
+    },
+    "2026-11-21": {
+     "NO_DATA": 18,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "OK_boys": {
+   "games": 4143,
+   "status": {
+    "SUCCESS": 35,
+    "NO_DATA": 419,
+    "PENDING": 3689
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "NO_DATA": 6,
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 32,
+     "SUCCESS": 3
+    },
+    "2026-11-04": {
+     "NO_DATA": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 13,
+     "SUCCESS": 1
+    },
+    "2026-11-06": {
+     "NO_DATA": 42,
+     "SUCCESS": 7
+    },
+    "2026-11-07": {
+     "NO_DATA": 5,
+     "SUCCESS": 3
+    },
+    "2026-11-09": {
+     "NO_DATA": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-10": {
+     "SUCCESS": 4,
+     "NO_DATA": 44
+    },
+    "2026-11-11": {
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "NO_DATA": 17,
+     "SUCCESS": 2
+    },
+    "2026-11-13": {
+     "SUCCESS": 7,
+     "NO_DATA": 47
+    },
+    "2026-11-14": {
+     "NO_DATA": 12
+    },
+    "2026-11-16": {
+     "NO_DATA": 9
+    },
+    "2026-11-17": {
+     "SUCCESS": 5,
+     "NO_DATA": 54,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 34
+    },
+    "2026-11-20": {
+     "NO_DATA": 79,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 11,
+     "PENDING": 2
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "OK_girls": {
+   "games": 3836,
+   "status": {
+    "NO_DATA": 392,
+    "PENDING": 3428,
+    "SUCCESS": 16
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 3,
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "NO_DATA": 5
+    },
+    "2026-11-03": {
+     "NO_DATA": 31,
+     "PENDING": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-04": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 15
+    },
+    "2026-11-06": {
+     "NO_DATA": 40,
+     "SUCCESS": 5
+    },
+    "2026-11-07": {
+     "NO_DATA": 2,
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 6
+    },
+    "2026-11-10": {
+     "NO_DATA": 43,
+     "SUCCESS": 2
+    },
+    "2026-11-12": {
+     "NO_DATA": 18
+    },
+    "2026-11-13": {
+     "NO_DATA": 45,
+     "SUCCESS": 3
+    },
+    "2026-11-16": {
+     "NO_DATA": 11
+    },
+    "2026-11-17": {
+     "NO_DATA": 51,
+     "SUCCESS": 3,
+     "PENDING": 2
+    },
+    "2026-11-19": {
+     "NO_DATA": 34
+    },
+    "2026-11-20": {
+     "NO_DATA": 73,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 6,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "TN_boys": {
+   "games": 5200,
+   "status": {
+    "NO_DATA": 448,
+    "PENDING": 4635,
+    "SUCCESS": 117
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 3
+    },
+    "2026-11-01": {
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 5,
+     "SUCCESS": 1
+    },
+    "2026-11-04": {
+     "NO_DATA": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 3,
+     "SUCCESS": 3
+    },
+    "2026-11-06": {
+     "SUCCESS": 3,
+     "NO_DATA": 2
+    },
+    "2026-11-07": {
+     "SUCCESS": 4,
+     "NO_DATA": 4
+    },
+    "2026-11-08": {
+     "NO_DATA": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 2,
+     "SUCCESS": 2
+    },
+    "2026-11-10": {
+     "SUCCESS": 2,
+     "NO_DATA": 7
+    },
+    "2026-11-12": {
+     "NO_DATA": 11,
+     "SUCCESS": 4
+    },
+    "2026-11-13": {
+     "NO_DATA": 4,
+     "SUCCESS": 8
+    },
+    "2026-11-14": {
+     "NO_DATA": 8,
+     "SUCCESS": 4
+    },
+    "2026-11-15": {
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 33,
+     "SUCCESS": 15,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 109,
+     "SUCCESS": 40,
+     "PENDING": 3
+    },
+    "2026-11-18": {
+     "NO_DATA": 7,
+     "SUCCESS": 5,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 113,
+     "PENDING": 8,
+     "SUCCESS": 11
+    },
+    "2026-11-20": {
+     "PENDING": 12,
+     "NO_DATA": 65,
+     "SUCCESS": 6
+    },
+    "2026-11-21": {
+     "NO_DATA": 68,
+     "PENDING": 4
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "TN_girls": {
+   "games": 4568,
+   "status": {
+    "NO_DATA": 386,
+    "PENDING": 4099,
+    "SUCCESS": 83
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "SUCCESS": 1
+    },
+    "2026-11-05": {
+     "NO_DATA": 1
+    },
+    "2026-11-06": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-07": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 2
+    },
+    "2026-11-10": {
+     "SUCCESS": 2,
+     "NO_DATA": 4
+    },
+    "2026-11-11": {
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-13": {
+     "SUCCESS": 4,
+     "NO_DATA": 3
+    },
+    "2026-11-14": {
+     "NO_DATA": 7,
+     "SUCCESS": 1
+    },
+    "2026-11-16": {
+     "NO_DATA": 33,
+     "SUCCESS": 13,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 104,
+     "SUCCESS": 37
+    },
+    "2026-11-18": {
+     "NO_DATA": 6,
+     "SUCCESS": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 102,
+     "PENDING": 6,
+     "SUCCESS": 11
+    },
+    "2026-11-20": {
+     "NO_DATA": 54,
+     "PENDING": 8,
+     "SUCCESS": 7
+    },
+    "2026-11-21": {
+     "NO_DATA": 64,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "TX_boys": {
+   "games": 19267,
+   "status": {
+    "NO_DATA": 2552,
+    "PENDING": 15970,
+    "SUCCESS": 745
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 10,
+     "NO_DATA": 5,
+     "PENDING": 2
+    },
+    "2026-11-01": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 5,
+     "NO_DATA": 6
+    },
+    "2026-11-03": {
+     "SUCCESS": 14,
+     "NO_DATA": 11
+    },
+    "2026-11-04": {
+     "NO_DATA": 4,
+     "SUCCESS": 3
+    },
+    "2026-11-05": {
+     "NO_DATA": 21,
+     "SUCCESS": 21,
+     "PENDING": 1
+    },
+    "2026-11-06": {
+     "SUCCESS": 32,
+     "NO_DATA": 22
+    },
+    "2026-11-07": {
+     "SUCCESS": 19,
+     "NO_DATA": 75
+    },
+    "2026-11-08": {
+     "SUCCESS": 2,
+     "NO_DATA": 4
+    },
+    "2026-11-09": {
+     "NO_DATA": 32,
+     "SUCCESS": 15
+    },
+    "2026-11-10": {
+     "SUCCESS": 50,
+     "NO_DATA": 99
+    },
+    "2026-11-11": {
+     "SUCCESS": 7,
+     "NO_DATA": 14
+    },
+    "2026-11-12": {
+     "SUCCESS": 32,
+     "NO_DATA": 24
+    },
+    "2026-11-13": {
+     "NO_DATA": 281,
+     "SUCCESS": 143
+    },
+    "2026-11-14": {
+     "NO_DATA": 165,
+     "SUCCESS": 98
+    },
+    "2026-11-15": {
+     "NO_DATA": 3
+    },
+    "2026-11-16": {
+     "NO_DATA": 38,
+     "SUCCESS": 21
+    },
+    "2026-11-17": {
+     "NO_DATA": 467,
+     "SUCCESS": 146,
+     "PENDING": 22
+    },
+    "2026-11-18": {
+     "NO_DATA": 13,
+     "SUCCESS": 6
+    },
+    "2026-11-19": {
+     "NO_DATA": 443,
+     "SUCCESS": 45,
+     "PENDING": 31
+    },
+    "2026-11-20": {
+     "NO_DATA": 602,
+     "SUCCESS": 56,
+     "PENDING": 51
+    },
+    "2026-11-21": {
+     "NO_DATA": 201,
+     "PENDING": 14
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "TX_girls": {
+   "games": 18509,
+   "status": {
+    "NO_DATA": 4000,
+    "PENDING": 13146,
+    "SUCCESS": 1363
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "NO_DATA": 69,
+     "PENDING": 5,
+     "SUCCESS": 2
+    },
+    "2026-11-02": {
+     "NO_DATA": 17,
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 77,
+     "SUCCESS": 8
+    },
+    "2026-11-04": {
+     "SUCCESS": 2,
+     "NO_DATA": 2
+    },
+    "2026-11-05": {
+     "NO_DATA": 21,
+     "SUCCESS": 14
+    },
+    "2026-11-06": {
+     "NO_DATA": 199,
+     "SUCCESS": 145
+    },
+    "2026-11-07": {
+     "NO_DATA": 146,
+     "SUCCESS": 62
+    },
+    "2026-11-09": {
+     "SUCCESS": 13,
+     "NO_DATA": 24
+    },
+    "2026-11-10": {
+     "NO_DATA": 403,
+     "SUCCESS": 215
+    },
+    "2026-11-11": {
+     "SUCCESS": 5,
+     "NO_DATA": 5
+    },
+    "2026-11-12": {
+     "SUCCESS": 201,
+     "NO_DATA": 273
+    },
+    "2026-11-13": {
+     "NO_DATA": 459,
+     "SUCCESS": 263
+    },
+    "2026-11-14": {
+     "NO_DATA": 259,
+     "SUCCESS": 161
+    },
+    "2026-11-15": {
+     "SUCCESS": 1,
+     "NO_DATA": 1
+    },
+    "2026-11-16": {
+     "SUCCESS": 9,
+     "NO_DATA": 12,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 518,
+     "SUCCESS": 161,
+     "PENDING": 14
+    },
+    "2026-11-18": {
+     "NO_DATA": 9,
+     "SUCCESS": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 636,
+     "SUCCESS": 55,
+     "PENDING": 30
+    },
+    "2026-11-20": {
+     "NO_DATA": 653,
+     "PENDING": 34,
+     "SUCCESS": 43
+    },
+    "2026-11-21": {
+     "NO_DATA": 206,
+     "PENDING": 14
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "UT_boys": {
+   "games": 1562,
+   "status": {
+    "PENDING": 1431,
+    "SUCCESS": 32,
+    "NO_DATA": 99
+   },
+   "recent_by_date": {
+    "2026-11-17": {
+     "NO_DATA": 8,
+     "SUCCESS": 6
+    },
+    "2026-11-18": {
+     "SUCCESS": 8,
+     "NO_DATA": 7
+    },
+    "2026-11-19": {
+     "NO_DATA": 19,
+     "SUCCESS": 6
+    },
+    "2026-11-20": {
+     "NO_DATA": 35,
+     "SUCCESS": 12
+    },
+    "2026-11-21": {
+     "NO_DATA": 30
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "UT_girls": {
+   "games": 1545,
+   "status": {
+    "NO_DATA": 76,
+    "PENDING": 1425,
+    "SUCCESS": 44
+   },
+   "recent_by_date": {
+    "2026-11-17": {
+     "NO_DATA": 6,
+     "SUCCESS": 16,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "SUCCESS": 9,
+     "NO_DATA": 6
+    },
+    "2026-11-19": {
+     "NO_DATA": 21,
+     "SUCCESS": 7,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 32,
+     "SUCCESS": 12,
+     "PENDING": 2
+    },
+    "2026-11-21": {
+     "NO_DATA": 11
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "VA_boys": {
+   "games": 5424,
+   "status": {
+    "NO_DATA": 260,
+    "PENDING": 5076,
+    "SUCCESS": 88
+   },
+   "recent_by_date": {
+    "2026-10-31": {
+     "SUCCESS": 1
+    },
+    "2026-11-02": {
+     "SUCCESS": 1
+    },
+    "2026-11-03": {
+     "NO_DATA": 2,
+     "SUCCESS": 2
+    },
+    "2026-11-04": {
+     "SUCCESS": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 1,
+     "NO_DATA": 2
+    },
+    "2026-11-06": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-07": {
+     "SUCCESS": 6,
+     "NO_DATA": 6
+    },
+    "2026-11-08": {
+     "SUCCESS": 3,
+     "NO_DATA": 2
+    },
+    "2026-11-09": {
+     "NO_DATA": 1
+    },
+    "2026-11-10": {
+     "NO_DATA": 2,
+     "SUCCESS": 3
+    },
+    "2026-11-11": {
+     "SUCCESS": 2
+    },
+    "2026-11-12": {
+     "NO_DATA": 2,
+     "SUCCESS": 5
+    },
+    "2026-11-13": {
+     "NO_DATA": 10,
+     "SUCCESS": 14
+    },
+    "2026-11-14": {
+     "NO_DATA": 11,
+     "SUCCESS": 13
+    },
+    "2026-11-15": {
+     "SUCCESS": 2
+    },
+    "2026-11-16": {
+     "NO_DATA": 13,
+     "SUCCESS": 6,
+     "PENDING": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 41,
+     "PENDING": 3,
+     "SUCCESS": 6
+    },
+    "2026-11-18": {
+     "NO_DATA": 19,
+     "SUCCESS": 4,
+     "PENDING": 3
+    },
+    "2026-11-19": {
+     "NO_DATA": 74,
+     "SUCCESS": 11,
+     "PENDING": 4
+    },
+    "2026-11-20": {
+     "SUCCESS": 5,
+     "NO_DATA": 43,
+     "PENDING": 4
+    },
+    "2026-11-21": {
+     "PENDING": 4,
+     "NO_DATA": 25
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "VA_girls": {
+   "games": 4693,
+   "status": {
+    "PENDING": 4465,
+    "NO_DATA": 192,
+    "SUCCESS": 36
+   },
+   "recent_by_date": {
+    "2026-11-02": {
+     "PENDING": 1
+    },
+    "2026-11-05": {
+     "SUCCESS": 1
+    },
+    "2026-11-09": {
+     "NO_DATA": 2
+    },
+    "2026-11-10": {
+     "SUCCESS": 1
+    },
+    "2026-11-11": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 1,
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 3,
+     "SUCCESS": 9
+    },
+    "2026-11-14": {
+     "NO_DATA": 6,
+     "SUCCESS": 8
+    },
+    "2026-11-16": {
+     "NO_DATA": 12,
+     "SUCCESS": 2,
+     "PENDING": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 28,
+     "SUCCESS": 4,
+     "PENDING": 2
+    },
+    "2026-11-18": {
+     "NO_DATA": 24,
+     "SUCCESS": 3,
+     "PENDING": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 72,
+     "SUCCESS": 5,
+     "PENDING": 1
+    },
+    "2026-11-20": {
+     "NO_DATA": 32,
+     "SUCCESS": 2,
+     "PENDING": 3
+    },
+    "2026-11-21": {
+     "PENDING": 4,
+     "NO_DATA": 11
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "WV_boys": {
+   "games": 1520,
+   "status": {
+    "PENDING": 1505,
+    "NO_DATA": 15
+   },
+   "recent_by_date": {
+    "2026-11-13": {
+     "NO_DATA": 1
+    },
+    "2026-11-14": {
+     "NO_DATA": 2
+    },
+    "2026-11-16": {
+     "NO_DATA": 2
+    },
+    "2026-11-17": {
+     "NO_DATA": 4
+    },
+    "2026-11-19": {
+     "PENDING": 2,
+     "NO_DATA": 2
+    },
+    "2026-11-20": {
+     "NO_DATA": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 3,
+     "PENDING": 1
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "WI_boys": {
+   "games": 4890,
+   "status": {
+    "PENDING": 4821,
+    "NO_DATA": 65,
+    "SUCCESS": 4
+   },
+   "recent_by_date": {
+    "2026-11-09": {
+     "NO_DATA": 2
+    },
+    "2026-11-12": {
+     "SUCCESS": 1
+    },
+    "2026-11-13": {
+     "NO_DATA": 1
+    },
+    "2026-11-17": {
+     "SUCCESS": 2,
+     "NO_DATA": 1
+    },
+    "2026-11-19": {
+     "NO_DATA": 10
+    },
+    "2026-11-20": {
+     "NO_DATA": 22,
+     "SUCCESS": 1
+    },
+    "2026-11-21": {
+     "NO_DATA": 29
+    }
+   },
+   "failed_contest_ids": []
+  },
+  "WI_girls": {
+   "games": 4498,
+   "status": {
+    "PENDING": 4206,
+    "NO_DATA": 278,
+    "SUCCESS": 14
+   },
+   "recent_by_date": {
+    "2026-11-09": {
+     "NO_DATA": 1
+    },
+    "2026-11-12": {
+     "NO_DATA": 3
+    },
+    "2026-11-13": {
+     "NO_DATA": 3
+    },
+    "2026-11-14": {
+     "NO_DATA": 23
+    },
+    "2026-11-16": {
+     "NO_DATA": 1
+    },
+    "2026-11-17": {
+     "NO_DATA": 54,
+     "SUCCESS": 10,
+     "PENDING": 1
+    },
+    "2026-11-18": {
+     "NO_DATA": 7
+    },
+    "2026-11-19": {
+     "NO_DATA": 112,
+     "SUCCESS": 4
+    },
+    "2026-11-20": {
+     "NO_DATA": 61
+    },
+    "2026-11-21": {
+     "NO_DATA": 13
+    }
+   },
+   "failed_contest_ids": []
+  }
+ }
+}
