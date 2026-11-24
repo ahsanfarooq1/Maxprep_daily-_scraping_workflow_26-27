@@ -254,6 +254,12 @@ def run_one(a, state, sport, schedule_fetcher=None, checker=None, now=None, as_o
                                            force=a.stats_tab_force, now=now, fetcher=stats_tab_fetcher)
         gf.save(export_excel=False)
     if not a.no_accumulate and not a.no_scrape and not stats["aborted"]:
+        if not getattr(a, "no_levels", False):
+            try:                                  # level of every team (missing/old ones are looked up on MaxPreps)
+                import team_levels
+                log(team_levels.ensure_levels(out_dir, state, sport, a.season, teams, workers=a.stats_tab_workers))
+            except Exception as e:                # the data must never be lost because of the level step
+                log(f"[WARN] team levels step failed: {e}")
         from accumulate_stats import accumulate_state
         log("Accumulating -> " + accumulate_state(out_dir, state, sport, a.season, not a.no_stats_tab))
 
@@ -314,6 +320,7 @@ def build_parser():
                         "an explicit --date always refreshes)")
     s.add_argument("--stats-tab-force", action="store_true", help="Ignore the TTL and refetch")
     s.add_argument("--no-accumulate", action="store_true", help="Don't rebuild the accumulated/Final files")
+    s.add_argument("--no-levels", action="store_true", help="Don't look up team levels (the stored ones are still written into the Final files)")
     m.add_argument("--sched-workers", type=int, default=20)
     m.add_argument("--game-workers", type=int, default=20)
     m.add_argument("--delay", type=float, default=0.3, help="Per-request delay (s)")

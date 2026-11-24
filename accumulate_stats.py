@@ -57,7 +57,7 @@ def add_total_games_scheduled(final, gaps):
             recs[i] = out
     tmp = final + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(recs, f, indent=4, ensure_ascii=False)
+        json.dump(recs, f, indent=4, ensure_ascii=False)       # readable on purpose: humans verify these files
     os.replace(tmp, final)
     return sum(1 for r in recs if r.get("record_type") == "team_total" and r["total_games_scheduled"])
 
@@ -129,7 +129,13 @@ def accumulate_state(folder, st, sport, season="2026-2027", use_stats_tab=True):
             return "TGC fix FAILED: " + (r.stderr or r.stdout)[-300:]
     gaps = os.path.join(folder, f"{st}_data_gaps_{sport}_{fn}.json")
     with_sched = add_total_games_scheduled(final, gaps)
-    return f"ok -> {os.path.basename(final)}  ({src}; total_games_scheduled on {with_sched} teams)"
+    try:                                                 # "level" (2A, 4A, AAA ...) on every record; see team_levels.py
+        import team_levels
+        _n, with_level = team_levels.apply_levels(final, folder, st, sport, season)
+        lv = f"; level on {with_level}/{_n} records"
+    except Exception as e:                               # never lose the data because of the level step
+        lv = f"; LEVEL STEP FAILED ({e})"
+    return f"ok -> {os.path.basename(final)}  ({src}; total_games_scheduled on {with_sched} teams{lv})"
 
 
 def _job(j):
