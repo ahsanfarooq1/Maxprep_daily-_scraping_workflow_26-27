@@ -1,163 +1,163 @@
 {
- "generated_at": "2026-11-23 19:58:26 UTC",
+ "generated_at": "2026-11-24 11:22:27 UTC",
  "files": [
   {
    "file": "Alabama/Final_al_accumulated_boys_26_27.json",
-   "sha256": "bdfc4d4a57756f59be62d7e0b8a123ba320cdf7121c11598e9ab235e54904a14",
-   "bytes": 1890893,
+   "sha256": "441e890393f2485b99a458c3e4e89ff7db5eea9835b08ae46134eddf3044f2d1",
+   "bytes": 2064386,
    "team_records": 503,
-   "player_records": 1179,
-   "teams_with_games": 114,
-   "total_gp": 358
+   "player_records": 1231,
+   "teams_with_games": 120,
+   "total_gp": 436
   },
   {
    "file": "Alabama/Final_al_accumulated_girls_26_27.json",
-   "sha256": "97b13eb820550191dbffb9dc608d1956479083a4fd80de4e15e09e85880f86b4",
-   "bytes": 1653619,
+   "sha256": "4e8eb6fbdb7f534856e4e21a38f8d6c0f3e8f036dacb8116f8445630868c9ea5",
+   "bytes": 1845138,
    "team_records": 497,
-   "player_records": 966,
-   "teams_with_games": 100,
-   "total_gp": 352
+   "player_records": 1048,
+   "teams_with_games": 105,
+   "total_gp": 420
   },
   {
    "file": "Arizona/Final_az_accumulated_boys_26_27.json",
-   "sha256": "4cc5b21881decbf45a662c1c2e1c1529bb514917431bf6b38cd438f3d1cbcb06",
-   "bytes": 1204281,
+   "sha256": "c50946c1e661411320c9f25b83e3a43d852aab786eeb76c31c76eaa2922e32db",
+   "bytes": 1531702,
    "team_records": 393,
-   "player_records": 685,
-   "teams_with_games": 72,
-   "total_gp": 112
+   "player_records": 902,
+   "teams_with_games": 93,
+   "total_gp": 152
   },
   {
    "file": "Arizona/Final_az_accumulated_girls_26_27.json",
-   "sha256": "c2963c638fa09eb265060c19fa5eb6394b69c03087a561c7eebc256bed1ed69e",
-   "bytes": 1069872,
+   "sha256": "4ae9cd8c4342125fd5053fd210ae99403158264cdff681f55440625823cf5013",
+   "bytes": 1286960,
    "team_records": 344,
-   "player_records": 618,
-   "teams_with_games": 71,
-   "total_gp": 93
+   "player_records": 750,
+   "teams_with_games": 83,
+   "total_gp": 129
   },
   {
    "file": "Arkansas/Final_ar_accumulated_boys_26_27.json",
-   "sha256": "29407ee186b925eb49d6a99ac7bb047b3d5f2eaa82cc07fc67e0298d59030a35",
-   "bytes": 726078,
+   "sha256": "0fb6fac336d583bcb82eee5ef267298525b08cc69a13ae25e434f8ad1f0b4aad",
+   "bytes": 767749,
    "team_records": 336,
-   "player_records": 301,
+   "player_records": 302,
    "teams_with_games": 30,
-   "total_gp": 139
+   "total_gp": 141
   },
   {
    "file": "Arkansas/Final_ar_accumulated_girls_26_27.json",
-   "sha256": "d58aef28c542c7868f7985e4d3eb5ceae0df76e3843be68d3e1aaa299d6522ab",
-   "bytes": 708608,
+   "sha256": "d73c37adc63e07e684592714b471f293252b1cf8122b527a64a2db9baedd5c48",
+   "bytes": 786142,
    "team_records": 318,
-   "player_records": 302,
-   "teams_with_games": 31,
-   "total_gp": 99
+   "player_records": 333,
+   "teams_with_games": 34,
+   "total_gp": 121
   },
   {
    "file": "California/Final_ca_accumulated_boys_26_27.json",
-   "sha256": "8a85e9f701e21143aa2f7fe9d16d63372bc9251d1f1bf3f6028afd87c7ccde41",
-   "bytes": 4573238,
+   "sha256": "35d7c971552f1c970413f20a52415b78a3f5cd513782f74f57568a08a1980e14",
+   "bytes": 5386419,
    "team_records": 1562,
-   "player_records": 2535,
-   "teams_with_games": 260,
-   "total_gp": 476
+   "player_records": 3021,
+   "teams_with_games": 307,
+   "total_gp": 621
   },
   {
    "file": "California/Final_ca_accumulated_girls_26_27.json",
-   "sha256": "56cae3b55f63b3c4438b0bf9cfc54040223c26bb93edb9afb338991e5c908b23",
-   "bytes": 4347831,
+   "sha256": "ef1083e5915cb075db223b3a14c34851d24c1627717df651889feccb309d43d6",
+   "bytes": 5294941,
    "team_records": 1519,
-   "player_records": 2367,
-   "teams_with_games": 260,
-   "total_gp": 490
+   "player_records": 2974,
+   "teams_with_games": 324,
+   "total_gp": 664
   },
   {
    "file": "Florida/Final_fl_accumulated_boys_26_27.json",
-   "sha256": "ac500afaf5410be2bbe984a3cfaab86c263f1bf743f1143239952a965bb849de",
-   "bytes": 4937712,
+   "sha256": "b92040009b0830c1db732a26ad46bafd6cca65462715c35c9d5bdb579e9c0ead",
+   "bytes": 5496878,
    "team_records": 951,
-   "player_records": 3442,
-   "teams_with_games": 355,
-   "total_gp": 681
+   "player_records": 3680,
+   "teams_with_games": 375,
+   "total_gp": 763
   },
   {
    "file": "Florida/Final_fl_accumulated_girls_26_27.json",
-   "sha256": "cf6c6d88148c873d3982645a49a92e18d401dfbbe6b02017f39affb27fd46dc5",
-   "bytes": 3951728,
+   "sha256": "629ebd07f68b1cd9c3392009c99cf5ebd26305ece17d018a0835436215e800cb",
+   "bytes": 4335833,
    "team_records": 805,
-   "player_records": 2710,
-   "teams_with_games": 297,
-   "total_gp": 520
+   "player_records": 2845,
+   "teams_with_games": 309,
+   "total_gp": 576
   },
   {
    "file": "Georgia/Final_ga_accumulated_boys_26_27.json",
-   "sha256": "65e08ed2a43825ec3ca51d8b5f5d2ee390d7f53c72384a439e4f74097c8594ff",
-   "bytes": 2884054,
+   "sha256": "cdd5e46d64c3a30b5afed7b64697185706362a6a06f384acabd88ec4758ffd35",
+   "bytes": 3212671,
    "team_records": 649,
-   "player_records": 1915,
-   "teams_with_games": 184,
-   "total_gp": 498
+   "player_records": 2041,
+   "teams_with_games": 195,
+   "total_gp": 552
   },
   {
    "file": "Georgia/Final_ga_accumulated_girls_26_27.json",
-   "sha256": "f5b2911d35565dde28f49160134266cb0b21c8ea33a8a28756141458ca812e50",
-   "bytes": 2577467,
+   "sha256": "f0085815b7ec647a108ef7850975b542d9219752ce6caa07874282f215568ab9",
+   "bytes": 2897061,
    "team_records": 610,
-   "player_records": 1679,
-   "teams_with_games": 178,
-   "total_gp": 439
+   "player_records": 1815,
+   "teams_with_games": 191,
+   "total_gp": 501
   },
   {
    "file": "Idaho/Final_id_accumulated_girls_26_27.json",
-   "sha256": "a362ef87cd7cd0d46100c36a9e473ca739f3208c9ee3b11380d20b7e3ae8024b",
-   "bytes": 755586,
+   "sha256": "825b79364a786a275a048d775b8ce6cd91e8569cd8bbdfb90ba997a9bf41fa65",
+   "bytes": 798893,
    "team_records": 164,
    "player_records": 500,
    "teams_with_games": 59,
-   "total_gp": 114
+   "total_gp": 118
   },
   {
    "file": "Illinois/Final_il_accumulated_boys_26_27.json",
-   "sha256": "756e62f44e15d7f29f83b0018157d377f23b4a7987a71a20797d667f37d63d25",
-   "bytes": 1041270,
+   "sha256": "71920446bca5772de1e631bb7b258cd1efa9807da70105f53f1773bb627194d8",
+   "bytes": 1380127,
    "team_records": 822,
-   "player_records": 98,
-   "teams_with_games": 11,
-   "total_gp": 13
+   "player_records": 341,
+   "teams_with_games": 38,
+   "total_gp": 47
   },
   {
    "file": "Illinois/Final_il_accumulated_girls_26_27.json",
-   "sha256": "3e6713293075fbca822056b85dfa2a7ce5c24af4985f66a4b922bf929972c09f",
-   "bytes": 2816513,
+   "sha256": "8a2138880a7e4e540a514cbefa9de60421a56be5639c864367e129337420ec96",
+   "bytes": 3322828,
    "team_records": 798,
-   "player_records": 1706,
-   "teams_with_games": 183,
-   "total_gp": 338
+   "player_records": 1995,
+   "teams_with_games": 209,
+   "total_gp": 481
   },
   {
    "file": "Indiana/Final_in_accumulated_boys_26_27.json",
-   "sha256": "c687bc293b9b1b2e369c1c213884ba12c43c40f8280d19552a615f80b4040527",
-   "bytes": 710375,
+   "sha256": "7c7c6f4e9915c5b5ac5ea4f162b4e269da21e11e73fd938c83780a9ad3c77bd6",
+   "bytes": 764196,
    "team_records": 492,
-   "player_records": 132,
-   "teams_with_games": 13,
-   "total_gp": 45
+   "player_records": 145,
+   "teams_with_games": 14,
+   "total_gp": 51
   },
   {
    "file": "Indiana/Final_in_accumulated_girls_26_27.json",
-   "sha256": "2a8ea12a259c9150b60444376115164368e85b3bd9ae7f6ba7e2c910c0ec5a4b",
-   "bytes": 4005393,
+   "sha256": "617791ed247c782ccf1fe923be77e23cd5bd00320aec62376c3740e4c8b7e5a2",
+   "bytes": 4330840,
    "team_records": 454,
-   "player_records": 3117,
-   "teams_with_games": 298,
-   "total_gp": 1178
+   "player_records": 3197,
+   "teams_with_games": 305,
+   "total_gp": 1232
   },
   {
    "file": "Kansas/Final_ks_accumulated_boys_26_27.json",
-   "sha256": "0cfe47e8a46c957ee84336a3f62766f1b11ec3d538e7560c619b195d71ff84d4",
-   "bytes": 436542,
+   "sha256": "5489e2dd26144595235b2e293b3523e06be5e1346f8a4dd03d97c8d0e9fdce4d",
+   "bytes": 461738,
    "team_records": 374,
    "player_records": 12,
    "teams_with_games": 1,
@@ -165,8 +165,8 @@
   },
   {
    "file": "Kansas/Final_ks_accumulated_girls_26_27.json",
-   "sha256": "47f7ab30d6eab3cd3cfc04e0fdff9b85c49dc48a46ee7a58fdc0367cf7c58b17",
-   "bytes": 430875,
+   "sha256": "ed9f22d35f5a99728f61764677be613f0128cf413e2238b5b70168bdf4207418",
+   "bytes": 455627,
    "team_records": 369,
    "player_records": 10,
    "teams_with_games": 1,
@@ -174,8 +174,8 @@
   },
   {
    "file": "Kentucky/Final_ky_accumulated_boys_26_27.json",
-   "sha256": "dafc1744960f9e604505228ff7d69af32280b354bec18fb48c797edc1ae0a560",
-   "bytes": 440140,
+   "sha256": "b09783bcfa54d612a444d13139262a24bdfc7b6251f4f77bbedc152730e8aa28",
+   "bytes": 461562,
    "team_records": 313,
    "player_records": 73,
    "teams_with_games": 8,
@@ -183,8 +183,8 @@
   },
   {
    "file": "Kentucky/Final_ky_accumulated_girls_26_27.json",
-   "sha256": "64ed957984e1c9e2bcf6b5a5ceb73d332c13925ba9906031c82b4f44ed451a88",
-   "bytes": 358637,
+   "sha256": "3daf8e0bb705220eab01ba4bcaef7007182a6dca9a5c3ad3f5b7e2694e17f871",
+   "bytes": 375899,
    "team_records": 297,
    "player_records": 16,
    "teams_with_games": 2,
@@ -192,206 +192,215 @@
   },
   {
    "file": "Louisiana/Final_la_accumulated_boys_26_27.json",
-   "sha256": "6a3e8776f766e6f541a64c1a36e8abedee4fb393add3cb4f87d8086091d79a41",
-   "bytes": 709538,
+   "sha256": "674c5d9b112eeb6c2288979626f258ac717cd87bded2350258959c35ebd90908",
+   "bytes": 802381,
    "team_records": 428,
-   "player_records": 194,
-   "teams_with_games": 18,
-   "total_gp": 109
+   "player_records": 240,
+   "teams_with_games": 24,
+   "total_gp": 117
   },
   {
    "file": "Louisiana/Final_la_accumulated_girls_26_27.json",
-   "sha256": "d3bf17f60d3646e6249f64487f9b67c3c0d3e9bf2420983573358c438dc476db",
-   "bytes": 585737,
+   "sha256": "dbfb1e78f2dda106defe94d635e83c9c1bf424f7da417c60a8f525bc758076d7",
+   "bytes": 670638,
    "team_records": 403,
-   "player_records": 113,
-   "teams_with_games": 12,
-   "total_gp": 54
-  },
-  {
-   "file": "Michigan/Final_mi_accumulated_boys_26_27.json",
-   "sha256": "3bb7c939b1421c62655c52b2ff06d3dafeef1aac958013407a0bb522c97d4498",
-   "bytes": 927681,
-   "team_records": 792,
-   "player_records": 26,
-   "teams_with_games": 3,
-   "total_gp": 11
-  },
-  {
-   "file": "Mississippi/Final_ms_accumulated_boys_26_27.json",
-   "sha256": "8b9a2d954d9116924b3858b513f997c740d106679942fc09482713a74587280f",
-   "bytes": 1934801,
-   "team_records": 357,
-   "player_records": 1373,
-   "teams_with_games": 127,
-   "total_gp": 488
-  },
-  {
-   "file": "Mississippi/Final_ms_accumulated_girls_26_27.json",
-   "sha256": "45c5cb000054a040a0fb7c5af3e85d9d2529acbfe935e462f97d4dca34e21950",
-   "bytes": 1887881,
-   "team_records": 346,
-   "player_records": 1344,
-   "teams_with_games": 121,
-   "total_gp": 537
-  },
-  {
-   "file": "Missouri/Final_mo_accumulated_boys_26_27.json",
-   "sha256": "6e8ad36375bb96911f8476390d96f498d266c81b24785a27a1bc0b23a2c98431",
-   "bytes": 991934,
-   "team_records": 652,
-   "player_records": 227,
-   "teams_with_games": 25,
+   "player_records": 156,
+   "teams_with_games": 16,
    "total_gp": 59
   },
   {
+   "file": "Michigan/Final_mi_accumulated_boys_26_27.json",
+   "sha256": "ce39aa601116401433062b5bd0b60161c296180c77c487f3cca2db66ae99ed85",
+   "bytes": 1004207,
+   "team_records": 792,
+   "player_records": 48,
+   "teams_with_games": 5,
+   "total_gp": 15
+  },
+  {
+   "file": "Mississippi/Final_ms_accumulated_boys_26_27.json",
+   "sha256": "f03acc5c40acd230de6b14b5a0e6bd0fcdf273b313c00ea1a7ceb79721fe87da",
+   "bytes": 2098624,
+   "team_records": 357,
+   "player_records": 1415,
+   "teams_with_games": 130,
+   "total_gp": 573
+  },
+  {
+   "file": "Mississippi/Final_ms_accumulated_girls_26_27.json",
+   "sha256": "c70dbce6681b6047b3df142f09c53a19dad3d340479cb0d09f7fbfc150488846",
+   "bytes": 2074315,
+   "team_records": 346,
+   "player_records": 1409,
+   "teams_with_games": 124,
+   "total_gp": 607
+  },
+  {
+   "file": "Missouri/Final_mo_accumulated_boys_26_27.json",
+   "sha256": "b49bbd0191aec524e9f113d3a6f7fcb4cf757a31dc3b0cf68f14e69df4054eb3",
+   "bytes": 1163686,
+   "team_records": 652,
+   "player_records": 330,
+   "teams_with_games": 36,
+   "total_gp": 71
+  },
+  {
    "file": "Missouri/Final_mo_accumulated_girls_26_27.json",
-   "sha256": "be5cb0af2dbcc9a5530ce3c98b89abcdd7b39e7e59f7534d2a171620dc10b6be",
-   "bytes": 913826,
+   "sha256": "542c9bfdd0bdac67370f62683968d883bc96454caab950ade973279aff61da80",
+   "bytes": 1065862,
    "team_records": 628,
-   "player_records": 177,
-   "teams_with_games": 22,
-   "total_gp": 40
+   "player_records": 264,
+   "teams_with_games": 33,
+   "total_gp": 53
   },
   {
    "file": "New Mexico/Final_nm_accumulated_boys_26_27.json",
-   "sha256": "5c20846addec41aedee83d5ff7f258396ea000622e3a09ee15b5267b15c73529",
-   "bytes": 209903,
+   "sha256": "0bc3ea1c862cc1366f639b731b8fd469473e6561b246ef85e52ce1d92559d9b9",
+   "bytes": 278244,
    "team_records": 167,
-   "player_records": 19,
+   "player_records": 67,
+   "teams_with_games": 7,
+   "total_gp": 7
+  },
+  {
+   "file": "New Mexico/Final_nm_accumulated_girls_26_27.json",
+   "sha256": "5e1d7b85c91f1c826bfc1f1a04bf30557fb455120d19be9ec38ac9eac0eb782a",
+   "bytes": 211871,
+   "team_records": 162,
+   "player_records": 14,
    "teams_with_games": 2,
    "total_gp": 2
   },
   {
    "file": "North Carolina/Final_nc_accumulated_boys_26_27.json",
-   "sha256": "d2c44aae04b334d6fbb442cbd845110bef64451fb1835584a6fbfc47e6746439",
-   "bytes": 5305512,
+   "sha256": "e1c99be9dcf7471365171ea090a02ad9b9b795cac30a3c5e8bb47183a6a611ad",
+   "bytes": 5917840,
    "team_records": 801,
-   "player_records": 3900,
-   "teams_with_games": 379,
-   "total_gp": 1009
+   "player_records": 4164,
+   "teams_with_games": 406,
+   "total_gp": 1110
   },
   {
    "file": "North Carolina/Final_nc_accumulated_girls_26_27.json",
-   "sha256": "f9b093ba6ef426a9b0e791cd0cdf0012fc80bb4e2404bf653cb1a546e2e92fe6",
-   "bytes": 4446465,
+   "sha256": "14e2776bd8450e2d32fe7a229f388f452d6ca3b8d6d06948cbe09f3d629cbe25",
+   "bytes": 5058451,
    "team_records": 716,
-   "player_records": 3186,
-   "teams_with_games": 335,
-   "total_gp": 761
+   "player_records": 3492,
+   "teams_with_games": 363,
+   "total_gp": 866
   },
   {
    "file": "Ohio/Final_oh_accumulated_boys_26_27.json",
-   "sha256": "053b96719cf3698ce5378d27c796aa72ed0c217caa81ceb3693fbd0813569fa7",
-   "bytes": 1143577,
+   "sha256": "4cfe0b619bf6468a1c11cfd94c48ad0fb887b1c44e31ae6463973e9ac496cd8f",
+   "bytes": 1229000,
    "team_records": 900,
-   "player_records": 109,
-   "teams_with_games": 11,
-   "total_gp": 28
+   "player_records": 128,
+   "teams_with_games": 13,
+   "total_gp": 34
   },
   {
    "file": "Ohio/Final_oh_accumulated_girls_26_27.json",
-   "sha256": "9031d437a3067d174f99b88708dd54a8d446cfe503245f77467346189118b8f8",
-   "bytes": 1024116,
+   "sha256": "26184ff38872aff67d930f69bf019348e131c45092d784aae74f60d633909844",
+   "bytes": 1146079,
    "team_records": 866,
-   "player_records": 32,
-   "teams_with_games": 4,
-   "total_gp": 6
+   "player_records": 89,
+   "teams_with_games": 10,
+   "total_gp": 12
   },
   {
    "file": "Oklahoma/Final_ok_accumulated_boys_26_27.json",
-   "sha256": "4fbf6186362c1bd14943a58331eac7df9ec245ba48b998e6972301c72cf42e99",
-   "bytes": 735760,
+   "sha256": "1d9ae5516b640235be17916105ef845be899b7d5159f0ffc26b31ab0b02a2ee6",
+   "bytes": 811758,
    "team_records": 507,
-   "player_records": 144,
-   "teams_with_games": 15,
-   "total_gp": 30
+   "player_records": 171,
+   "teams_with_games": 18,
+   "total_gp": 35
   },
   {
    "file": "Oklahoma/Final_ok_accumulated_girls_26_27.json",
-   "sha256": "deb61638f37076867085e1a6ea08d7445cab6268807acddc28cec4f1f13ae36e",
-   "bytes": 646162,
+   "sha256": "6c30027cb5b3b27476cfe4383b8b60fa6399be8364fe7780108ac2a474ce3e70",
+   "bytes": 692183,
    "team_records": 506,
-   "player_records": 62,
-   "teams_with_games": 7,
-   "total_gp": 18
+   "player_records": 70,
+   "teams_with_games": 8,
+   "total_gp": 20
   },
   {
    "file": "Tennessee/Final_tn_accumulated_boys_26_27.json",
-   "sha256": "763e8a2fca45ad0499a6d5a2e96ed71829c532a1db5609be54ef7a2d4e211e28",
-   "bytes": 1614005,
+   "sha256": "290d809f561cab24f40ccbc7c5a9d6215f5e42b0554d208354b4321f62a5498f",
+   "bytes": 1859279,
    "team_records": 464,
-   "player_records": 960,
-   "teams_with_games": 97,
-   "total_gp": 172
+   "player_records": 1089,
+   "teams_with_games": 106,
+   "total_gp": 241
   },
   {
    "file": "Tennessee/Final_tn_accumulated_girls_26_27.json",
-   "sha256": "378f440f9a47386b992b20aef91e9841d97914aed3168017075930af2fa6777d",
-   "bytes": 1419647,
+   "sha256": "4f3266c5ac10694feeba612119c0672f3488930bda87cf250eea864e4b516e1e",
+   "bytes": 1593750,
    "team_records": 454,
-   "player_records": 799,
-   "teams_with_games": 88,
-   "total_gp": 141
+   "player_records": 877,
+   "teams_with_games": 93,
+   "total_gp": 191
   },
   {
    "file": "Texas/Final_tx_accumulated_boys_26_27.json",
-   "sha256": "9687b08aba3ddbb0e262a64691a01741f6a316bd78a71592f5400789fadd786a",
-   "bytes": 6230009,
+   "sha256": "43e95e6d14742393d5d0eed3255a4f09350d9b88b4a02c03bb8bacbb3e5f43a0",
+   "bytes": 6982990,
    "team_records": 1943,
-   "player_records": 3658,
-   "teams_with_games": 364,
-   "total_gp": 1201
+   "player_records": 3987,
+   "teams_with_games": 392,
+   "total_gp": 1441
   },
   {
    "file": "Texas/Final_tx_accumulated_girls_26_27.json",
-   "sha256": "ad4b11025272958245fbec5bf8251bc455bdbfd1560891937e162b4d7b8ab7f6",
-   "bytes": 6620428,
+   "sha256": "432106cf5ec8cb4ef8013348a20a87871f9a2a2bb638ff5dfbaa3fcad9e5a2fa",
+   "bytes": 7125462,
    "team_records": 1801,
-   "player_records": 4110,
-   "teams_with_games": 409,
-   "total_gp": 2235
+   "player_records": 4209,
+   "teams_with_games": 415,
+   "total_gp": 2536
   },
   {
    "file": "Utah/Final_ut_accumulated_boys_26_27.json",
-   "sha256": "a3e36684af37f60e0ad500ce99370cd0085218469a0e266a59f45392070b662e",
-   "bytes": 709352,
+   "sha256": "c4860cfeae3c77cd207776704677732c90993882a48f0144e0921fa05a85f631",
+   "bytes": 1001868,
    "team_records": 157,
-   "player_records": 478,
-   "teams_with_games": 49,
-   "total_gp": 77
+   "player_records": 698,
+   "teams_with_games": 73,
+   "total_gp": 109
   },
   {
    "file": "Utah/Final_ut_accumulated_girls_26_27.json",
-   "sha256": "d103f92e35fd80457d427b79adb57a5598f51838b5381770a5584aaf5030885a",
-   "bytes": 908511,
+   "sha256": "6ef37efdd92b6b72e1949fa8d79fa592b3fdef79d86acd7a70354f891291e1d6",
+   "bytes": 1039414,
    "team_records": 152,
-   "player_records": 670,
-   "teams_with_games": 69,
-   "total_gp": 92
+   "player_records": 737,
+   "teams_with_games": 76,
+   "total_gp": 104
   },
   {
    "file": "Virginia/Final_va_accumulated_boys_26_27.json",
-   "sha256": "4d0e79498a955f2c19ec986018cf83e95276f6969f2ba220d15a8b2f42635e6a",
-   "bytes": 977092,
+   "sha256": "17207ee3eb493c2b321d5a3f60dcf5af7b719656a91022d8899e9ce253eeb493",
+   "bytes": 1115900,
    "team_records": 503,
-   "player_records": 360,
-   "teams_with_games": 38,
-   "total_gp": 87
+   "player_records": 429,
+   "teams_with_games": 45,
+   "total_gp": 95
   },
   {
    "file": "Virginia/Final_va_accumulated_girls_26_27.json",
-   "sha256": "354ad63cf75545ea7ac04bade1e8e6baea21b97b66b0254ab3c4acc271a2c7c5",
-   "bytes": 763907,
+   "sha256": "e9064cb2896d9d67ee84ced1d1db92eab12119ae476901df5a52463067c2be5e",
+   "bytes": 852031,
    "team_records": 469,
-   "player_records": 201,
-   "teams_with_games": 25,
-   "total_gp": 41
+   "player_records": 239,
+   "teams_with_games": 31,
+   "total_gp": 49
   },
   {
    "file": "West Virginia/Final_wv_accumulated_boys_26_27.json",
-   "sha256": "6f59ed2d40723ec13b01e9879dae209dfdc42e518defafaa57d68d536a473f3c",
-   "bytes": 184973,
+   "sha256": "600d77b82345195460e8532d8bf34aac7de00cd5590e1d672a7b7d03232df42b",
+   "bytes": 195128,
    "team_records": 148,
    "player_records": 15,
    "teams_with_games": 2,
@@ -399,8 +408,8 @@
   },
   {
    "file": "Wisconsin/Final_wi_accumulated_boys_26_27.json",
-   "sha256": "bcb89cd24384f53c926dca052609ccfc966aae4b6805295249cb20587dd244da",
-   "bytes": 644678,
+   "sha256": "30f6caa43adfdf22ba2002eb7f73c15ac8cc5e2131316dc646fac77d71944d9f",
+   "bytes": 680293,
    "team_records": 535,
    "player_records": 34,
    "teams_with_games": 4,
@@ -408,12 +417,12 @@
   },
   {
    "file": "Wisconsin/Final_wi_accumulated_girls_26_27.json",
-   "sha256": "0f9cebbb2770c7efa8a04c8ad241d84b32163e6de2820e4b89ddb76a00e2cf70",
-   "bytes": 835650,
+   "sha256": "47ece1ca54efa23c64098d68d1336a0fe42208d21a51dc439d7c48265ab38e57",
+   "bytes": 956171,
    "team_records": 513,
-   "player_records": 223,
-   "teams_with_games": 23,
-   "total_gp": 28
+   "player_records": 282,
+   "teams_with_games": 30,
+   "total_gp": 40
   }
  ]
 }

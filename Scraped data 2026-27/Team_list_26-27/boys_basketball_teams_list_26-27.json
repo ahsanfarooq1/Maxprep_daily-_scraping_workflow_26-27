@@ -1239,7 +1239,7 @@
         "team_name": "Bessemer Academy Rebels",
         "city": "Bessemer",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bessemer City Purple Tigers",
@@ -1407,7 +1407,7 @@
         "team_name": "Carbon Hill Bulldogs",
         "city": "Carbon Hill",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Carroll Eagles",
@@ -1515,7 +1515,7 @@
         "team_name": "Cherokee Indians",
         "city": "Cherokee",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Chickasaw Chieftains",
@@ -2595,7 +2595,7 @@
         "team_name": "Leeds Greenwave",
         "city": "Leeds",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Leflore Rattlers",
@@ -3009,7 +3009,7 @@
         "team_name": "Ohatchee Indians",
         "city": "Ohatchee",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Oneonta Redskins",
@@ -3837,7 +3837,7 @@
         "team_name": "Vincent Yellow Jackets",
         "city": "Vincent",
         "state": "AL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Vinemont Eagles",
@@ -6093,7 +6093,7 @@
         "team_name": "Ala West Foothills Guardians",
         "city": "Waddell",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Alchesay Falcons",
@@ -6105,7 +6105,7 @@
         "team_name": "Alhambra Lions",
         "city": "Phoenix",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Alta Vista Lobos",
@@ -6195,7 +6195,7 @@
         "team_name": "Arrowhead Christian Academy Eagles",
         "city": "Glendale",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Ascending Life College Prep Academy",
@@ -6363,7 +6363,7 @@
         "team_name": "Boulder Creek Jaguars",
         "city": "Anthem",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bourgade Catholic Golden Eagles",
@@ -6495,7 +6495,7 @@
         "team_name": "Catalina Trojans",
         "city": "Tucson",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Caurus Academy",
@@ -6615,7 +6615,7 @@
         "team_name": "Coronado Dons",
         "city": "Scottsdale",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cortez Colts",
@@ -6735,7 +6735,7 @@
         "team_name": "Duncan Wildkats",
         "city": "Duncan",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Dysart Demons",
@@ -7005,7 +7005,7 @@
         "team_name": "Highland Hawks",
         "city": "Gilbert",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Highland Prep Honey Badgers",
@@ -7053,7 +7053,7 @@
         "team_name": "Horizon Honors Eagles",
         "city": "Phoenix",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Horizon Huskies",
@@ -7149,7 +7149,7 @@
         "team_name": "Lake Havasu Knights",
         "city": "Lake Havasu City",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Leading Edge Academy - GEC",
@@ -7179,7 +7179,7 @@
         "team_name": "Liberty Lions",
         "city": "Peoria",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lincoln Prep Lightning",
@@ -7347,7 +7347,7 @@
         "team_name": "Mountain Pointe Pride",
         "city": "Phoenix",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mountain Ridge Mountain Lions",
@@ -7803,13 +7803,13 @@
         "team_name": "San Luis Sidewinders",
         "city": "San Luis",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "San Manuel Miners",
         "city": "San Manuel",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "San Miguel Vipers",
@@ -7857,7 +7857,7 @@
         "team_name": "Scottsdale Preparatory Academy Spartans",
         "city": "Scottsdale",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Seligman Antelopes",
@@ -7887,7 +7887,7 @@
         "team_name": "Shadow Mountain Matadors",
         "city": "Phoenix",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Shadow Ridge Stallions",
@@ -8055,7 +8055,7 @@
         "team_name": "Sunrise Mountain Mustangs",
         "city": "Peoria",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Superior Panthers",
@@ -8067,7 +8067,7 @@
         "team_name": "Tanque Verde Hawks",
         "city": "Tucson",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Telesis Prep Tigers",
@@ -8145,7 +8145,7 @@
         "team_name": "Tri City Christian Academy Warriors",
         "city": "Chandler",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tri City Prep Panthers",
@@ -8169,7 +8169,7 @@
         "team_name": "Tuba City Warriors",
         "city": "Tuba City",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tucson High Magnet School Badgers",
@@ -8325,7 +8325,7 @@
         "team_name": "Willow Canyon Wildcats",
         "city": "Surprise",
         "state": "AZ",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Window Rock Fighting Scouts",
@@ -8607,7 +8607,7 @@
         "team_name": "Animo Watts Warriors",
         "city": "Los Angeles",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Ann Sobrato Bulldogs",
@@ -8625,7 +8625,7 @@
         "team_name": "Antelope Titans",
         "city": "Antelope",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Antelope Valley Antelopes",
@@ -8637,7 +8637,7 @@
         "team_name": "Antioch Panthers",
         "city": "Antioch",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Anzar Hawks",
@@ -8997,7 +8997,7 @@
         "team_name": "Bella Vista Broncos",
         "city": "Fair Oaks",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bellarmine College Prep Bells",
@@ -9417,7 +9417,7 @@
         "team_name": "Calaveras Red Hawks",
         "city": "San Andreas",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Calexico Bulldogs",
@@ -9621,13 +9621,13 @@
         "team_name": "Capital College & Career Academy",
         "city": "Sacramento",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Capuchino Mustangs",
         "city": "San Bruno",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cardinal Newman Cardinals",
@@ -9723,7 +9723,7 @@
         "team_name": "Cathedral Catholic Dons",
         "city": "San Diego",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cathedral City Lions",
@@ -9951,7 +9951,7 @@
         "team_name": "Chowchilla Tribe",
         "city": "Chowchilla",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Christian Brothers Falcons",
@@ -10191,7 +10191,7 @@
         "team_name": "Compton Early College The Rising Phoenix",
         "city": "Compton",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Compton Tarbabes",
@@ -10389,7 +10389,7 @@
         "team_name": "Culver City Centaurs",
         "city": "Culver City",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cupertino Pioneers",
@@ -10797,7 +10797,7 @@
         "team_name": "Eastside Lions",
         "city": "Lancaster",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Edgewood Lions",
@@ -10989,7 +10989,7 @@
         "team_name": "Emery Spartans",
         "city": "Emeryville",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Encina Bulldogs",
@@ -11139,7 +11139,7 @@
         "team_name": "Fairfield Falcons",
         "city": "Fairfield",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Fairmont Prep Huskies",
@@ -11265,7 +11265,7 @@
         "team_name": "Foothill Mustangs",
         "city": "Sacramento",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Foothill Tech Dragons",
@@ -11313,7 +11313,7 @@
         "team_name": "Fortune Early College Panthers",
         "city": "Sacramento",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Foshay Wolverines",
@@ -11661,7 +11661,7 @@
         "team_name": "Granite Hills Eagles",
         "city": "El Cajon",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Granite Hills Grizzlies",
@@ -11679,7 +11679,7 @@
         "team_name": "Grant Pacers",
         "city": "Sacramento",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Great Oak Wolfpack",
@@ -11775,7 +11775,7 @@
         "team_name": "Hanford West Huskies",
         "city": "Hanford",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Happy Camp Indians",
@@ -11799,7 +11799,7 @@
         "team_name": "Harker Eagles",
         "city": "San Jose",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hart Hawks",
@@ -11973,7 +11973,7 @@
         "team_name": "Hill Falcons",
         "city": "San Jose",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hillbrook Bears",
@@ -12093,7 +12093,7 @@
         "team_name": "Humphreys Able Charter Legacy",
         "city": "Stockton",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Huntington Beach Oilers",
@@ -12249,7 +12249,7 @@
         "team_name": "Johansen Vikings",
         "city": "Modesto",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "John Adams Academy El Dorado Hills Patriots",
@@ -12261,7 +12261,7 @@
         "team_name": "John Adams Academy Rsvl Lin Patriots",
         "city": "Roseville",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "John Henry Wildcats",
@@ -13071,7 +13071,7 @@
         "team_name": "Los Angeles Ces Unicorns",
         "city": "Los Angeles",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Los Angeles Romans",
@@ -13161,7 +13161,7 @@
         "team_name": "Macdonald Condor",
         "city": "San Jose",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Madera Coyotes",
@@ -13233,7 +13233,7 @@
         "team_name": "Malibu Sharks",
         "city": "Malibu",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mammoth Huskies",
@@ -13419,7 +13419,7 @@
         "team_name": "Mayfair Monsoons",
         "city": "Lakewood",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Maywood Academy Eagles",
@@ -13677,7 +13677,7 @@
         "team_name": "Modesto Christian Crusaders",
         "city": "Modesto",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Modesto Panthers",
@@ -13707,7 +13707,7 @@
         "team_name": "Monache Marauders",
         "city": "Porterville",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Monarch Royals",
@@ -13743,7 +13743,7 @@
         "team_name": "Monte Vista Christian Mustangs",
         "city": "Watsonville",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Monte Vista Monarchs",
@@ -13779,7 +13779,7 @@
         "team_name": "Monterey Trail Mustangs",
         "city": "Elk Grove",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Montgomery Aztecs",
@@ -13827,7 +13827,7 @@
         "team_name": "Morro Bay Pirates",
         "city": "Morro Bay",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Morse Tigers",
@@ -14127,7 +14127,7 @@
         "team_name": "Northwood Timberwolves",
         "city": "Irvine",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Norton Science And Language Academy Rockets",
@@ -14253,7 +14253,7 @@
         "team_name": "Oaks Christian Lions",
         "city": "Westlake Village",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Oakwood Hawks",
@@ -15069,7 +15069,7 @@
         "team_name": "Redlands Terriers",
         "city": "Redlands",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Redondo Union Sea Hawks",
@@ -15141,7 +15141,7 @@
         "team_name": "Rio Americano Raiders",
         "city": "Sacramento",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rio Hondo Prep Kares",
@@ -15279,7 +15279,7 @@
         "team_name": "Rodriguez Mustangs",
         "city": "Fairfield",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rolling Hills Prep Huskies",
@@ -15585,7 +15585,7 @@
         "team_name": "San Jose Bulldogs",
         "city": "San Jose",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "San Juan Hills Stallions",
@@ -15615,7 +15615,7 @@
         "team_name": "San Lorenzo Valley Cougars",
         "city": "Felton",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "San Luis Obispo Classical Academy",
@@ -15819,7 +15819,7 @@
         "team_name": "Santana Sultans",
         "city": "Santee",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Santee Falcons",
@@ -16137,7 +16137,7 @@
         "team_name": "South Fork Cubs",
         "city": "Miranda",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "South Gate Rams",
@@ -16305,7 +16305,7 @@
         "team_name": "St Joseph Notre Dame Pilots",
         "city": "Alameda",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "St Margarets Tartans",
@@ -16779,7 +16779,7 @@
         "team_name": "Tri City Christian Eagles",
         "city": "Vista",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Trinity Christian Eagles",
@@ -17019,7 +17019,7 @@
         "team_name": "Valencia Vikings",
         "city": "Valencia",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Valhalla Norsemen",
@@ -17469,7 +17469,7 @@
         "team_name": "Western Sierra Collegiate Academy Wolves",
         "city": "Rocklin",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Westlake Athletics",
@@ -17691,7 +17691,7 @@
         "team_name": "Woodland Wolves",
         "city": "Woodland",
         "state": "CA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Woodrow Wilson Bruins",
@@ -22305,7 +22305,7 @@
         "team_name": "Babcock Trailblazers",
         "city": "Punta Gorda",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Baker County Wildcats",
@@ -23253,7 +23253,7 @@
         "team_name": "Cypress Creek Coyotes",
         "city": "Wesley Chapel",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cypress Lake Panthers",
@@ -23469,7 +23469,7 @@
         "team_name": "East Lake Eagles",
         "city": "Tarpon Springs",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "East Lee County Jaguars",
@@ -23595,7 +23595,7 @@
         "team_name": "Evangelical Christian Sentinels",
         "city": "Fort Myers",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Evans Trojans",
@@ -23727,7 +23727,7 @@
         "team_name": "Fernandina Beach Fighting Pirates",
         "city": "Fernandina Beach",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "First Academy Eagles",
@@ -23865,7 +23865,7 @@
         "team_name": "Forest Wildcats",
         "city": "Ocala",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Fort Lauderdale Flying Ls",
@@ -24117,7 +24117,7 @@
         "team_name": "Greenacres Christian Panthers",
         "city": "Greenacres",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Gulf Breeze Dolphins",
@@ -24999,7 +24999,7 @@
         "team_name": "Liberty Chargers",
         "city": "Kissimmee",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Liberty Christian",
@@ -25053,7 +25053,7 @@
         "team_name": "Lincoln Trojans",
         "city": "Tallahassee",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lyman Greyhounds",
@@ -25065,7 +25065,7 @@
         "team_name": "Maclay Marauders",
         "city": "Tallahassee",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Madison County Cowboys",
@@ -25143,7 +25143,7 @@
         "team_name": "Masters Academy Patriots",
         "city": "Vero Beach",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Matanzas Pirates",
@@ -25197,7 +25197,7 @@
         "team_name": "Mater Lakes Academy Bears",
         "city": "Miami",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mcarthur Mustangs",
@@ -25335,7 +25335,7 @@
         "team_name": "Montverde Academy Eagles",
         "city": "Montverde",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Montverde Academy Gold (Regional)",
@@ -25509,7 +25509,7 @@
         "team_name": "North Florida Christian Eagles",
         "city": "Tallahassee",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North Florida Educational Institute Eagles",
@@ -26283,7 +26283,7 @@
         "team_name": "Robinson Knights",
         "city": "Tampa",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rockledge Raiders",
@@ -26475,7 +26475,7 @@
         "team_name": "Seminole Seminoles",
         "city": "Sanford",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Seminole Seminoles",
@@ -26523,7 +26523,7 @@
         "team_name": "Sneads Pirates",
         "city": "Sneads",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Solid Rock Community Sea Shepherds",
@@ -26961,7 +26961,7 @@
         "team_name": "Tampa Catholic Crusaders",
         "city": "Tampa",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tampa Prep Terrapins",
@@ -27057,7 +27057,7 @@
         "team_name": "The Pine School Knights",
         "city": "Hobe Sound",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "The Rock Lions",
@@ -27357,7 +27357,7 @@
         "team_name": "Wesley Chapel Wildcats",
         "city": "Wesley Chapel",
         "state": "FL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "West Boca Raton Bulls",
@@ -28089,7 +28089,7 @@
         "team_name": "Cass Colonels",
         "city": "White",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cedar Grove Saints",
@@ -28281,7 +28281,7 @@
         "team_name": "Coffee Trojans",
         "city": "Douglas",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Collins Hill Eagles",
@@ -28335,7 +28335,7 @@
         "team_name": "Community Christian Knights",
         "city": "Stockbridge",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cook Hornets",
@@ -28587,7 +28587,7 @@
         "team_name": "Dooly County Bobcats",
         "city": "Vienna",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Dougherty Trojans",
@@ -29103,7 +29103,7 @@
         "team_name": "Griffin Bears",
         "city": "Griffin",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Griffin Christian Titans",
@@ -29295,7 +29295,7 @@
         "team_name": "Holy Innocents Episcopal Bears",
         "city": "Atlanta",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Holy Spirit Prep Cougars",
@@ -29349,7 +29349,7 @@
         "team_name": "Islands Sharks",
         "city": "Savannah",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Jackson County Panthers",
@@ -29487,7 +29487,7 @@
         "team_name": "Kendrick Cherokees",
         "city": "Columbus",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Kennesaw Mountain Mustangs",
@@ -29649,7 +29649,7 @@
         "team_name": "Liberty County Panthers",
         "city": "Hinesville",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lighthouse Christian",
@@ -31383,7 +31383,7 @@
         "team_name": "Westminster Christian Academy Lions",
         "city": "Watkinsville",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Westminster Schools Of Augusta Wildcats",
@@ -31515,7 +31515,7 @@
         "team_name": "Woodland Wolfpack",
         "city": "Stockbridge",
         "state": "GA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Woodstock Wolverines",
@@ -32463,7 +32463,7 @@
         "team_name": "Coram Deo Academy Warriors",
         "city": "Davenport",
         "state": "IA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Creston Panthers",
@@ -35259,7 +35259,7 @@
         "team_name": "Air Force Academy Falcons",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Alcott Wildcats",
@@ -35289,7 +35289,7 @@
         "team_name": "Althoff Catholic Crusaders",
         "city": "Belleville",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Alton Redbirds",
@@ -35349,7 +35349,7 @@
         "team_name": "Argenta Oreana Bombers",
         "city": "Argenta",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Argo Argonauts",
@@ -35379,7 +35379,7 @@
         "team_name": "Arthur Lovington Atwood Hammond Knights",
         "city": "Arthur",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Arthur Okaw Christian Conquering Riders",
@@ -35391,7 +35391,7 @@
         "team_name": "Ashton Franklin Center Raiders",
         "city": "Ashton",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Aspira Business And Finance White Tigers",
@@ -35721,7 +35721,7 @@
         "team_name": "Bushnell Prairie City Spartans",
         "city": "Bushnell",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bushnell-Prairie City-Avon",
@@ -35871,7 +35871,7 @@
         "team_name": "Casey Westfield Warriors",
         "city": "Casey",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Catalyst Maria Wolves",
@@ -36051,7 +36051,7 @@
         "team_name": "Christian Fenger Academy Titans",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Christian Heritage Academy Lions",
@@ -36429,7 +36429,7 @@
         "team_name": "Dupo Tigers",
         "city": "Dupo",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Duquoin Indians",
@@ -36705,7 +36705,7 @@
         "team_name": "Father Mcgivney Catholic Griffins",
         "city": "Glen Carbon",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Fenton Bison",
@@ -36771,7 +36771,7 @@
         "team_name": "Francis W Parker Colonels",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Frankfort Redbirds",
@@ -36975,7 +36975,7 @@
         "team_name": "Grant Park Dragons",
         "city": "Grant Park",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Grayslake Central Rams",
@@ -37245,7 +37245,7 @@
         "team_name": "Hoopeston Cornjerkers",
         "city": "Hoopeston",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hope Christian Academy",
@@ -37263,7 +37263,7 @@
         "team_name": "Horizon Science Academy Mckinley Park Hawks",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Horizon Science Academy Southwest Huskies",
@@ -37413,7 +37413,7 @@
         "team_name": "Jacobs Eagles",
         "city": "Algonquin",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Jefferson J Hawks",
@@ -37725,7 +37725,7 @@
         "team_name": "Lincoln Railsplitters",
         "city": "Lincoln",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lincoln Way Central Knights",
@@ -37941,7 +37941,7 @@
         "team_name": "Marissa Coulterville Meteors",
         "city": "Marissa",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Marist Redhawks",
@@ -38019,7 +38019,7 @@
         "team_name": "Mather Rangers",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mattoon Greenwave",
@@ -38049,7 +38049,7 @@
         "team_name": "Mendota Trojans",
         "city": "Mendota",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mercer County Golden Eagles",
@@ -38163,7 +38163,7 @@
         "team_name": "Morgan Park Academy Warriors",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Morgan Park Mustangs",
@@ -39039,7 +39039,7 @@
         "team_name": "River Valley Christian School Rams",
         "city": "Elgin",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Riverdale Rams",
@@ -39081,7 +39081,7 @@
         "team_name": "Rochelle Hubs",
         "city": "Rochelle",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rochelle Zell Jewish Tigers",
@@ -39267,7 +39267,7 @@
         "team_name": "Schlarman Hilltoppers",
         "city": "Danville",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Schurz Bulldogs",
@@ -39639,7 +39639,7 @@
         "team_name": "Thornwood Thunderbirds",
         "city": "South Holland",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Tilden Blue Devils",
@@ -39939,7 +39939,7 @@
         "team_name": "Wells Raiders",
         "city": "Chicago",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Wesclin Warriors",
@@ -39975,7 +39975,7 @@
         "team_name": "West Prairie Cyclones",
         "city": "Sciota",
         "state": "IL",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Westfair Christian",
@@ -41715,7 +41715,7 @@
         "team_name": "Lighthouse College Prep Academy Lions",
         "city": "Gary",
         "state": "IN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Linton Stockton Miners",
@@ -47499,7 +47499,7 @@
         "team_name": "Block Bears",
         "city": "Jonesville",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bogalusa Lumberjacks",
@@ -48915,7 +48915,7 @@
         "team_name": "North Central Hurricanes",
         "city": "Lebeau",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North Desoto Griffins",
@@ -49095,7 +49095,7 @@
         "team_name": "Peabody Warhorses",
         "city": "Alexandria",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Pearl River Rebels",
@@ -49125,7 +49125,7 @@
         "team_name": "Pine Prairie Panthers",
         "city": "Pine Prairie",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Pine Raiders",
@@ -49341,7 +49341,7 @@
         "team_name": "Salmen Spartans",
         "city": "Slidell",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sam Houston Broncos",
@@ -49359,7 +49359,7 @@
         "team_name": "Scotlandville Hornets",
         "city": "Baton Rouge",
         "state": "LA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Shreveport Homeschool Sports Force",
@@ -56751,7 +56751,7 @@
         "team_name": "Fellowship Baptist Academy Falcons",
         "city": "Carson City",
         "state": "MI",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Fennville Blackhawks",
@@ -59397,7 +59397,7 @@
         "team_name": "State Line Christian Patriots",
         "city": "Temperance",
         "state": "MI",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Stephenson Eagles",
@@ -63315,7 +63315,7 @@
         "team_name": "Christian Fellowship",
         "city": "Columbia",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Christian Ministries Academy Stallions",
@@ -63561,7 +63561,7 @@
         "team_name": "Dora Falcons",
         "city": "Dora",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Drexel Bobcats",
@@ -64293,7 +64293,7 @@
         "team_name": "Keytesville Tigers",
         "city": "Keytesville",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Kickapoo Chiefs",
@@ -64797,7 +64797,7 @@
         "team_name": "Meadville Eagles",
         "city": "Meadville",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mehlville Panthers",
@@ -64881,7 +64881,7 @@
         "team_name": "Moberly Spartans",
         "city": "Moberly",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Monett Cubs",
@@ -65061,7 +65061,7 @@
         "team_name": "North Callaway Thunderbirds",
         "city": "Kingdom City",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North County Christian",
@@ -65181,7 +65181,7 @@
         "team_name": "Norwood Pirates",
         "city": "Norwood",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Notre Dame Bulldogs",
@@ -65415,7 +65415,7 @@
         "team_name": "Plato Eagles",
         "city": "Plato",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Platte County Pirates",
@@ -65709,7 +65709,7 @@
         "team_name": "School Of The Ozarks Patriots",
         "city": "Point Lookout",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Schuyler County Rams",
@@ -65955,7 +65955,7 @@
         "team_name": "St Elizabeth Hornets",
         "city": "St Elizabeth",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "St Francis Borgia Knights",
@@ -66489,7 +66489,7 @@
         "team_name": "Westran Hornets",
         "city": "Huntsville",
         "state": "MO",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Westwood Baptist Academy Eagles",
@@ -67371,7 +67371,7 @@
         "team_name": "Jefferson Davis County Jaguars",
         "city": "Bassfield",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Jim Hill Tigers",
@@ -67827,7 +67827,7 @@
         "team_name": "Northpoint Christian Trojans",
         "city": "Southaven",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Northwest Rankin Cougars",
@@ -68217,7 +68217,7 @@
         "team_name": "Simpson Academy Cougars",
         "city": "Mendenhall",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Smithville Seminoles",
@@ -68499,7 +68499,7 @@
         "team_name": "Water Valley Blue Devils",
         "city": "Water Valley",
         "state": "MS",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Wayne Academy Jaguars",
@@ -69819,7 +69819,7 @@
         "team_name": "Apex Friendship Patriots",
         "city": "Apex",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Arapahoe Charter School",
@@ -70089,7 +70089,7 @@
         "team_name": "Bull City Prep National",
         "city": "Matthews",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bunker Hill Bears",
@@ -70167,7 +70167,7 @@
         "team_name": "Cape Fear Colts",
         "city": "Fayetteville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cape Hatteras Secondary Hurricanes",
@@ -70455,7 +70455,7 @@
         "team_name": "Christ The King Crusaders",
         "city": "Huntersville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Christian Family Academy Fire",
@@ -70953,7 +70953,7 @@
         "team_name": "Ee Smith Golden Bulls",
         "city": "Fayetteville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Elevation Prep Academy Honey Badgers",
@@ -71001,7 +71001,7 @@
         "team_name": "Erwin Warriors",
         "city": "Asheville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Excelsior Classical Academy Lions",
@@ -71151,7 +71151,7 @@
         "team_name": "Foard Tigers",
         "city": "Newton",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Forbush Falcons",
@@ -71175,7 +71175,7 @@
         "team_name": "Forestview Jaguars",
         "city": "Gastonia",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Forsyth Country Day Furies",
@@ -71199,7 +71199,7 @@
         "team_name": "Franklin Christian School",
         "city": "Franklin",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Franklin Panthers",
@@ -71601,7 +71601,7 @@
         "team_name": "Hilltop Christian Chargers",
         "city": "Fuquay Varina",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hiwassee Dam Eagles",
@@ -71625,13 +71625,13 @@
         "team_name": "Hoggard Vikings",
         "city": "Wilmington",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hoke County Bucks",
         "city": "Raeford",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Holly Springs Golden Hawks",
@@ -71655,7 +71655,7 @@
         "team_name": "Hough Huskies",
         "city": "Cornelius",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hunt Warriors",
@@ -72093,7 +72093,7 @@
         "team_name": "Millbrook Wildcats",
         "city": "Raleigh",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Millennium Lions",
@@ -72117,7 +72117,7 @@
         "team_name": "Mintz Christian Academy Lions",
         "city": "Roseboro",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mitchell Mountaineers",
@@ -72459,7 +72459,7 @@
         "team_name": "North Lenoir Hawks",
         "city": "Lagrange",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North Lincoln Knights",
@@ -72813,7 +72813,7 @@
         "team_name": "Pine Mountain Academy",
         "city": "Hudson",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Pine Springs Prep Academy",
@@ -72825,7 +72825,7 @@
         "team_name": "Pinecrest Patriots",
         "city": "Southern Pines",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Pinnacle Classical Academy Eagles",
@@ -72951,7 +72951,7 @@
         "team_name": "Randleman Tigers",
         "city": "Randleman",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Ravenscroft Ravens",
@@ -73107,7 +73107,7 @@
         "team_name": "Rosewood Eagles",
         "city": "Goldsboro",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rosman Tigers",
@@ -73131,7 +73131,7 @@
         "team_name": "Salisbury Hornets",
         "city": "Salisbury",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sallie B Howard Eagles",
@@ -73251,7 +73251,7 @@
         "team_name": "South Central Falcons",
         "city": "Winterville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "South Charlotte Thunder",
@@ -73377,7 +73377,7 @@
         "team_name": "Southeastern Christian Academy Warriors",
         "city": "Shallotte",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Southeastern Homeschool Cardinals",
@@ -73659,7 +73659,7 @@
         "team_name": "Terry Sanford Bulldogs",
         "city": "Fayetteville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Thales Academy Apex Titans",
@@ -74175,7 +74175,7 @@
         "team_name": "West Charlotte Mighty Lions",
         "city": "Charlotte",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "West Columbus Vikings",
@@ -74205,7 +74205,7 @@
         "team_name": "West Henderson Falcons",
         "city": "Hendersonville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "West Iredell Warriors",
@@ -74295,7 +74295,7 @@
         "team_name": "White Oak Vikings",
         "city": "Jacksonville",
         "state": "NC",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "White Plains Christian Patriots",
@@ -80361,7 +80361,7 @@
         "team_name": "Aztec Tigers",
         "city": "Aztec",
         "state": "NM",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Belen Eagles",
@@ -80691,7 +80691,7 @@
         "team_name": "Hobbs Eagles",
         "city": "Hobbs",
         "state": "NM",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hondo Valley Eagles",
@@ -80787,7 +80787,7 @@
         "team_name": "Los Lunas Tigers",
         "city": "Los Lunas",
         "state": "NM",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Loving Falcons",
@@ -81093,7 +81093,7 @@
         "team_name": "Sandia Matadors",
         "city": "Albuquerque",
         "state": "NM",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sandia Prep",
@@ -81255,7 +81255,7 @@
         "team_name": "Vaughn Eagles",
         "city": "Vaughn",
         "state": "NM",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Volcano Vista Hawks",
@@ -90363,7 +90363,7 @@
         "team_name": "Gilead Christian Indians",
         "city": "Mount Gilead",
         "state": "OH",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Gilmour Academy Lancers",
@@ -90591,7 +90591,7 @@
         "team_name": "Hearts For Jesus Christ Guardians",
         "city": "North Olmsted",
         "state": "OH",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Heath Bulldogs",
@@ -94395,7 +94395,7 @@
         "team_name": "Catoosa Indians",
         "city": "Catoosa",
         "state": "OK",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cave Springs Hornets",
@@ -95931,7 +95931,7 @@
         "team_name": "Oklahoma City Storm Storm",
         "city": "Oklahoma City",
         "state": "OK",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Oklahoma Flame Flame",
@@ -96831,7 +96831,7 @@
         "team_name": "Webster Warriors",
         "city": "Tulsa",
         "state": "OK",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Welch Wildcats",
@@ -107505,7 +107505,7 @@
         "team_name": "Cosby Eagles",
         "city": "Cosby",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Covenant Academy",
@@ -107745,7 +107745,7 @@
         "team_name": "Father Ryan Irish",
         "city": "Nashville",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Fayette Academy Vikings",
@@ -107997,7 +107997,7 @@
         "team_name": "Hampton Bulldogs",
         "city": "Hampton",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hancock County Indians",
@@ -108069,7 +108069,7 @@
         "team_name": "Henry County Patriots",
         "city": "Paris",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Heritage Home Scholars Lady Eagles Warriors",
@@ -108111,7 +108111,7 @@
         "team_name": "Hixson Wildcats",
         "city": "Hixson",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hollow Rock Bruceton Central Tigers",
@@ -108561,7 +108561,7 @@
         "team_name": "Mcgavock Raiders",
         "city": "Nashville",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mckenzie Rebels",
@@ -109077,7 +109077,7 @@
         "team_name": "Rockwood Tigers",
         "city": "Rockwood",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rossview Hawks",
@@ -109407,7 +109407,7 @@
         "team_name": "The Kings Academy Lions",
         "city": "Seymour",
         "state": "TN",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "The Webb School Feet",
@@ -109971,7 +109971,7 @@
         "team_name": "Alvin Yellowjackets",
         "city": "Alvin",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Alvord Bulldogs",
@@ -110211,7 +110211,7 @@
         "team_name": "Austin Maroons",
         "city": "Austin",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Austin Mustangs",
@@ -110331,7 +110331,7 @@
         "team_name": "Bangs Dragons",
         "city": "Bangs",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Banquete Bulldogs",
@@ -111399,7 +111399,7 @@
         "team_name": "Charlotte Trojans",
         "city": "Charlotte",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cherokee Indians",
@@ -112575,7 +112575,7 @@
         "team_name": "Early Longhorns",
         "city": "Early",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "East Austin College Prep",
@@ -112725,7 +112725,7 @@
         "team_name": "El Dorado Aztecs",
         "city": "El Paso",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "El Paso Homeschool Panthers",
@@ -113307,7 +113307,7 @@
         "team_name": "Freer Buckaroos",
         "city": "Freer",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Frenship Memorial Panthers",
@@ -113541,7 +113541,7 @@
         "team_name": "Gold Burg Bears",
         "city": "Bowie",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Goldthwaite Eagles",
@@ -113913,7 +113913,7 @@
         "team_name": "Hamshire Fannett Longhorns",
         "city": "Hamshire",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hanks Knights",
@@ -114543,7 +114543,7 @@
         "team_name": "Humble Christian Cougars",
         "city": "Humble",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Humble Wildcats",
@@ -115503,7 +115503,7 @@
         "team_name": "La Porte Bulldogs",
         "city": "La Porte",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "La Pryor Bulldogs",
@@ -115671,7 +115671,7 @@
         "team_name": "Lanier Voks",
         "city": "San Antonio",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lapoynor Flyers",
@@ -116061,7 +116061,7 @@
         "team_name": "Lockney Longhorns",
         "city": "Lockney",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Logos Prep Academy Lions",
@@ -116325,7 +116325,7 @@
         "team_name": "Magnolia Bulldogs",
         "city": "Magnolia",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Magnolia West Mustangs",
@@ -116421,7 +116421,7 @@
         "team_name": "Marion Bulldogs",
         "city": "Marion",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Marlin Bulldogs",
@@ -116733,7 +116733,7 @@
         "team_name": "Mexia Black Cats",
         "city": "Mexia",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Meyer Ravens",
@@ -116823,7 +116823,7 @@
         "team_name": "Milby Buffaloes",
         "city": "Houston",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mildred Eagles",
@@ -117429,7 +117429,7 @@
         "team_name": "Oconnell Buccaneers",
         "city": "Galveston",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Oconnor Panthers",
@@ -117759,7 +117759,7 @@
         "team_name": "Pecos Eagles",
         "city": "Pecos",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Penelope Wolverines",
@@ -118317,7 +118317,7 @@
         "team_name": "Refugio Bobcats",
         "city": "Refugio",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Regents Academy Eagles",
@@ -118395,7 +118395,7 @@
         "team_name": "Rio Hondo Bobcats",
         "city": "Rio Hondo",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rio Vista Eagles",
@@ -118857,7 +118857,7 @@
         "team_name": "San Diego Vaqueros",
         "city": "San Diego",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "San Elizario Eagles",
@@ -118941,13 +118941,13 @@
         "team_name": "Santa Anna Mountaineers",
         "city": "Santa Anna",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Santa Fe Indians",
         "city": "Santa Fe",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Santa Gertrudis Academy Lions",
@@ -119439,7 +119439,7 @@
         "team_name": "Spring Lions",
         "city": "Spring",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Spring Woods Tigers",
@@ -119631,7 +119631,7 @@
         "team_name": "Stanton Buffaloes",
         "city": "Stanton",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Steele Knights",
@@ -119787,7 +119787,7 @@
         "team_name": "Sunset Bison",
         "city": "Dallas",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sweeny Bulldogs",
@@ -121149,7 +121149,7 @@
         "team_name": "Winona Wildcats",
         "city": "Winona",
         "state": "TX",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Winston Eagles",
@@ -121455,7 +121455,7 @@
         "team_name": "Ben Lomond Scots",
         "city": "Ogden",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bingham Miners",
@@ -121485,7 +121485,7 @@
         "team_name": "Brighton Bengals",
         "city": "Salt Lake City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bryce Valley Mustangs",
@@ -121503,13 +121503,13 @@
         "team_name": "Carbon Dinos",
         "city": "Price",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cedar Reds",
         "city": "Cedar City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Cedar Valley Aviators",
@@ -121539,7 +121539,7 @@
         "team_name": "Cottonwood Colts",
         "city": "Salt Lake City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Crimson Cliffs Mustangs",
@@ -121551,7 +121551,7 @@
         "team_name": "Cyprus Pirates",
         "city": "Magna",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Davinci Academy Dragons",
@@ -121647,7 +121647,7 @@
         "team_name": "Farmington Phoenix",
         "city": "Farmington",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Freedom Prep Academy Eagles",
@@ -121671,7 +121671,7 @@
         "team_name": "Granger Lancers",
         "city": "West Valley City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Grantsville Cowboys",
@@ -121701,19 +121701,19 @@
         "team_name": "Herriman Mustangs",
         "city": "West Herriman",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Highland Rams",
         "city": "Salt Lake City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hillcrest Huskies",
         "city": "Midvale",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Hunter Wolverines",
@@ -121785,7 +121785,7 @@
         "team_name": "Layton Lancers",
         "city": "Layton",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Lehi Pioneers",
@@ -121809,13 +121809,13 @@
         "team_name": "Maeser Prep Academy Lions",
         "city": "Lindon",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Manila Mustangs",
         "city": "Manila",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Manti Templars",
@@ -121875,7 +121875,7 @@
         "team_name": "Mountain Crest Mustangs",
         "city": "Hyrum",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Mountain Ridge Sentinels",
@@ -121899,7 +121899,7 @@
         "team_name": "Murray Spartans",
         "city": "Murray",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Navajo Mountain",
@@ -121911,7 +121911,7 @@
         "team_name": "North Sanpete Hawks",
         "city": "Mt Pleasant",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "North Sevier Wolves",
@@ -122037,7 +122037,7 @@
         "team_name": "Riverton Silverwolves",
         "city": "Riverton",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rockwell Marshals",
@@ -122073,13 +122073,13 @@
         "team_name": "San Juan Broncos",
         "city": "Blanding",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Sky View Bobcats",
         "city": "Smithfield",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Skyline Eagles",
@@ -122151,7 +122151,7 @@
         "team_name": "Tabiona Tigers",
         "city": "Tabiona",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Taylorsville Warriors",
@@ -122175,7 +122175,7 @@
         "team_name": "Timpanogos Timberwolves",
         "city": "Orem",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Timpview Thunderbirds",
@@ -122247,13 +122247,13 @@
         "team_name": "Vanguard Academy Knights",
         "city": "West Valley City",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Viewmont Vikings",
         "city": "Bountiful",
         "state": "UT",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Wallace Stegner Academy",
@@ -122463,7 +122463,7 @@
         "team_name": "Atlee Raiders",
         "city": "Mechanicsville",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Auburn Baptist Christian Academy Knights",
@@ -122505,7 +122505,7 @@
         "team_name": "Battlefield Bobcats",
         "city": "Haymarket",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Bayside Marlins",
@@ -122817,7 +122817,7 @@
         "team_name": "Christ Chapel Academy",
         "city": "Woodbridge",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Christchurch School Seahorses",
@@ -124275,7 +124275,7 @@
         "team_name": "Norfolk Christian Ambassadors",
         "city": "Norfolk",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Norfolk Collegiate Oaks",
@@ -124563,7 +124563,7 @@
         "team_name": "Randolph Macon Academy Yellow Jackets",
         "city": "Front Royal",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Rappahannock County",
@@ -124899,7 +124899,7 @@
         "team_name": "Steward Spartans",
         "city": "Richmond",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Stone Bridge Bulldogs",
@@ -125097,7 +125097,7 @@
         "team_name": "Trinity At Meadow View Tempest",
         "city": "Falls Church",
         "state": "VA",
-        "data_availablity": "none"
+        "data_availablity": "partial"
     },
     {
         "team_name": "Trinity Christian Gryphons",

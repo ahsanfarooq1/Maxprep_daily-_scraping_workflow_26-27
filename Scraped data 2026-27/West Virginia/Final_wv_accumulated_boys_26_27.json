@@ -2,11 +2,13 @@
     {
         "team_id": "wv/huntington/expression-prep-academy-lions/basketball",
         "team_name": "Expression Prep Academy Lions",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 2,
-        "total_games_scheduled": 6,
+        "TotalGamesChecked": 3,
+        "total_games_scheduled": 23,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -55,6 +57,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
@@ -108,6 +112,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "T. CARON(So)",
         "GP": 1,
@@ -159,6 +165,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "C. EITEL(So)",
         "GP": 1,
@@ -210,6 +218,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "T. SWEENEY(Jr)",
         "GP": 1,
@@ -261,6 +271,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "T. WILLIAMS(Jr)",
         "GP": 1,
@@ -312,6 +324,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "R. PERRY(Sr)",
         "GP": 1,
@@ -363,6 +377,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "L. CARON(Fr)",
         "GP": 1,
@@ -414,6 +430,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "E. Hawley(So)",
         "GP": 1,
@@ -465,6 +483,8 @@
     {
         "team_id": "wv/mount-hope/mount-hope-christian-academy-warriors/basketball",
         "team_name": "Mount Hope Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "B. WOOD(So)",
         "GP": 1,
@@ -516,11 +536,13 @@
     {
         "team_id": "wv/martinsburg/martinsburg-area-christian-homeschoolers-speed/basketball",
         "team_name": "Martinsburg Area Christian Homeschoolers Speed",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 1,
-        "total_games_scheduled": 3,
+        "TotalGamesChecked": 2,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -569,6 +591,8 @@
     {
         "team_id": "wv/ballard/ballard-christian/basketball",
         "team_name": "Ballard Christian",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -622,6 +646,8 @@
     {
         "team_id": "wv/berkeley-springs/berkeley-springs-indians/basketball",
         "team_name": "Berkeley Springs Indians",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -675,6 +701,8 @@
     {
         "team_id": "wv/omar/beth-haven-christian-hornets/basketball",
         "team_name": "Beth Haven Christian Hornets",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -728,6 +756,8 @@
     {
         "team_id": "wv/charleston/bible-center-school-rams/basketball",
         "team_name": "Bible Center School",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -781,6 +811,8 @@
     {
         "team_id": "wv/barboursville/bloomingdale-blazers/basketball",
         "team_name": "Bloomingdale Blazers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -834,6 +866,8 @@
     {
         "team_id": "wv/bluefield/bluefield-beavers/basketball",
         "team_name": "Bluefield Beavers",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -887,6 +921,8 @@
     {
         "team_id": "wv/sutton/braxton-county-eagles/basketball",
         "team_name": "Braxton County Eagles",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -940,6 +976,8 @@
     {
         "team_id": "wv/bridgeport/bridgeport-indians/basketball",
         "team_name": "Bridgeport Indians",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -993,6 +1031,8 @@
     {
         "team_id": "wv/wellsburg/brooke-bruins/basketball",
         "team_name": "Brooke Bruins",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1046,6 +1086,8 @@
     {
         "team_id": "wv/buckhannon/buckhannon-upshur-bucaneers/basketball",
         "team_name": "Buckhannon Upshur Bucaneers",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1099,6 +1141,8 @@
     {
         "team_id": "wv/buffalo/buffalo-bison/basketball",
         "team_name": "Buffalo Bison",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1152,6 +1196,8 @@
     {
         "team_id": "wv/ona/cabell-midland-knights/basketball",
         "team_name": "Cabell Midland Knights",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1205,6 +1251,8 @@
     {
         "team_id": "wv/mt-zion/calhoun-red-devils/basketball",
         "team_name": "Calhoun Red Devils",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1258,6 +1306,8 @@
     {
         "team_id": "wv/hurricane/calvary-baptist-academy-patriots/basketball",
         "team_name": "Calvary Baptist Academy Patriots",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1311,6 +1361,8 @@
     {
         "team_id": "wv/cameron/cameron-dragons/basketball",
         "team_name": "Cameron Dragons",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1364,6 +1416,8 @@
     {
         "team_id": "wv/charleston/capital-cougars/basketball",
         "team_name": "Capital Cougars",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1417,6 +1471,8 @@
     {
         "team_id": "wv/chapmanville/chapmanville-regional-tigers/basketball",
         "team_name": "Chapmanville Regional Tigers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1470,6 +1526,8 @@
     {
         "team_id": "wv/charleston/charleston-catholic-irish/basketball",
         "team_name": "Charleston Catholic Irish",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1523,6 +1581,8 @@
     {
         "team_id": "wv/blacksville/clay-battelle-cee-bees/basketball",
         "team_name": "Clay Battelle Cee Bees",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1576,6 +1636,8 @@
     {
         "team_id": "wv/clay/clay-county-panthers/basketball",
         "team_name": "Clay County Panthers",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1629,6 +1691,8 @@
     {
         "team_id": "wv/morgantown/covenant-christian/basketball",
         "team_name": "Covenant Christian",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1682,6 +1746,8 @@
     {
         "team_id": "wv/barboursville/covenant-eagles/basketball",
         "team_name": "Covenant Eagles",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1735,6 +1801,8 @@
     {
         "team_id": "wv/charleston/cross-lanes-christian-warriors/basketball",
         "team_name": "Cross Lanes Christian Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1788,6 +1856,8 @@
     {
         "team_id": "wv/west-union/doddridge-county-bulldogs/basketball",
         "team_name": "Doddridge County Bulldogs",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1841,6 +1911,8 @@
     {
         "team_id": "wv/fairmont/east-fairmont-bees/basketball",
         "team_name": "East Fairmont Bees",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1894,11 +1966,13 @@
     {
         "team_id": "wv/baker/east-hardy-cougars/basketball",
         "team_name": "East Hardy Cougars",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 20,
+        "total_games_scheduled": 19,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -1947,6 +2021,8 @@
     {
         "team_id": "wv/elkview/elk-valley-christian-eagles/basketball",
         "team_name": "Elk Valley Christian Eagles",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2000,6 +2076,8 @@
     {
         "team_id": "wv/elkins/elkins-tigers/basketball",
         "team_name": "Elkins Tigers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2053,6 +2131,8 @@
     {
         "team_id": "wv/fairmont/fairmont-senior-polar-bears/basketball",
         "team_name": "Fairmont Senior Polar Bears",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2106,6 +2186,8 @@
     {
         "team_id": "wv/ridgeley/frankfort-falcons/basketball",
         "team_name": "Frankfort Falcons",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2159,6 +2241,8 @@
     {
         "team_id": "wv/charleston/george-washington-patriots/basketball",
         "team_name": "George Washington Patriots",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2212,6 +2296,8 @@
     {
         "team_id": "wv/glenville/gilmer-county-titans/basketball",
         "team_name": "Gilmer County Titans",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2265,6 +2351,8 @@
     {
         "team_id": "wv/huntington/grace-christian/basketball",
         "team_name": "Grace Christian",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2318,6 +2406,8 @@
     {
         "team_id": "wv/grafton/grafton-bearcats/basketball",
         "team_name": "Grafton Bearcats",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2371,6 +2461,8 @@
     {
         "team_id": "wv/prosperity/greater-beckley-christian-crusaders/basketball",
         "team_name": "Greater Beckley Christian Crusaders",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2424,6 +2516,8 @@
     {
         "team_id": "wv/lewisburg/greenbrier-east-spartans/basketball",
         "team_name": "Greenbrier East Spartans",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2477,6 +2571,8 @@
     {
         "team_id": "wv/charmco/greenbrier-west-cavaliers/basketball",
         "team_name": "Greenbrier West Cavaliers",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2530,11 +2626,13 @@
     {
         "team_id": "wv/romney/hampshire-trojans/basketball",
         "team_name": "Hampshire Trojans",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 16,
+        "total_games_scheduled": 17,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -2583,6 +2681,8 @@
     {
         "team_id": "wv/ashton/hannan-wildcats/basketball",
         "team_name": "Hannan Wildcats",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2636,6 +2736,8 @@
     {
         "team_id": "wv/harman/harman-panthers/basketball",
         "team_name": "Harman Panthers",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2689,6 +2791,8 @@
     {
         "team_id": "wv/hedgesville/hedgesville-eagles/basketball",
         "team_name": "Hedgesville Eagles",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2742,6 +2846,8 @@
     {
         "team_id": "wv/elkview/herbert-hoover-huskies/basketball",
         "team_name": "Herbert Hoover Huskies",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2795,6 +2901,8 @@
     {
         "team_id": "wv/bridgeport/heritage-christian-patriots/basketball",
         "team_name": "Heritage Christian Patriots",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2848,6 +2956,8 @@
     {
         "team_id": "wv/logan/heritage-christian-prep-highlanders/basketball",
         "team_name": "Heritage Christian Prep Highlanders",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2901,6 +3011,8 @@
     {
         "team_id": "wv/huntington/huntington-expression-prep-kings/basketball",
         "team_name": "Huntington Expression Prep Kings",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2954,6 +3066,8 @@
     {
         "team_id": "wv/huntington/huntington-highlanders/basketball",
         "team_name": "Huntington Highlanders",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3007,6 +3121,8 @@
     {
         "team_id": "wv/hurricane/hurricane-redskins/basketball",
         "team_name": "Hurricane Redskins",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3060,6 +3176,8 @@
     {
         "team_id": "wv/hurricane/ignite-athletics-flames/basketball",
         "team_name": "Ignite Athletics Flames",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3113,6 +3231,8 @@
     {
         "team_id": "wv/coal-city/independence-patriots/basketball",
         "team_name": "Independence Patriots",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3166,6 +3286,8 @@
     {
         "team_id": "wv/lindside/james-monroe-mavericks/basketball",
         "team_name": "James Monroe Mavericks",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3219,6 +3341,8 @@
     {
         "team_id": "wv/shenandoah-junction/jefferson-cougars/basketball",
         "team_name": "Jefferson Cougars",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3272,6 +3396,8 @@
     {
         "team_id": "wv/glen-dale/john-marshall-monarchs/basketball",
         "team_name": "John Marshall Monarchs",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3325,6 +3451,8 @@
     {
         "team_id": "wv/keyser/keyser-golden-tornado/basketball",
         "team_name": "Keyser Golden Tornado",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3378,6 +3506,8 @@
     {
         "team_id": "wv/weston/lewis-county-minutemen/basketball",
         "team_name": "Lewis County Minutemen",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3431,6 +3561,8 @@
     {
         "team_id": "wv/lewisburg/lewisburg-baptist-academy-lions/basketball",
         "team_name": "Lewisburg Baptist Academy Lions",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3484,6 +3616,8 @@
     {
         "team_id": "wv/glen-daniel/liberty-raiders/basketball",
         "team_name": "Liberty Raiders",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3537,6 +3671,8 @@
     {
         "team_id": "wv/shinnston/lincoln-cougars/basketball",
         "team_name": "Lincoln Cougars",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3590,6 +3726,8 @@
     {
         "team_id": "wv/hamlin/lincoln-county-panthers/basketball",
         "team_name": "Lincoln County Panthers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3643,6 +3781,8 @@
     {
         "team_id": "wv/logan/logan-wildcats/basketball",
         "team_name": "Logan Wildcats",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3696,6 +3836,8 @@
     {
         "team_id": "wv/weirton/madonna-blue-dons/basketball",
         "team_name": "Madonna Blue Dons",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3749,6 +3891,8 @@
     {
         "team_id": "wv/man/man-hillbillies/basketball",
         "team_name": "Man Hillbillies",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3802,6 +3946,8 @@
     {
         "team_id": "wv/princeton/maranatha-christian-academy-knights/basketball",
         "team_name": "Maranatha Christian Academy Knights",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3855,6 +4001,8 @@
     {
         "team_id": "wv/martinsburg/martinsburg-bulldogs/basketball",
         "team_name": "Martinsburg Bulldogs",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3908,6 +4056,8 @@
     {
         "team_id": "wv/meadow-bridge/meadow-bridge-wildcats/basketball",
         "team_name": "Meadow Bridge Wildcats",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3961,6 +4111,8 @@
     {
         "team_id": "wv/hico/midland-trail-patriots/basketball",
         "team_name": "Midland Trail Patriots",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4014,6 +4166,8 @@
     {
         "team_id": "wv/matewan/mingo-central-miners/basketball",
         "team_name": "Mingo Central Miners",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4067,6 +4221,8 @@
     {
         "team_id": "wv/montcalm/montcalm-generals/basketball",
         "team_name": "Montcalm Generals",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4120,6 +4276,8 @@
     {
         "team_id": "wv/moorefield/moorefield-yellow-jackets/basketball",
         "team_name": "Moorefield Yellow Jackets",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4173,6 +4331,8 @@
     {
         "team_id": "wv/morgantown/morgantown-christian-academy-mustangs/basketball",
         "team_name": "Morgantown Christian Academy Mustangs",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4226,6 +4386,8 @@
     {
         "team_id": "wv/morgantown/morgantown-mohigans/basketball",
         "team_name": "Morgantown Mohigans",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4279,6 +4441,8 @@
     {
         "team_id": "wv/welch/mount-view-golden-knights/basketball",
         "team_name": "Mount View Golden Knights",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4332,6 +4496,8 @@
     {
         "team_id": "wv/inwood/musselman-applemen/basketball",
         "team_name": "Musselman Applemen",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4385,6 +4551,8 @@
     {
         "team_id": "wv/summersville/new-life-christian-academy-lions/basketball",
         "team_name": "New Life Christian Academy Lions",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4438,6 +4606,8 @@
     {
         "team_id": "wv/summersville/nicholas-county-grizzlies/basketball",
         "team_name": "Nicholas County Grizzlies",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4491,6 +4661,8 @@
     {
         "team_id": "wv/nitro/nitro-wildcats/basketball",
         "team_name": "Nitro Wildcats",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4544,6 +4716,8 @@
     {
         "team_id": "wv/farmington/north-marion-huskies/basketball",
         "team_name": "North Marion Huskies",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4597,6 +4771,8 @@
     {
         "team_id": "wv/clarksburg/notre-dame-fighting-irish/basketball",
         "team_name": "Notre Dame Fighting Irish",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4650,6 +4826,8 @@
     {
         "team_id": "wv/oak-hill/oak-hill-red-devils/basketball",
         "team_name": "Oak Hill Red Devils",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4703,6 +4881,8 @@
     {
         "team_id": "wv/paden-city/paden-city-wildcats/basketball",
         "team_name": "Paden City",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4756,11 +4936,13 @@
     {
         "team_id": "wv/parkersburg/parkersburg-big-reds/basketball",
         "team_name": "Parkersburg Big Reds",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 17,
+        "total_games_scheduled": 18,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -4809,6 +4991,8 @@
     {
         "team_id": "wv/parkersburg/parkersburg-catholic-crusaders/basketball",
         "team_name": "Parkersburg Catholic",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4862,6 +5046,8 @@
     {
         "team_id": "wv/parkersburg/parkersburg-christian/basketball",
         "team_name": "Parkersburg Christian",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4915,6 +5101,8 @@
     {
         "team_id": "wv/parkersburg/parkersburg-south-patriots/basketball",
         "team_name": "Parkersburg South Patriots",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4968,6 +5156,8 @@
     {
         "team_id": "wv/paw-paw/paw-paw-pirates/basketball",
         "team_name": "Paw Paw Pirates",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5021,6 +5211,8 @@
     {
         "team_id": "wv/franklin/pendleton-county-wildcat/basketball",
         "team_name": "Pendleton County Wildcat",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5074,6 +5266,8 @@
     {
         "team_id": "wv/petersburg/petersburg-vikings/basketball",
         "team_name": "Petersburg Vikings",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5127,6 +5321,8 @@
     {
         "team_id": "wv/philippi/philip-barbour-colts/basketball",
         "team_name": "Philip Barbour Colts",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5180,6 +5376,8 @@
     {
         "team_id": "wv/princeton/pikeview-panthers/basketball",
         "team_name": "Pikeview Panthers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5233,6 +5431,8 @@
     {
         "team_id": "wv/poca/poca-the-dots/basketball",
         "team_name": "Poca The Dots",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5286,6 +5486,8 @@
     {
         "team_id": "wv/dunmore/pocahontas-county-warriors/basketball",
         "team_name": "Pocahontas County Warriors",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5339,6 +5541,8 @@
     {
         "team_id": "wv/kingwood/preston-knights/basketball",
         "team_name": "Preston Knights",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5392,6 +5596,8 @@
     {
         "team_id": "wv/princeton/princeton-tigers/basketball",
         "team_name": "Princeton Tigers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5445,6 +5651,8 @@
     {
         "team_id": "wv/ravenswood/ravenswood-red-devils/basketball",
         "team_name": "Ravenswood Red Devils",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5498,6 +5706,8 @@
     {
         "team_id": "wv/richwood/richwood-lumberjacks/basketball",
         "team_name": "Richwood Lumberjacks",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5551,6 +5761,8 @@
     {
         "team_id": "wv/ripley/ripley-christian-academy-rhinos/basketball",
         "team_name": "Ripley Christian Academy Rhinos",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5604,6 +5816,8 @@
     {
         "team_id": "wv/ripley/ripley-vikings/basketball",
         "team_name": "Ripley Vikings",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5657,6 +5871,8 @@
     {
         "team_id": "wv/ellenboro/ritchie-county-rebels/basketball",
         "team_name": "Ritchie County Rebels",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5710,6 +5926,8 @@
     {
         "team_id": "wv/bradshaw/river-view-raiders/basketball",
         "team_name": "River View Raiders",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5763,6 +5981,8 @@
     {
         "team_id": "wv/belle/riverside-warriors/basketball",
         "team_name": "Riverside Warriors",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5816,6 +6036,8 @@
     {
         "team_id": "wv/spencer/roane-county-raiders/basketball",
         "team_name": "Roane County Raiders",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5869,6 +6091,8 @@
     {
         "team_id": "wv/clarksburg/robert-c-byrd-eagles/basketball",
         "team_name": "Robert C Byrd Eagles",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5922,6 +6146,8 @@
     {
         "team_id": "wv/madison/scott-skyhawks/basketball",
         "team_name": "Scott Skyhawks",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5975,6 +6201,8 @@
     {
         "team_id": "wv/ronceverte/seneca-trail-christian-academy-blazers/basketball",
         "team_name": "Seneca Trail Christian Academy Blazers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6028,6 +6256,8 @@
     {
         "team_id": "wv/shady-spring/shady-spring-tigers/basketball",
         "team_name": "Shady Spring Tigers",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6081,6 +6311,8 @@
     {
         "team_id": "wv/seth/sherman-tide/basketball",
         "team_name": "Sherman Tide",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6134,6 +6366,8 @@
     {
         "team_id": "wv/charleston/sissonville-indians/basketball",
         "team_name": "Sissonville Indians",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6187,6 +6421,8 @@
     {
         "team_id": "wv/south-charleston/south-charleston-black-eagles/basketball",
         "team_name": "South Charleston Black Eagles",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6240,6 +6476,8 @@
     {
         "team_id": "wv/lost-creek/south-harrison-hawks/basketball",
         "team_name": "South Harrison Hawks",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6293,6 +6531,8 @@
     {
         "team_id": "wv/martinsburg/spring-mills-cardinals/basketball",
         "team_name": "Spring Mills Cardinals",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6346,6 +6586,8 @@
     {
         "team_id": "wv/huntington/spring-valley-timberwolves/basketball",
         "team_name": "Spring Valley Timberwolves",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6399,6 +6641,8 @@
     {
         "team_id": "wv/st-albans/st-albans-red-dragons/basketball",
         "team_name": "St Albans Red Dragons",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6452,6 +6696,8 @@
     {
         "team_id": "wv/huntington/st-joseph-central-irish/basketball",
         "team_name": "St Joseph Central Irish",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6505,6 +6751,8 @@
     {
         "team_id": "wv/st-marys/st-marys-blue-devils/basketball",
         "team_name": "St Marys Blue Devils",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6558,6 +6806,8 @@
     {
         "team_id": "wv/hinton/summers-county-bobcats/basketball",
         "team_name": "Summers County Bobcats",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6611,6 +6861,8 @@
     {
         "team_id": "wv/princeton/summit-christian-academy-falcons/basketball",
         "team_name": "Summit Christian Academy Falcons",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6664,11 +6916,13 @@
     {
         "team_id": "wv/scott-depot/teays-valley-christian-lions/basketball",
         "team_name": "Teays Valley Christian Lions",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 15,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -6717,6 +6971,8 @@
     {
         "team_id": "wv/scott-depot/teays-valley-christian-prep-lions/basketball",
         "team_name": "Teays Valley Christian Prep",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6770,6 +7026,8 @@
     {
         "team_id": "wv/wheeling/the-linsly-school-cadets/basketball",
         "team_name": "The Linsly School",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6823,6 +7081,8 @@
     {
         "team_id": "wv/fort-gay/tolsia-rebels/basketball",
         "team_name": "Tolsia Rebels",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6876,6 +7136,8 @@
     {
         "team_id": "wv/kenna/tri-county-homeschool-crusaders/basketball",
         "team_name": "Tri County Homeschool Crusaders",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6929,6 +7191,8 @@
     {
         "team_id": "wv/huntington/tri-state-homeschool-falcons/basketball",
         "team_name": "Tri State Homeschool Falcons",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6982,6 +7246,8 @@
     {
         "team_id": "wv/morgantown/trinity-christian-warriors/basketball",
         "team_name": "Trinity Christian Warriors",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7035,6 +7301,8 @@
     {
         "team_id": "wv/hambleton/tucker-county-mountain-lions/basketball",
         "team_name": "Tucker County Mountain Lions",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7088,6 +7356,8 @@
     {
         "team_id": "wv/williamson/tug-valley-panthers/basketball",
         "team_name": "Tug Valley Panthers",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7141,6 +7411,8 @@
     {
         "team_id": "wv/mill-creek/tygarts-valley-bulldogs/basketball",
         "team_name": "Tygarts Valley Bulldogs",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7194,6 +7466,8 @@
     {
         "team_id": "wv/sistersville/tyler-knights/basketball",
         "team_name": "Tyler Knights",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7247,6 +7521,8 @@
     {
         "team_id": "wv/mount-storm/union-tigers/basketball",
         "team_name": "Union Tigers",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7300,6 +7576,8 @@
     {
         "team_id": "wv/morgantown/university-hawks/basketball",
         "team_name": "University Hawks",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7353,6 +7631,8 @@
     {
         "team_id": "wv/pine-grove/valley-lumberjacks/basketball",
         "team_name": "Valley Lumberjacks",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7406,6 +7686,8 @@
     {
         "team_id": "wv/van/van-bulldogs/basketball",
         "team_name": "Van Bulldogs",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7459,6 +7741,8 @@
     {
         "team_id": "wv/beaver/victory-baptist-academy-saints/basketball",
         "team_name": "Victory Baptist Academy Saints",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7512,6 +7796,8 @@
     {
         "team_id": "wv/mason/wahama-white-falcons/basketball",
         "team_name": "Wahama White Falcons",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7565,6 +7851,8 @@
     {
         "team_id": "wv/charles-town/washington-patriots/basketball",
         "team_name": "Washington Patriots",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7618,6 +7906,8 @@
     {
         "team_id": "wv/wayne/wayne-pioneers/basketball",
         "team_name": "Wayne Pioneers",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7671,6 +7961,8 @@
     {
         "team_id": "wv/upper-glade/webster-county-highlanders/basketball",
         "team_name": "Webster County Highlanders",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7724,6 +8016,8 @@
     {
         "team_id": "wv/logan/west-logan-christian-academy-warriors/basketball",
         "team_name": "West Logan Christian Academy Warriors",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7777,6 +8071,8 @@
     {
         "team_id": "wv/clear-fork/westside-renegades/basketball",
         "team_name": "Westside Renegades",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7830,6 +8126,8 @@
     {
         "team_id": "wv/wheeling/wheeling-park-patriots/basketball",
         "team_name": "Wheeling Park Patriots",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7883,6 +8181,8 @@
     {
         "team_id": "wv/williamstown/williamstown-yellowjackets/basketball",
         "team_name": "Williamstown Yellowjackets",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7936,6 +8236,8 @@
     {
         "team_id": "wv/winfield/winfield-generals/basketball",
         "team_name": "Winfield Generals",
+        "level": "AAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7989,6 +8291,8 @@
     {
         "team_id": "wv/elizabeth/wirt-county-tigers/basketball",
         "team_name": "Wirt County Tigers",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8042,6 +8346,8 @@
     {
         "team_id": "wv/williamstown/wood-county-christian-wildcat/basketball",
         "team_name": "Wood County Christian Wildcat",
+        "level": "A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8095,6 +8401,8 @@
     {
         "team_id": "wv/beckley/woodrow-wilson-flying-eagles/basketball",
         "team_name": "Woodrow Wilson Flying Eagles",
+        "level": "AAAA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8148,6 +8456,8 @@
     {
         "team_id": "wv/new-richmond/wyoming-east-warriors/basketball",
         "team_name": "Wyoming East Warriors",
+        "level": "AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8201,6 +8511,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
@@ -8254,6 +8566,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "T. Hagerman(Sr)",
         "GP": 1,
@@ -8305,6 +8619,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "I. Dove(Jr)",
         "GP": 1,
@@ -8356,6 +8672,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "T. Richards(So)",
         "GP": 1,
@@ -8407,6 +8725,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "N. Vanaman(Sr)",
         "GP": 1,
@@ -8458,6 +8778,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "N. Myers(Sr)",
         "GP": 1,
@@ -8509,6 +8831,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "C. Lambert(Jr)",
         "GP": 1,
@@ -8560,6 +8884,8 @@
     {
         "team_id": "wv/pipestem/pipestem-christian-academy-panthers/basketball",
         "team_name": "Pipestem Christian Academy Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "player",
         "Name": "L. Oxley(Sr)",
         "GP": 1,

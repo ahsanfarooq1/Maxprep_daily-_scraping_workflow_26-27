@@ -2,6 +2,8 @@
     {
         "team_id": "ks/manhattan/flint-hills-christian-warriors/basketball/girls",
         "team_name": "Flint Hills Christian Warriors",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -55,6 +57,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 1,
@@ -108,6 +112,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "E. Busenitz()",
         "GP": 1,
@@ -159,6 +165,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "K. Oller(Jr)",
         "GP": 1,
@@ -210,6 +218,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "S. Eilert(So)",
         "GP": 1,
@@ -261,6 +271,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "C. Hoelscher(Jr)",
         "GP": 1,
@@ -312,6 +324,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "L. Busenitz(Jr)",
         "GP": 1,
@@ -363,6 +377,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "E. Friesen(Jr)",
         "GP": 1,
@@ -414,6 +430,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "K. Hett(Fr)",
         "GP": 1,
@@ -465,6 +483,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "K. Hett()",
         "GP": 1,
@@ -516,6 +536,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "C. Wray()",
         "GP": 1,
@@ -567,6 +589,8 @@
     {
         "team_id": "ks/newton/newton-home-school-mustangs/basketball/girls",
         "team_name": "Newton Home School Mustangs",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "player",
         "Name": "H. Hoelscher(So)",
         "GP": 1,
@@ -618,6 +642,8 @@
     {
         "team_id": "ks/abilene/abilene-cowboys-cowgirls/basketball/girls",
         "team_name": "Abilene Cowboys Cowgirls",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -671,6 +697,8 @@
     {
         "team_id": "ks/buffalo/altoona-midway-jets/basketball/girls",
         "team_name": "Altoona Midway Jets",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -724,6 +752,8 @@
     {
         "team_id": "ks/andale/andale-indians/basketball/girls",
         "team_name": "Andale Indians",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -777,11 +807,13 @@
     {
         "team_id": "ks/garnett/anderson-county-bulldogs/basketball/girls",
         "team_name": "Anderson County Bulldogs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 9,
+        "total_games_scheduled": 10,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -830,11 +862,13 @@
     {
         "team_id": "ks/andover/andover-central-jaguars/basketball/girls",
         "team_name": "Andover Central Jaguars",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 15,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -883,6 +917,8 @@
     {
         "team_id": "ks/andover/andover-trojans/basketball/girls",
         "team_name": "Andover Trojans",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -936,6 +972,8 @@
     {
         "team_id": "ks/argonia/argonia-raiders/basketball/girls",
         "team_name": "Argonia Raiders",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -989,11 +1027,13 @@
     {
         "team_id": "ks/arkansas-city/arkansas-city-bulldogs/basketball/girls",
         "team_name": "Arkansas City Bulldogs",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 11,
+        "total_games_scheduled": 20,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -1042,6 +1082,8 @@
     {
         "team_id": "ks/ashland/ashland-blue-jays/basketball/girls",
         "team_name": "Ashland Blue Jays",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1095,6 +1137,8 @@
     {
         "team_id": "ks/effingham/atchison-county-tigers/basketball/girls",
         "team_name": "Atchison County Tigers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1148,11 +1192,13 @@
     {
         "team_id": "ks/atchison/atchison-maur-hill-mount-academy-ravens/basketball/girls",
         "team_name": "Atchison-Maur Hill-Mount Academy",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 12,
+        "total_games_scheduled": 19,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -1201,6 +1247,8 @@
     {
         "team_id": "ks/atchison/atchison-phoenix/basketball/girls",
         "team_name": "Atchison Phoenix",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1254,6 +1302,8 @@
     {
         "team_id": "ks/attica/attica-bulldogs/basketball/girls",
         "team_name": "Attica Bulldogs",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1307,6 +1357,8 @@
     {
         "team_id": "ks/augusta/augusta-orioles/basketball/girls",
         "team_name": "Augusta Orioles",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1360,6 +1412,8 @@
     {
         "team_id": "ks/axtell/axtell-eagles/basketball/girls",
         "team_name": "Axtell Eagles",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1413,6 +1467,8 @@
     {
         "team_id": "ks/baldwin/baldwin-bulldogs/basketball/girls",
         "team_name": "Baldwin Bulldogs",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1466,6 +1522,8 @@
     {
         "team_id": "ks/basehor/basehor-linwood-bobcats/basketball/girls",
         "team_name": "Basehor Linwood Bobcats",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1519,6 +1577,8 @@
     {
         "team_id": "ks/baxter-springs/baxter-springs-lions/basketball/girls",
         "team_name": "Baxter Springs Lions",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1572,6 +1632,8 @@
     {
         "team_id": "ks/belle-plaine/belle-plaine-dragons/basketball/girls",
         "team_name": "Belle Plaine Dragons",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1625,6 +1687,8 @@
     {
         "team_id": "ks/beloit/beloit-trojans/basketball/girls",
         "team_name": "Beloit Trojans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1678,6 +1742,8 @@
     {
         "team_id": "ks/bennington/bennington-bulldogs/basketball/girls",
         "team_name": "Bennington Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1731,6 +1797,8 @@
     {
         "team_id": "ks/elbing/berean-academy-warriors/basketball/girls",
         "team_name": "Berean Academy Warriors",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1784,6 +1852,8 @@
     {
         "team_id": "ks/wichita/bishop-carroll-golden-eagles/basketball/girls",
         "team_name": "Bishop Carroll Golden Eagles",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1837,6 +1907,8 @@
     {
         "team_id": "ks/shawnee-mission/bishop-miege-stags/basketball/girls",
         "team_name": "Bishop Miege Stags",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1890,6 +1962,8 @@
     {
         "team_id": "ks/lawrence/bishop-seabury-academy-seahawks/basketball/girls",
         "team_name": "Bishop Seabury Academy Seahawks",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1943,6 +2017,8 @@
     {
         "team_id": "ks/kansas-city/bishop-ward-cyclones/basketball/girls",
         "team_name": "Bishop Ward Cyclones",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -1996,6 +2072,8 @@
     {
         "team_id": "ks/overland-park/blue-valley-north-mustangs/basketball/girls",
         "team_name": "Blue Valley North Mustangs",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2049,6 +2127,8 @@
     {
         "team_id": "ks/overland-park/blue-valley-north-west-huskies/basketball/girls",
         "team_name": "Blue Valley North West Huskies",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2102,6 +2182,8 @@
     {
         "team_id": "ks/randolph/blue-valley-rams/basketball/girls",
         "team_name": "Blue Valley Rams",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2155,6 +2237,8 @@
     {
         "team_id": "ks/overland-park/blue-valley-southwest-timberwolves/basketball/girls",
         "team_name": "Blue Valley Southwest Timberwolves",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2208,6 +2292,8 @@
     {
         "team_id": "ks/stilwell/blue-valley-tigers/basketball/girls",
         "team_name": "Blue Valley Tigers",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2261,6 +2347,8 @@
     {
         "team_id": "ks/stilwell/blue-valley-west-jaguars/basketball/girls",
         "team_name": "Blue Valley West Jaguars",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2314,11 +2402,13 @@
     {
         "team_id": "ks/leon/bluestem-lions/basketball/girls",
         "team_name": "Bluestem Lions",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 7,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -2367,6 +2457,8 @@
     {
         "team_id": "ks/bonner-springs/bonner-springs-braves/basketball/girls",
         "team_name": "Bonner Springs Braves",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2420,6 +2512,8 @@
     {
         "team_id": "ks/brewster/brewster-bulldogs/basketball/girls",
         "team_name": "Brewster",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2473,6 +2567,8 @@
     {
         "team_id": "ks/bucklin/bucklin-red-aces/basketball/girls",
         "team_name": "Bucklin Red Aces",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2526,6 +2622,8 @@
     {
         "team_id": "ks/buhler/buhler-crusaders/basketball/girls",
         "team_name": "Buhler Crusaders",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2579,6 +2677,8 @@
     {
         "team_id": "ks/burlingame/burlingame-bearcats/basketball/girls",
         "team_name": "Burlingame Bearcats",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2632,6 +2732,8 @@
     {
         "team_id": "ks/burlington/burlington-wildcats/basketball/girls",
         "team_name": "Burlington Wildcats",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2685,6 +2787,8 @@
     {
         "team_id": "ks/topeka/cair-paravel-lions/basketball/girls",
         "team_name": "Cair Paravel Lions",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2738,6 +2842,8 @@
     {
         "team_id": "ks/caldwell/caldwell-bluejays/basketball/girls",
         "team_name": "Caldwell Bluejays",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2791,11 +2897,13 @@
     {
         "team_id": "ks/caney/caney-valley-bullpups/basketball/girls",
         "team_name": "Caney Valley Bullpups",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 5,
+        "total_games_scheduled": 6,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -2844,6 +2952,8 @@
     {
         "team_id": "ks/canton/canton-galva-eagles/basketball/girls",
         "team_name": "Canton Galva Eagles",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2897,6 +3007,8 @@
     {
         "team_id": "ks/cedar-vale/cedar-vale-dexter-spartans/basketball/girls",
         "team_name": "Cedar Vale/Dexter",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -2950,6 +3062,8 @@
     {
         "team_id": "ks/wichita/central-christian-academy-lions/basketball/girls",
         "team_name": "Central Christian Academy Lions",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3003,6 +3117,8 @@
     {
         "team_id": "ks/hutchinson/central-christian-cougars/basketball/girls",
         "team_name": "Central Christian Cougars",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3056,6 +3172,8 @@
     {
         "team_id": "ks/richmond/central-heights-vikings/basketball/girls",
         "team_name": "Central Heights Vikings",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3109,6 +3227,8 @@
     {
         "team_id": "ks/claflin/central-plains-oilers/basketball/girls",
         "team_name": "Central Plains Oilers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3162,6 +3282,8 @@
     {
         "team_id": "ks/burden/central-raiders/basketball/girls",
         "team_name": "Central Raiders",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3215,6 +3337,8 @@
     {
         "team_id": "ks/centralia/centralia-panthers/basketball/girls",
         "team_name": "Centralia Panthers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3268,6 +3392,8 @@
     {
         "team_id": "ks/lost-springs/centre-cougars/basketball/girls",
         "team_name": "Centre Cougars",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3321,6 +3447,8 @@
     {
         "team_id": "ks/chanute/chanute-christian/basketball/girls",
         "team_name": "Chanute Christian",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3374,11 +3502,13 @@
     {
         "team_id": "ks/chanute/chanute-comets/basketball/girls",
         "team_name": "Chanute Comets",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 9,
+        "total_games_scheduled": 11,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -3427,11 +3557,13 @@
     {
         "team_id": "ks/anthony/chaparral-roadrunners/basketball/girls",
         "team_name": "Chaparral Roadrunners",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 14,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -3480,6 +3612,8 @@
     {
         "team_id": "ks/chapman/chapman-irish/basketball/girls",
         "team_name": "Chapman Irish",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3533,6 +3667,8 @@
     {
         "team_id": "ks/cottonwood-falls/chase-county-bulldogs/basketball/girls",
         "team_name": "Chase County Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3586,6 +3722,8 @@
     {
         "team_id": "ks/chase/chase-kats/basketball/girls",
         "team_name": "Chase Kats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3639,6 +3777,8 @@
     {
         "team_id": "ks/cheney/cheney-cardinals/basketball/girls",
         "team_name": "Cheney Cardinals",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3692,11 +3832,13 @@
     {
         "team_id": "ks/cherryvale/cherryvale-chargers/basketball/girls",
         "team_name": "Cherryvale Chargers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 3,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -3745,6 +3887,8 @@
     {
         "team_id": "ks/chetopa/chetopa-hornets/basketball/girls",
         "team_name": "Chetopa Hornets",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3798,6 +3942,8 @@
     {
         "team_id": "ks/bird-city/cheylin-cougars/basketball/girls",
         "team_name": "Cheylin Cougars",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3851,6 +3997,8 @@
     {
         "team_id": "ks/lenexa/christ-prep-academy-patriots/basketball/girls",
         "team_name": "Christ Prep Academy Patriots",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3904,6 +4052,8 @@
     {
         "team_id": "ks/gove/christian-family-educators/basketball/girls",
         "team_name": "Christian Family Educators",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -3957,6 +4107,8 @@
     {
         "team_id": "ks/cimarron/cimarron-bluejays/basketball/girls",
         "team_name": "Cimarron Bluejays",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4010,6 +4162,8 @@
     {
         "team_id": "ks/towanda/circle-thunderbirds/basketball/girls",
         "team_name": "Circle Thunderbirds",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4063,6 +4217,8 @@
     {
         "team_id": "ks/wichita/classical-saints/basketball/girls",
         "team_name": "Classical Saints",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4116,6 +4272,8 @@
     {
         "team_id": "ks/clay-center/clay-center-tigers/basketball/girls",
         "team_name": "Clay Center Tigers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4169,6 +4327,8 @@
     {
         "team_id": "ks/clearwater/clearwater-indians/basketball/girls",
         "team_name": "Clearwater Indians",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4222,6 +4382,8 @@
     {
         "team_id": "ks/clyde/clifton-clyde-eagles/basketball/girls",
         "team_name": "Clifton Clyde Eagles",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4275,6 +4437,8 @@
     {
         "team_id": "ks/colby/colby-eagles/basketball/girls",
         "team_name": "Colby Eagles",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4328,6 +4492,8 @@
     {
         "team_id": "ks/wichita/collegiate-spartans/basketball/girls",
         "team_name": "Collegiate Spartans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4381,6 +4547,8 @@
     {
         "team_id": "ks/columbus/columbus-titans/basketball/girls",
         "team_name": "Columbus Titans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4434,6 +4602,8 @@
     {
         "team_id": "ks/concordia/concordia-panthers/basketball/girls",
         "team_name": "Concordia Panthers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4487,6 +4657,8 @@
     {
         "team_id": "ks/conway-springs/conway-springs-cardinals/basketball/girls",
         "team_name": "Conway Springs Cardinals",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4540,6 +4712,8 @@
     {
         "team_id": "ks/council-grove/council-grove-braves/basketball/girls",
         "team_name": "Council Grove Braves",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4593,11 +4767,13 @@
     {
         "team_id": "ks/colony/crest-lancers/basketball/girls",
         "team_name": "Crest Lancers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 4,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -4646,6 +4822,8 @@
     {
         "team_id": "ks/cunningham/cunningham-wildcats/basketball/girls",
         "team_name": "Cunningham Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4699,6 +4877,8 @@
     {
         "team_id": "ks/de-soto/de-soto-wildcats/basketball/girls",
         "team_name": "De Soto Wildcats",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4752,6 +4932,8 @@
     {
         "team_id": "ks/oberlin/decatur-community-red-devils/basketball/girls",
         "team_name": "Decatur Community Red Devils",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4805,6 +4987,8 @@
     {
         "team_id": "ks/deerfield/deerfield-spartans/basketball/girls",
         "team_name": "Deerfield Spartans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4858,6 +5042,8 @@
     {
         "team_id": "ks/derby/derby-panthers/basketball/girls",
         "team_name": "Derby Panthers",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -4911,11 +5097,13 @@
     {
         "team_id": "ks/dexter/dexter/basketball/girls",
         "team_name": "Dexter",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -4964,6 +5152,8 @@
     {
         "team_id": "ks/dighton/dighton-hornets/basketball/girls",
         "team_name": "Dighton Hornets",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5017,6 +5207,8 @@
     {
         "team_id": "ks/dodge-city/dodge-city-red-demons/basketball/girls",
         "team_name": "Dodge City Red Demons",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5070,6 +5262,8 @@
     {
         "team_id": "ks/highland/doniphan-west-mustangs/basketball/girls",
         "team_name": "Doniphan West Mustangs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5123,6 +5317,8 @@
     {
         "team_id": "ks/douglass/douglass-bulldogs/basketball/girls",
         "team_name": "Douglass Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5176,6 +5372,8 @@
     {
         "team_id": "ks/wichita/east-blue-aces/basketball/girls",
         "team_name": "East Blue Aces",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5229,6 +5427,8 @@
     {
         "team_id": "ks/goddard/eisenhower-tigers/basketball/girls",
         "team_name": "Eisenhower Tigers",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5282,6 +5482,8 @@
     {
         "team_id": "ks/el-dorado/el-dorado-wildcats/basketball/girls",
         "team_name": "El Dorado Wildcats",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5335,6 +5537,8 @@
     {
         "team_id": "ks/elkhart/elkhart-wildcats/basketball/girls",
         "team_name": "Elkhart Wildcats",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5388,6 +5592,8 @@
     {
         "team_id": "ks/brookville/ell-saline-cardinals/basketball/girls",
         "team_name": "Ell Saline Cardinals",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5441,6 +5647,8 @@
     {
         "team_id": "ks/ellinwood/ellinwood-eagles/basketball/girls",
         "team_name": "Ellinwood Eagles",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5494,6 +5702,8 @@
     {
         "team_id": "ks/ellis/ellis-railroaders/basketball/girls",
         "team_name": "Ellis Railroaders",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5547,6 +5757,8 @@
     {
         "team_id": "ks/ellsworth/ellsworth-bearcats/basketball/girls",
         "team_name": "Ellsworth Bearcats",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5600,6 +5812,8 @@
     {
         "team_id": "ks/mcpherson/elyria-christian/basketball/girls",
         "team_name": "Elyria Christian",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5653,6 +5867,8 @@
     {
         "team_id": "ks/emporia/emporia-spartans/basketball/girls",
         "team_name": "Emporia Spartans",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5706,11 +5922,13 @@
     {
         "team_id": "ks/erie/erie-red-devils/basketball/girls",
         "team_name": "Erie Red Devils",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 4,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -5759,6 +5977,8 @@
     {
         "team_id": "ks/eudora/eudora-cardinals/basketball/girls",
         "team_name": "Eudora Cardinals",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5812,6 +6032,8 @@
     {
         "team_id": "ks/eureka/eureka-tornadoes/basketball/girls",
         "team_name": "Eureka Tornadoes",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5865,6 +6087,8 @@
     {
         "team_id": "ks/langdon/fairfield-falcons/basketball/girls",
         "team_name": "Fairfield Falcons",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5918,6 +6142,8 @@
     {
         "team_id": "mo/kansas-city/faith-christian-academy-knights/basketball/girls",
         "team_name": "Faith Christian Academy Knights",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -5971,6 +6197,8 @@
     {
         "team_id": "ks/liberal/fellowship-baptist-academy-falcons/basketball/girls",
         "team_name": "Fellowship Baptist Academy Falcons",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6024,11 +6252,13 @@
     {
         "team_id": "ks/coffeyville/field-kindley-golden-tornado/basketball/girls",
         "team_name": "Field Kindley Golden Tornado",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 4,
+        "total_games_scheduled": 5,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -6077,6 +6307,8 @@
     {
         "team_id": "ks/rosalia/flinthills-mustangs/basketball/girls",
         "team_name": "Flinthills Mustangs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6130,6 +6362,8 @@
     {
         "team_id": "ks/fort-scott/fort-scott-tigers/basketball/girls",
         "team_name": "Fort Scott Tigers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6183,6 +6417,8 @@
     {
         "team_id": "ks/frankfort/frankfort-wildcats/basketball/girls",
         "team_name": "Frankfort Wildcats",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6236,6 +6472,8 @@
     {
         "team_id": "ks/fredonia/fredonia-elk-valley/basketball/girls",
         "team_name": "Fredonia Elk Valley",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6289,6 +6527,8 @@
     {
         "team_id": "ks/fredonia/fredonia-yellowjackets/basketball/girls",
         "team_name": "Fredonia",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6342,6 +6582,8 @@
     {
         "team_id": "ks/frontenac/frontenac-raidernation/basketball/girls",
         "team_name": "Frontenac Raidernation",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6395,6 +6637,8 @@
     {
         "team_id": "ks/galena/galena-bulldogs/basketball/girls",
         "team_name": "Galena Bulldogs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6448,6 +6692,8 @@
     {
         "team_id": "ks/garden-city/garden-city-buffaloes/basketball/girls",
         "team_name": "Garden City Buffaloes",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6501,6 +6747,8 @@
     {
         "team_id": "ks/garden-plain/garden-plain-owls/basketball/girls",
         "team_name": "Garden Plain Owls",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6554,6 +6802,8 @@
     {
         "team_id": "ks/gardner/gardner-edgerton-trailblazers/basketball/girls",
         "team_name": "Gardner Edgerton Trailblazers",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6607,11 +6857,13 @@
     {
         "team_id": "ks/girard/girard-trojans/basketball/girls",
         "team_name": "Girard Trojans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 3,
+        "total_games_scheduled": 4,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -6660,11 +6912,13 @@
     {
         "team_id": "ks/goddard/goddard-lions/basketball/girls",
         "team_name": "Goddard Lions",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 9,
+        "total_games_scheduled": 11,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -6713,6 +6967,8 @@
     {
         "team_id": "ks/goessel/goessel-bluebirds/basketball/girls",
         "team_name": "Goessel Bluebirds",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6766,6 +7022,8 @@
     {
         "team_id": "ks/great-bend/golden-belt-home-educators-arrows/basketball/girls",
         "team_name": "Golden Belt Home Educators Arrows",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6819,6 +7077,8 @@
     {
         "team_id": "ks/rexford/golden-plains-bulldogs/basketball/girls",
         "team_name": "Golden Plains Bulldogs",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6872,6 +7132,8 @@
     {
         "team_id": "ks/goodland/goodland-cowboys/basketball/girls",
         "team_name": "Goodland Cowboys",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6925,6 +7187,8 @@
     {
         "team_id": "ks/great-bend/great-bend-panthers/basketball/girls",
         "team_name": "Great Bend Panthers",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -6978,6 +7242,8 @@
     {
         "team_id": "ks/tribune/greeley-county-jackrabbits/basketball/girls",
         "team_name": "Greeley County Jackrabbits",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7031,6 +7297,8 @@
     {
         "team_id": "ks/halstead/halstead-dragons/basketball/girls",
         "team_name": "Halstead Dragons",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7084,6 +7352,8 @@
     {
         "team_id": "ks/hanover/hanover-wildcats/basketball/girls",
         "team_name": "Hanover Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7137,6 +7407,8 @@
     {
         "team_id": "ks/kansas-city/harmon-hawks/basketball/girls",
         "team_name": "Harmon Hawks",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7190,6 +7462,8 @@
     {
         "team_id": "ks/hartford/hartford-jaguars/basketball/girls",
         "team_name": "Hartford Jaguars",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7243,11 +7517,13 @@
     {
         "team_id": "ks/haven/haven-wildcats/basketball/girls",
         "team_name": "Haven Wildcats",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 11,
+        "total_games_scheduled": 12,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -7296,6 +7572,8 @@
     {
         "team_id": "ks/topeka/hayden-wildcats/basketball/girls",
         "team_name": "Hayden Wildcats",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7349,6 +7627,8 @@
     {
         "team_id": "ks/hays/hays-indians/basketball/girls",
         "team_name": "Hays Indians",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7402,6 +7682,8 @@
     {
         "team_id": "ks/wichita/haysville-campus-colts/basketball/girls",
         "team_name": "Haysville Campus Colts",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7455,6 +7737,8 @@
     {
         "team_id": "ks/colby/heartland-christian-crusaders/basketball/girls",
         "team_name": "Heartland Christian Crusaders",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7508,6 +7792,8 @@
     {
         "team_id": "ks/wichita/heights-falcons/basketball/girls",
         "team_name": "Heights Falcons",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7561,6 +7847,8 @@
     {
         "team_id": "ks/herington/herington-railers/basketball/girls",
         "team_name": "Herington Railers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7614,6 +7902,8 @@
     {
         "team_id": "ks/olathe/heritage-christian-academy-chargers/basketball/girls",
         "team_name": "Heritage Christian Academy Chargers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7667,6 +7957,8 @@
     {
         "team_id": "ks/hesston/hesston-swathers/basketball/girls",
         "team_name": "Hesston Swathers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7720,6 +8012,8 @@
     {
         "team_id": "ks/hiawatha/hiawatha-red-hawks/basketball/girls",
         "team_name": "Hiawatha Red Hawks",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7773,6 +8067,8 @@
     {
         "team_id": "ks/topeka/highland-park-scots/basketball/girls",
         "team_name": "Highland Park Scots",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7826,6 +8122,8 @@
     {
         "team_id": "ks/hill-city/hill-city-ringnecks/basketball/girls",
         "team_name": "Hill City Ringnecks",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7879,6 +8177,8 @@
     {
         "team_id": "ks/hillsboro/hillsboro-trojans/basketball/girls",
         "team_name": "Hillsboro Trojans",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7932,6 +8232,8 @@
     {
         "team_id": "ks/jetmore/hodgeman-county-longhorns/basketball/girls",
         "team_name": "Hodgeman County Longhorns",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -7985,6 +8287,8 @@
     {
         "team_id": "ks/hoisington/hoisington-cardinals/basketball/girls",
         "team_name": "Hoisington Cardinals",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8038,6 +8342,8 @@
     {
         "team_id": "ks/holcomb/holcomb-longhorns/basketball/girls",
         "team_name": "Holcomb Longhorns",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8091,6 +8397,8 @@
     {
         "team_id": "ks/holton/holton-wildcats/basketball/girls",
         "team_name": "Holton Wildcats",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8144,11 +8452,13 @@
     {
         "team_id": "ks/horton/horton-chargers/basketball/girls",
         "team_name": "Horton Chargers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 17,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8197,6 +8507,8 @@
     {
         "team_id": "ks/hoxie/hoxie-indians/basketball/girls",
         "team_name": "Hoxie Indians",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8250,6 +8562,8 @@
     {
         "team_id": "ks/hugoton/hugoton-eagles/basketball/girls",
         "team_name": "Hugoton Eagles",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8303,11 +8617,13 @@
     {
         "team_id": "ks/humboldt/humboldt-cubs/basketball/girls",
         "team_name": "Humboldt Cubs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 20,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8356,6 +8672,8 @@
     {
         "team_id": "ks/hutchinson/hutchinson-salthawks/basketball/girls",
         "team_name": "Hutchinson Salthawks",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8409,6 +8727,8 @@
     {
         "team_id": "ks/independence/independence-bulldogs/basketball/girls",
         "team_name": "Independence Bulldogs",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8462,6 +8782,8 @@
     {
         "team_id": "ks/wichita/independent-panthers/basketball/girls",
         "team_name": "Independent Panthers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8515,6 +8837,8 @@
     {
         "team_id": "ks/ingalls/ingalls-bulldogs/basketball/girls",
         "team_name": "Ingalls Bulldogs",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8568,6 +8892,8 @@
     {
         "team_id": "ks/inman/inman-teutons/basketball/girls",
         "team_name": "Inman Teutons",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8621,6 +8947,8 @@
     {
         "team_id": "ks/iola/iola-mustangs/basketball/girls",
         "team_name": "Iola Mustangs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8674,11 +9002,13 @@
     {
         "team_id": "ks/holton/jackson-heights-cobras/basketball/girls",
         "team_name": "Jackson Heights Cobras",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 22,
+        "total_games_scheduled": 21,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8727,11 +9057,13 @@
     {
         "team_id": "ks/mound-city/jayhawk-linn-jayhawks/basketball/girls",
         "team_name": "Jayhawk Linn Jayhawks",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 7,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8780,11 +9112,13 @@
     {
         "team_id": "ks/winchester/jefferson-county-north-chargers/basketball/girls",
         "team_name": "Jefferson County North Chargers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 15,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -8833,6 +9167,8 @@
     {
         "team_id": "ks/meriden/jefferson-west-tigers/basketball/girls",
         "team_name": "Jefferson West Tigers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8886,6 +9222,8 @@
     {
         "team_id": "ks/junction-city/junction-city-bluejays/basketball/girls",
         "team_name": "Junction City Bluejays",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8939,6 +9277,8 @@
     {
         "team_id": "ks/junction-city/junction-city-st-xavier-bluejays/basketball/girls",
         "team_name": "Junction City/St. Xavier",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -8992,6 +9332,8 @@
     {
         "team_id": "ks/prairie-village/kansas-city-christian-school-panthers/basketball/girls",
         "team_name": "Kansas City Christian School Panthers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9045,6 +9387,8 @@
     {
         "team_id": "ks/wichita/kapaun-mt-carmel-crusaders/basketball/girls",
         "team_name": "Kapaun Mt Carmel Crusaders",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9098,6 +9442,8 @@
     {
         "team_id": "ks/kingman/kingman-eagles/basketball/girls",
         "team_name": "Kingman Eagles",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9151,6 +9497,8 @@
     {
         "team_id": "ks/kinsley/kinsley-coyotes/basketball/girls",
         "team_name": "Kinsley Coyotes",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9204,6 +9552,8 @@
     {
         "team_id": "ks/greensburg/kiowa-county-mavericks/basketball/girls",
         "team_name": "Kiowa County Mavericks",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9257,6 +9607,8 @@
     {
         "team_id": "ks/altamont/labette-county-grizzlies/basketball/girls",
         "team_name": "Labette County Grizzlies",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9310,6 +9662,8 @@
     {
         "team_id": "ks/lacrosse/lacrosse-leopards/basketball/girls",
         "team_name": "Lacrosse Leopards",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9363,6 +9717,8 @@
     {
         "team_id": "ks/downs/lakeside-dragons/basketball/girls",
         "team_name": "Lakeside Dragons",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9416,6 +9772,8 @@
     {
         "team_id": "ks/lakin/lakin-broncs/basketball/girls",
         "team_name": "Lakin Broncs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9469,6 +9827,8 @@
     {
         "team_id": "ks/lansing/lansing-lions/basketball/girls",
         "team_name": "Lansing Lions",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9522,6 +9882,8 @@
     {
         "team_id": "ks/larned/larned-indians/basketball/girls",
         "team_name": "Larned Indians",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9575,6 +9937,8 @@
     {
         "team_id": "ks/lawrence/lawrence-chesty-lions/basketball/girls",
         "team_name": "Lawrence Chesty Lions",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9628,6 +9992,8 @@
     {
         "team_id": "ks/lawrence/lawrence-free-state-firebirds/basketball/girls",
         "team_name": "Lawrence Free State Firebirds",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9681,6 +10047,8 @@
     {
         "team_id": "ks/leavenworth/leavenworth-pioneers/basketball/girls",
         "team_name": "Leavenworth Pioneers",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9734,6 +10102,8 @@
     {
         "team_id": "ks/lebo/lebo-wolves/basketball/girls",
         "team_name": "Lebo Wolves",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9787,6 +10157,8 @@
     {
         "team_id": "ks/liberal/liberal-redskins/basketball/girls",
         "team_name": "Liberal Redskins",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9840,6 +10212,8 @@
     {
         "team_id": "ks/yates-center/liberty-homeschool-alliance-arrows/basketball/girls",
         "team_name": "Liberty Homeschool Alliance Arrows",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9893,6 +10267,8 @@
     {
         "team_id": "ks/park-city/life-prep-fire/basketball/girls",
         "team_name": "Life Prep Fire",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9946,6 +10322,8 @@
     {
         "team_id": "ks/lincoln/lincoln-leopards/basketball/girls",
         "team_name": "Lincoln Leopards",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -9999,6 +10377,8 @@
     {
         "team_id": "ks/linn/linn-bulldogs/basketball/girls",
         "team_name": "Linn Bulldogs",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10052,6 +10432,8 @@
     {
         "team_id": "ks/little-river/little-river-redskins/basketball/girls",
         "team_name": "Little River Redskins",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10105,6 +10487,8 @@
     {
         "team_id": "ks/logan/logan-palco/basketball/girls",
         "team_name": "Logan Palco",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10158,6 +10542,8 @@
     {
         "team_id": "ks/logan/logan-trojans/basketball/girls",
         "team_name": "Logan Trojans",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10211,6 +10597,8 @@
     {
         "team_id": "ks/louisburg/louisburg-wildcats/basketball/girls",
         "team_name": "Louisburg Wildcats",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10264,6 +10652,8 @@
     {
         "team_id": "ks/lyndon/lyndon-tigers/basketball/girls",
         "team_name": "Lyndon Tigers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10317,6 +10707,8 @@
     {
         "team_id": "ks/lyons/lyons-lions/basketball/girls",
         "team_name": "Lyons Lions",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10370,6 +10762,8 @@
     {
         "team_id": "ks/macksville/macksville-mustangs/basketball/girls",
         "team_name": "Macksville Mustangs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10423,6 +10817,8 @@
     {
         "team_id": "ks/madison/madison-bulldogs/basketball/girls",
         "team_name": "Madison",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10476,6 +10872,8 @@
     {
         "team_id": "ks/madison/madison-hamilton-bulldogs/basketball/girls",
         "team_name": "Madison Hamilton Bulldogs",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10529,6 +10927,8 @@
     {
         "team_id": "ks/maize/maize-eagles/basketball/girls",
         "team_name": "Maize Eagles",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10582,6 +10982,8 @@
     {
         "team_id": "ks/wichita/maize-south-mavericks/basketball/girls",
         "team_name": "Maize South Mavericks",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10635,6 +11037,8 @@
     {
         "team_id": "ks/manhattan/manhattan-catholic-tigers/basketball/girls",
         "team_name": "Manhattan Catholic Tigers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10688,6 +11092,8 @@
     {
         "team_id": "ks/manhattan/manhattan-homeschool-chief/basketball/girls",
         "team_name": "Manhattan Homeschool Chief",
+        "level": "KCAA AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10741,6 +11147,8 @@
     {
         "team_id": "ks/manhattan/manhattan-indians/basketball/girls",
         "team_name": "Manhattan Indians",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10794,6 +11202,8 @@
     {
         "team_id": "ks/melvern/marais-des-cygnes-valley-trojans/basketball/girls",
         "team_name": "Marais Des Cygnes Valley Trojans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10847,6 +11257,8 @@
     {
         "team_id": "ks/shawnee/maranatha-christian-academy-eagles/basketball/girls",
         "team_name": "Maranatha Christian Academy Eagles",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10900,6 +11312,8 @@
     {
         "team_id": "ks/marion/marion-warriors/basketball/girls",
         "team_name": "Marion Warriors",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -10953,6 +11367,8 @@
     {
         "team_id": "ks/moran/marmaton-valley-wildcats/basketball/girls",
         "team_name": "Marmaton Valley Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11006,6 +11422,8 @@
     {
         "team_id": "ks/marysville/marysville-bulldogs/basketball/girls",
         "team_name": "Marysville Bulldogs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11059,11 +11477,13 @@
     {
         "team_id": "ks/atchison/maur-hill-prep-mount-academy-ravens/basketball/girls",
         "team_name": "Maur Hill Prep Mount Academy Ravens",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 16,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -11112,11 +11532,13 @@
     {
         "team_id": "ks/mclouth/mclouth-bulldogs/basketball/girls",
         "team_name": "Mclouth Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 23,
+        "total_games_scheduled": 22,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -11165,6 +11587,8 @@
     {
         "team_id": "ks/mcpherson/mcpherson-bullpups/basketball/girls",
         "team_name": "Mcpherson Bullpups",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11218,6 +11642,8 @@
     {
         "team_id": "ks/meade/meade-buffaloes/basketball/girls",
         "team_name": "Meade Buffaloes",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11271,11 +11697,13 @@
     {
         "team_id": "ks/medicine-lodge/medicine-lodge-indians/basketball/girls",
         "team_name": "Medicine Lodge Indians",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 5,
+        "total_games_scheduled": 6,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -11324,6 +11752,8 @@
     {
         "team_id": "ks/shawnee-mission/metro-academy-mavericks/basketball/girls",
         "team_name": "Metro Academy Mavericks",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11377,6 +11807,8 @@
     {
         "team_id": "ks/shawnee/mill-valley-jaguars/basketball/girls",
         "team_name": "Mill Valley Jaguars",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11430,6 +11862,8 @@
     {
         "team_id": "ks/minneapolis/minneapolis-lions/basketball/girls",
         "team_name": "Minneapolis Lions",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11483,11 +11917,13 @@
     {
         "team_id": "ks/minneola/minneola-wildcats/basketball/girls",
         "team_name": "Minneola Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 10,
+        "total_games_scheduled": 11,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -11536,6 +11972,8 @@
     {
         "team_id": "ks/eskridge/mission-valley-vikings/basketball/girls",
         "team_name": "Mission Valley Vikings",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11589,6 +12027,8 @@
     {
         "team_id": "ks/moscow/moscow-wildcats/basketball/girls",
         "team_name": "Moscow Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11642,6 +12082,8 @@
     {
         "team_id": "ks/moundridge/moundridge-wildcats/basketball/girls",
         "team_name": "Moundridge Wildcats",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11695,6 +12137,8 @@
     {
         "team_id": "ks/mulvane/mulvane-wildcats/basketball/girls",
         "team_name": "Mulvane Wildcats",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11748,6 +12192,8 @@
     {
         "team_id": "ks/natoma/natoma-tigers/basketball/girls",
         "team_name": "Natoma Tigers",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11801,6 +12247,8 @@
     {
         "team_id": "ks/seneca/nemaha-central-thunder/basketball/girls",
         "team_name": "Nemaha Central Thunder",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11854,11 +12302,13 @@
     {
         "team_id": "ks/neodesha/neodesha-blue-streaks/basketball/girls",
         "team_name": "Neodesha Blue Streaks",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 5,
+        "total_games_scheduled": 7,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -11907,6 +12357,8 @@
     {
         "team_id": "ks/ness-city/ness-city-eagles/basketball/girls",
         "team_name": "Ness City Eagles",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -11960,6 +12412,8 @@
     {
         "team_id": "ks/newton/newton-railers/basketball/girls",
         "team_name": "Newton Railers",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12013,6 +12467,8 @@
     {
         "team_id": "ks/nickerson/nickerson-panthers/basketball/girls",
         "team_name": "Nickerson Panthers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12066,6 +12522,8 @@
     {
         "team_id": "ks/wichita/north-redhawks/basketball/girls",
         "team_name": "North Redhawks",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12119,6 +12577,8 @@
     {
         "team_id": "ks/topeka/northeast-kansas-nighthawks-homeschool-nighthawks/basketball/girls",
         "team_name": "Northeast Kansas Nighthawks Homeschool Nighthawks",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12172,6 +12632,8 @@
     {
         "team_id": "ks/arma/northeast-vikings/basketball/girls",
         "team_name": "Northeast Vikings",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12225,6 +12687,8 @@
     {
         "team_id": "ks/allen/northern-heights-wildcats/basketball/girls",
         "team_name": "Northern Heights Wildcats",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12278,6 +12742,8 @@
     {
         "team_id": "ks/almena/northern-valley-huskies/basketball/girls",
         "team_name": "Northern Valley Huskies",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12331,6 +12797,8 @@
     {
         "team_id": "ks/wichita/northwest-grizzlies/basketball/girls",
         "team_name": "Northwest Grizzlies",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12384,11 +12852,13 @@
     {
         "team_id": "ks/norton/norton-bluejays/basketball/girls",
         "team_name": "Norton Bluejays",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 15,
+        "total_games_scheduled": 16,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -12437,6 +12907,8 @@
     {
         "team_id": "ks/norwich/norwich-eagles/basketball/girls",
         "team_name": "Norwich Eagles",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12490,6 +12962,8 @@
     {
         "team_id": "ks/oakley/oakley-plainsmen/basketball/girls",
         "team_name": "Oakley Plainsmen",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12543,6 +13017,8 @@
     {
         "team_id": "ks/olathe/olathe-east-hawks/basketball/girls",
         "team_name": "Olathe East Hawks",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12596,6 +13072,8 @@
     {
         "team_id": "ks/olathe/olathe-north-eagles/basketball/girls",
         "team_name": "Olathe North Eagles",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12649,6 +13127,8 @@
     {
         "team_id": "ks/olathe/olathe-northwest-ravens/basketball/girls",
         "team_name": "Olathe Northwest Ravens",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12702,6 +13182,8 @@
     {
         "team_id": "ks/olathe/olathe-south-falcons/basketball/girls",
         "team_name": "Olathe South Falcons",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12755,6 +13237,8 @@
     {
         "team_id": "ks/olathe/olathe-west-owls/basketball/girls",
         "team_name": "Olathe West Owls",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12808,6 +13292,8 @@
     {
         "team_id": "ks/olpe/olpe-eagles/basketball/girls",
         "team_name": "Olpe Eagles",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12861,6 +13347,8 @@
     {
         "team_id": "ks/onaga/onaga-buffaloes/basketball/girls",
         "team_name": "Onaga Buffaloes",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12914,6 +13402,8 @@
     {
         "team_id": "ks/osage-city/osage-city-indians/basketball/girls",
         "team_name": "Osage City Indians",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -12967,6 +13457,8 @@
     {
         "team_id": "ks/osawatomie/osawatomie-trojans/basketball/girls",
         "team_name": "Osawatomie Trojans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13020,6 +13512,8 @@
     {
         "team_id": "ks/osborne/osborne-bulldogs/basketball/girls",
         "team_name": "Osborne Bulldogs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13073,6 +13567,8 @@
     {
         "team_id": "ks/oskaloosa/oskaloosa-bears/basketball/girls",
         "team_name": "Oskaloosa Bears",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13126,6 +13622,8 @@
     {
         "team_id": "ks/oswego/oswego-indians/basketball/girls",
         "team_name": "Oswego Indians",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13179,6 +13677,8 @@
     {
         "team_id": "ks/otis/otis-bison-cougars/basketball/girls",
         "team_name": "Otis Bison Cougars",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13232,6 +13732,8 @@
     {
         "team_id": "ks/ottawa/ottawa-cyclones/basketball/girls",
         "team_name": "Ottawa Cyclones",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13285,6 +13787,8 @@
     {
         "team_id": "ks/oxford/oxford-wildcats/basketball/girls",
         "team_name": "Oxford Wildcats",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13338,6 +13842,8 @@
     {
         "team_id": "ks/paola/paola-panthers/basketball/girls",
         "team_name": "Paola Panthers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13391,11 +13897,13 @@
     {
         "team_id": "ks/parsons/parsons-vikings/basketball/girls",
         "team_name": "Parsons Vikings",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 7,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -13444,6 +13952,8 @@
     {
         "team_id": "ks/rozel/pawnee-heights-tigers/basketball/girls",
         "team_name": "Pawnee Heights Tigers",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13497,6 +14007,8 @@
     {
         "team_id": "ks/peabody/peabody-burns-warriors/basketball/girls",
         "team_name": "Peabody Burns Warriors",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13550,6 +14062,8 @@
     {
         "team_id": "ks/perry/perry-lecompton-kaws/basketball/girls",
         "team_name": "Perry Lecompton Kaws",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13603,6 +14117,8 @@
     {
         "team_id": "ks/phillipsburg/phillipsburg-panthers/basketball/girls",
         "team_name": "Phillipsburg Panthers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13656,6 +14172,8 @@
     {
         "team_id": "ks/scandia/pike-valley-panthers/basketball/girls",
         "team_name": "Pike Valley Panthers",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13709,6 +14227,8 @@
     {
         "team_id": "ks/kansas-city/piper-pirates/basketball/girls",
         "team_name": "Piper Pirates",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13762,6 +14282,8 @@
     {
         "team_id": "ks/pittsburg/pittsburg-purple-dragons/basketball/girls",
         "team_name": "Pittsburg Purple Dragons",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13815,6 +14337,8 @@
     {
         "team_id": "ks/plainville/plainville-cardinals/basketball/girls",
         "team_name": "Plainville Cardinals",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13868,11 +14392,13 @@
     {
         "team_id": "ks/easton/pleasant-ridge-rams/basketball/girls",
         "team_name": "Pleasant Ridge Rams",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 17,
+        "total_games_scheduled": 19,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -13921,6 +14447,8 @@
     {
         "team_id": "ks/pleasanton/pleasanton-blue-jays/basketball/girls",
         "team_name": "Pleasanton Blue Jays",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -13974,6 +14502,8 @@
     {
         "team_id": "ks/la-cygne/prairie-view-buffalos/basketball/girls",
         "team_name": "Prairie View Buffalos",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14027,6 +14557,8 @@
     {
         "team_id": "ks/pratt/pratt-fighting-frogs/basketball/girls",
         "team_name": "Pratt Fighting Frogs",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14080,6 +14612,8 @@
     {
         "team_id": "ks/pretty-prairie/pretty-prairie-bulldogs/basketball/girls",
         "team_name": "Pretty Prairie Bulldogs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14133,6 +14667,8 @@
     {
         "team_id": "ks/quinter/quinter-bulldogs/basketball/girls",
         "team_name": "Quinter Bulldogs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14186,6 +14722,8 @@
     {
         "team_id": "ks/atwood/rawlins-county-buffalos/basketball/girls",
         "team_name": "Rawlins County Buffalos",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14239,6 +14777,8 @@
     {
         "team_id": "ks/whitewater/remington-broncos/basketball/girls",
         "team_name": "Remington Broncos",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14292,6 +14832,8 @@
     {
         "team_id": "ks/hutchinson/reno-county-homeschool-sabres/basketball/girls",
         "team_name": "Reno County Homeschool Sabres",
+        "level": "KCAA AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14345,6 +14887,8 @@
     {
         "team_id": "ks/belleville/republic-county-buffaloes/basketball/girls",
         "team_name": "Republic County Buffaloes",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14398,6 +14942,8 @@
     {
         "team_id": "ks/riley/riley-county-falcons/basketball/girls",
         "team_name": "Riley County Falcons",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14451,11 +14997,13 @@
     {
         "team_id": "ks/wathena/riverside-wathena-elwood-cyclones/basketball/girls",
         "team_name": "Riverside Wathena Elwood Cyclones",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 12,
+        "total_games_scheduled": 14,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -14504,6 +15052,8 @@
     {
         "team_id": "ks/riverton/riverton-rams/basketball/girls",
         "team_name": "Riverton Rams",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14557,6 +15107,8 @@
     {
         "team_id": "ks/st-george/rock-creek-mustangs/basketball/girls",
         "team_name": "Rock Creek Mustangs",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14610,6 +15162,8 @@
     {
         "team_id": "ks/mankato/rock-hills-grizzlies/basketball/girls",
         "team_name": "Rock Hills Grizzlies",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14663,6 +15217,8 @@
     {
         "team_id": "ks/rolla/rolla-pirates/basketball/girls",
         "team_name": "Rolla Pirates",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14716,6 +15272,8 @@
     {
         "team_id": "ks/rose-hill/rose-hill-rockets/basketball/girls",
         "team_name": "Rose Hill Rockets",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14769,6 +15327,8 @@
     {
         "team_id": "ks/rossville/rossville-bulldogs/basketball/girls",
         "team_name": "Rossville Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14822,6 +15382,8 @@
     {
         "team_id": "ks/hoyt/royal-valley-panthers/basketball/girls",
         "team_name": "Royal Valley Panthers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14875,6 +15437,8 @@
     {
         "team_id": "ks/hope/rural-vista-hope-white-city-heat/basketball/girls",
         "team_name": "Rural Vista Hope White City Heat",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14928,6 +15492,8 @@
     {
         "team_id": "ks/russell/russell-broncos/basketball/girls",
         "team_name": "Russell Broncos",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -14981,6 +15547,8 @@
     {
         "team_id": "ks/sabetha/sabetha-bluejays/basketball/girls",
         "team_name": "Sabetha Bluejays",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15034,6 +15602,8 @@
     {
         "team_id": "ks/salina/sacred-heart-knights/basketball/girls",
         "team_name": "Sacred Heart Knights",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15087,6 +15657,8 @@
     {
         "team_id": "ks/overland-park/saint-thomas-aquinas-saints/basketball/girls",
         "team_name": "Saint Thomas Aquinas Saints",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15140,11 +15712,13 @@
     {
         "team_id": "ks/salina/salina-central-mustangs/basketball/girls",
         "team_name": "Salina Central Mustangs",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 1,
-        "total_games_scheduled": 10,
+        "total_games_scheduled": 12,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -15193,6 +15767,8 @@
     {
         "team_id": "ks/salina/salina-south-cougars/basketball/girls",
         "team_name": "Salina South Cougars",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15246,6 +15822,8 @@
     {
         "team_id": "ks/carbondale/santa-fe-trail-chargers/basketball/girls",
         "team_name": "Santa Fe Trail Chargers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15299,11 +15877,13 @@
     {
         "team_id": "ks/satanta/satanta-indians/basketball/girls",
         "team_name": "Satanta Indians",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 10,
+        "total_games_scheduled": 11,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -15352,6 +15932,8 @@
     {
         "team_id": "ks/kansas-city/schlagle-stallions/basketball/girls",
         "team_name": "Schlagle",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15405,6 +15987,8 @@
     {
         "team_id": "ks/kansas-city/schlagle-washington-stallions/basketball/girls",
         "team_name": "Schlagle Washington Stallions",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15458,6 +16042,8 @@
     {
         "team_id": "ks/scott-city/scott-beavers/basketball/girls",
         "team_name": "Scott Beavers",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15511,6 +16097,8 @@
     {
         "team_id": "ks/topeka/seaman-vikings/basketball/girls",
         "team_name": "Seaman Vikings",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15564,6 +16152,8 @@
     {
         "team_id": "ks/sedan/sedan-devils/basketball/girls",
         "team_name": "Sedan Devils",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15617,6 +16207,8 @@
     {
         "team_id": "ks/sedgwick/sedgwick-cardinals/basketball/girls",
         "team_name": "Sedgwick Cardinals",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15670,6 +16262,8 @@
     {
         "team_id": "ks/tecumseh/shawnee-heights-thunderbirds/basketball/girls",
         "team_name": "Shawnee Heights Thunderbirds",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15723,6 +16317,8 @@
     {
         "team_id": "ks/shawnee-mission/shawnee-mission-east-lancers/basketball/girls",
         "team_name": "Shawnee Mission East Lancers",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15776,6 +16372,8 @@
     {
         "team_id": "ks/shawnee-mission/shawnee-mission-north-bison/basketball/girls",
         "team_name": "Shawnee Mission North Bison",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15829,6 +16427,8 @@
     {
         "team_id": "ks/shawnee-mission/shawnee-mission-northwest-cougars/basketball/girls",
         "team_name": "Shawnee Mission Northwest Cougars",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15882,6 +16482,8 @@
     {
         "team_id": "ks/shawnee-mission/shawnee-mission-south-raiders/basketball/girls",
         "team_name": "Shawnee Mission South Raiders",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15935,6 +16537,8 @@
     {
         "team_id": "ks/shawnee-mission/shawnee-mission-west-vikings/basketball/girls",
         "team_name": "Shawnee Mission West Vikings",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -15988,6 +16592,8 @@
     {
         "team_id": "ks/silver-lake/silver-lake-eagles/basketball/girls",
         "team_name": "Silver Lake Eagles",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16041,11 +16647,13 @@
     {
         "team_id": "ks/pratt/skyline-thunderbirds/basketball/girls",
         "team_name": "Skyline Thunderbirds",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 6,
+        "total_games_scheduled": 7,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -16094,6 +16702,8 @@
     {
         "team_id": "ks/smith-center/smith-center-redmen/basketball/girls",
         "team_name": "Smith Center Redmen",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16147,6 +16757,8 @@
     {
         "team_id": "ks/salina/smoky-valley-home-educators/basketball/girls",
         "team_name": "Smoky Valley Home Educators",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16200,6 +16812,8 @@
     {
         "team_id": "ks/lindsborg/smoky-valley-vikings/basketball/girls",
         "team_name": "Smoky Valley Vikings",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16253,6 +16867,8 @@
     {
         "team_id": "ks/solomon/solomon-gorillas/basketball/girls",
         "team_name": "Solomon Gorillas",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16306,6 +16922,8 @@
     {
         "team_id": "ks/kiowa/south-barber-chieftains/basketball/girls",
         "team_name": "South Barber Chieftains",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16359,11 +16977,13 @@
     {
         "team_id": "ks/coldwater/south-central-timberwolves/basketball/girls",
         "team_name": "South Central Timberwolves",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 9,
+        "total_games_scheduled": 16,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -16412,11 +17032,13 @@
     {
         "team_id": "ks/montezuma/south-gray-rebels/basketball/girls",
         "team_name": "South Gray Rebels",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 14,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -16465,6 +17087,8 @@
     {
         "team_id": "ks/south-haven/south-haven-cardinals/basketball/girls",
         "team_name": "South Haven Cardinals",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16518,6 +17142,8 @@
     {
         "team_id": "ks/wichita/south-titans/basketball/girls",
         "team_name": "South Titans",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16571,6 +17197,8 @@
     {
         "team_id": "ks/wichita/southeast-golden-buffaloes/basketball/girls",
         "team_name": "Southeast Golden Buffaloes",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16624,6 +17252,8 @@
     {
         "team_id": "ks/cherokee/southeast-lancers/basketball/girls",
         "team_name": "Southeast Lancers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16677,6 +17307,8 @@
     {
         "team_id": "ks/gypsum/southeast-of-saline-trojans/basketball/girls",
         "team_name": "Southeast Of Saline Trojans",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16730,6 +17362,8 @@
     {
         "team_id": "ks/leroy/southern-coffey-county-titans/basketball/girls",
         "team_name": "Southern Coffey County Titans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16783,11 +17417,13 @@
     {
         "team_id": "ks/kismet/southwestern-heights-mustangs/basketball/girls",
         "team_name": "Southwestern Heights Mustangs",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 14,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -16836,6 +17472,8 @@
     {
         "team_id": "ks/spearville/spearville-royal-lancers/basketball/girls",
         "team_name": "Spearville Royal Lancers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16889,6 +17527,8 @@
     {
         "team_id": "ks/spring-hill/spring-hill-broncos/basketball/girls",
         "team_name": "Spring Hill Broncos",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16942,6 +17582,8 @@
     {
         "team_id": "ks/st-francis/st-francis-indians/basketball/girls",
         "team_name": "St Francis Indians",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -16995,6 +17637,8 @@
     {
         "team_id": "ks/lenexa/st-james-academy-thunder/basketball/girls",
         "team_name": "St James Academy Thunder",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17048,6 +17692,8 @@
     {
         "team_id": "ks/st-john/st-john-tigers/basketball/girls",
         "team_name": "St John Tigers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17101,6 +17747,8 @@
     {
         "team_id": "ks/beloit/st-johns-tipton-catholic-blujays/basketball/girls",
         "team_name": "St Johns Tipton Catholic Blujays",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17154,6 +17802,8 @@
     {
         "team_id": "ks/st-marys/st-marys-bears/basketball/girls",
         "team_name": "St Marys Bears",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17207,6 +17857,8 @@
     {
         "team_id": "ks/pittsburg/st-marys-colgan-panthers/basketball/girls",
         "team_name": "St Marys Colgan Panthers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17260,6 +17912,8 @@
     {
         "team_id": "ks/st-paul/st-paul-indians/basketball/girls",
         "team_name": "St Paul Indians",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17313,6 +17967,8 @@
     {
         "team_id": "ks/stafford/stafford-trojans/basketball/girls",
         "team_name": "Stafford Trojans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17366,6 +18022,8 @@
     {
         "team_id": "ks/johnson/stanton-county-trojans/basketball/girls",
         "team_name": "Stanton County Trojans",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17419,6 +18077,8 @@
     {
         "team_id": "ks/sterling/sterling-black-bears/basketball/girls",
         "team_name": "Sterling Black Bears",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17472,6 +18132,8 @@
     {
         "team_id": "ks/stockton/stockton-tigers/basketball/girls",
         "team_name": "Stockton Tigers",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17525,6 +18187,8 @@
     {
         "team_id": "ks/sublette/sublette-larks/basketball/girls",
         "team_name": "Sublette Larks",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17578,6 +18242,8 @@
     {
         "team_id": "ks/kansas-city/sumner-academy-sabres/basketball/girls",
         "team_name": "Sumner Academy Sabres",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17631,6 +18297,8 @@
     {
         "team_id": "ks/sylvan-grove/sylvan-lucas-mustangs/basketball/girls",
         "team_name": "Sylvan Lucas Mustangs",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17684,6 +18352,8 @@
     {
         "team_id": "ks/syracuse/syracuse-bulldogs/basketball/girls",
         "team_name": "Syracuse Bulldogs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17737,6 +18407,8 @@
     {
         "team_id": "ks/tescott/tescott-trojans/basketball/girls",
         "team_name": "Tescott Trojans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17790,6 +18462,8 @@
     {
         "team_id": "ks/hays/thomas-more-prep-marian-monarchs/basketball/girls",
         "team_name": "Thomas More Prep Marian Monarchs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17843,6 +18517,8 @@
     {
         "team_id": "ks/kensington/thunder-ridge-longhorns/basketball/girls",
         "team_name": "Thunder Ridge Longhorns",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17896,6 +18572,8 @@
     {
         "team_id": "ks/tonganoxie/tonganoxie-chieftains/basketball/girls",
         "team_name": "Tonganoxie Chieftains",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -17949,6 +18627,8 @@
     {
         "team_id": "ks/topeka/topeka-trojans/basketball/girls",
         "team_name": "Topeka Trojans",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18002,6 +18682,8 @@
     {
         "team_id": "ks/wakeeney/trego-golden-eagles/basketball/girls",
         "team_name": "Trego Golden Eagles",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18055,6 +18737,8 @@
     {
         "team_id": "ks/wichita/trinity-academy-knights/basketball/girls",
         "team_name": "Trinity Academy Knights",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18108,6 +18792,8 @@
     {
         "team_id": "ks/hutchinson/trinity-celtics/basketball/girls",
         "team_name": "Trinity Celtics",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18161,6 +18847,8 @@
     {
         "team_id": "ks/brewster/triplains-brewster-titans/basketball/girls",
         "team_name": "Triplains Brewster Titans",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18214,6 +18902,8 @@
     {
         "team_id": "ks/winona/triplains-vikings/basketball/girls",
         "team_name": "Triplains Vikings",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18267,6 +18957,8 @@
     {
         "team_id": "ks/troy/troy-trojans/basketball/girls",
         "team_name": "Troy Trojans",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18320,6 +19012,8 @@
     {
         "team_id": "ks/kansas-city/turner-golden-bears/basketball/girls",
         "team_name": "Turner Golden Bears",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18373,6 +19067,8 @@
     {
         "team_id": "ks/tyro/tyro-christian-eagles/basketball/girls",
         "team_name": "Tyro Christian Eagles",
+        "level": "KCAA A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18426,11 +19122,13 @@
     {
         "team_id": "ks/udall/udall-eagles/basketball/girls",
         "team_name": "Udall Eagles",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 16,
+        "total_games_scheduled": 15,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -18479,11 +19177,13 @@
     {
         "team_id": "ks/ulysses/ulysses-tigers/basketball/girls",
         "team_name": "Ulysses Tigers",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 13,
+        "total_games_scheduled": 14,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -18532,6 +19232,8 @@
     {
         "team_id": "ks/uniontown/uniontown-eagles/basketball/girls",
         "team_name": "Uniontown Eagles",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18585,6 +19287,8 @@
     {
         "team_id": "ks/valley-center/valley-center-hornets/basketball/girls",
         "team_name": "Valley Center Hornets",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18638,6 +19342,8 @@
     {
         "team_id": "ks/valley-falls/valley-falls-dragons/basketball/girls",
         "team_name": "Valley Falls Dragons",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18691,6 +19397,8 @@
     {
         "team_id": "ks/blue-rapids/valley-heights-mustangs/basketball/girls",
         "team_name": "Valley Heights Mustangs",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18744,6 +19452,8 @@
     {
         "team_id": "ks/lawrence/veritas-christian-eagles/basketball/girls",
         "team_name": "Veritas Christian Eagles",
+        "level": "KCAA AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18797,6 +19507,8 @@
     {
         "team_id": "ks/victoria/victoria-knights/basketball/girls",
         "team_name": "Victoria Knights",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18850,6 +19562,8 @@
     {
         "team_id": "ks/alma/wabaunsee-chargers/basketball/girls",
         "team_name": "Wabaunsee Chargers",
+        "level": "1A I",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18903,6 +19617,8 @@
     {
         "team_id": "ks/wakefield/wakefield-bombers/basketball/girls",
         "team_name": "Wakefield Bombers",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -18956,6 +19672,8 @@
     {
         "team_id": "ks/sharon-springs/wallace-county-wildcats/basketball/girls",
         "team_name": "Wallace County Wildcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19009,6 +19727,8 @@
     {
         "team_id": "ks/wamego/wamego-red-raiders/basketball/girls",
         "team_name": "Wamego Red Raiders",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19062,6 +19782,8 @@
     {
         "team_id": "ks/topeka/washburn-rural-jr-blues/basketball/girls",
         "team_name": "Washburn Rural Jr Blues",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19115,6 +19837,8 @@
     {
         "team_id": "ks/washington/washington-county-tigers/basketball/girls",
         "team_name": "Washington County Tigers",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19168,6 +19892,8 @@
     {
         "team_id": "ks/kansas-city/washington-wildcats/basketball/girls",
         "team_name": "Washington Wildcats",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19221,6 +19947,8 @@
     {
         "team_id": "ks/waverly/waverly-bulldogs/basketball/girls",
         "team_name": "Waverly Bulldogs",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19274,6 +20002,8 @@
     {
         "team_id": "ks/wellington/wellington-crusaders/basketball/girls",
         "team_name": "Wellington Crusaders",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19327,6 +20057,8 @@
     {
         "team_id": "ks/wellsville/wellsville-eagles/basketball/girls",
         "team_name": "Wellsville Eagles",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19380,6 +20112,8 @@
     {
         "team_id": "ks/weskan/weskan-coyotes/basketball/girls",
         "team_name": "Weskan Coyotes",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19433,6 +20167,8 @@
     {
         "team_id": "ks/topeka/west-chargers/basketball/girls",
         "team_name": "West Chargers",
+        "level": "5A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19486,11 +20222,13 @@
     {
         "team_id": "ks/howard/west-elk-patriots/basketball/girls",
         "team_name": "West Elk Patriots",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
         "TotalGamesChecked": 0,
-        "total_games_scheduled": 5,
+        "total_games_scheduled": 6,
         "MPG": 0.0,
         "PPG": 0.0,
         "DEFR": 0.0,
@@ -19539,6 +20277,8 @@
     {
         "team_id": "ks/pomona/west-franklin-falcons/basketball/girls",
         "team_name": "West Franklin Falcons",
+        "level": "3A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19592,6 +20332,8 @@
     {
         "team_id": "ks/wichita/west-pioneers/basketball/girls",
         "team_name": "West Pioneers",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19645,6 +20387,8 @@
     {
         "team_id": "ks/ransom/western-plains-bobcats/basketball/girls",
         "team_name": "Western Plains Bobcats",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19698,6 +20442,8 @@
     {
         "team_id": "ks/grainfield/wheatland-grinnell-shockers/basketball/girls",
         "team_name": "Wheatland Grinnell Shockers",
+        "level": "1A II",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19751,6 +20497,8 @@
     {
         "team_id": "ks/leoti/wichita-county-indians/basketball/girls",
         "team_name": "Wichita County Indians",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19804,10 +20552,12 @@
     {
         "team_id": "ks/wichita/wichita-defenders-homeschool-defenders/basketball/girls",
         "team_name": "Wichita Defenders Homeschool Defenders",
+        "level": null,
+        "level_source": "none",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
-        "TotalGamesChecked": 0,
+        "TotalGamesChecked": 1,
         "total_games_scheduled": 3,
         "MPG": 0.0,
         "PPG": 0.0,
@@ -19857,6 +20607,8 @@
     {
         "team_id": "ks/wichita/wichita-homeschool-warriors/basketball/girls",
         "team_name": "Wichita Homeschool Warriors",
+        "level": "KCAA AA",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19910,6 +20662,8 @@
     {
         "team_id": "ks/winfield/winfield-vikings/basketball/girls",
         "team_name": "Winfield Vikings",
+        "level": "4A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -19963,6 +20717,8 @@
     {
         "team_id": "ks/kansas-city/wyandotte-bulldogs/basketball/girls",
         "team_name": "Wyandotte Bulldogs",
+        "level": "6A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
@@ -20016,6 +20772,8 @@
     {
         "team_id": "ks/yates-center/yates-center-wildcats/basketball/girls",
         "team_name": "Yates Center Wildcats",
+        "level": "2A",
+        "level_source": "state_division",
         "record_type": "team_total",
         "Name": "Season Totals",
         "GP": 0,
