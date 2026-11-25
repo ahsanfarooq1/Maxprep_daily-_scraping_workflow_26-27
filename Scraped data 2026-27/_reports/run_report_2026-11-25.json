@@ -1,9 +1,7 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25 10:27:11 UTC",
- "regressions": [
-  "Wisconsin/Final_wi_accumulated_girls_26_27.json: team_records went down 513 -> 512"
- ],
+ "generated_at": "2026-11-25 15:21:42 UTC",
+ "regressions": [],
  "final_files": 48,
  "states_sports": {
   "AL_boys": {
